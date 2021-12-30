@@ -111,9 +111,10 @@ function GenerateRules() {
         adguardhome)
             domestic_dns=(
                 "https://doh.pub:443/dns-query"
+                "https://223.5.5.5:443/dns-query"
             )
             foreign_dns=(
-                "https://doh.opendns.com:443/dns-query"
+                "https://dns.google:443/dns-query"
             )
             function GenerateRulesHeader() {
                 echo -n "[/" >> "${file_path}"
