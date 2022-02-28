@@ -5591,7 +5591,6 @@ bbs.cdbook.org
 bbs.ecstart.com
 bbs.fallenark.com
 bbs.foryou1.cf
-bbs.gao96.com
 bbs.gudicn.com
 bbs.hanminzu.org
 bbs.hasi.wang
@@ -7576,7 +7575,6 @@ buyu870.com
 buyu872.com
 buyu873.com
 buyu875.com
-buyu876.com
 buyu877.com
 buyu878.com
 buyu8833.com
@@ -9104,7 +9102,6 @@ cn.thegay.com
 cn.timesofisrael.com
 cn.uncyclopedia.wikia.com
 cn.uptodown.com
-cn.venetianmacau.com
 cn.voa.mobi
 cn.yahoo.com
 cn1069.org
@@ -14878,7 +14875,6 @@ gannett-cdn.com
 gannett.com
 gannettdigital.com
 ganttproject.biz
-gao96.com
 gaoloumi.cc
 gaoming.net
 gaoyixue.com
@@ -25648,7 +25644,6 @@ ponyking.com
 ponz.me
 poofreesky.gq
 poojaescorts.in
-pool.ntp.org
 poolwo.com
 poow.ga
 pop.com.br
@@ -32227,7 +32222,6 @@ venchina.com
 vending24.weebly.com
 vendu.com
 venetianmacao.com
-venetianmacau.com
 venmo-touch.com
 venmo.com
 venmo.info
