@@ -1470,6 +1470,7 @@
 4.shop.tm
 40030d.com
 40066hg.com
+4008851718.com
 400ks.com
 4022011.com
 40220c.com
@@ -9307,7 +9308,6 @@ com.es
 com.et
 com.fj
 com.gh
-com.gi
 com.google
 com.gr
 com.gt
@@ -20700,6 +20700,7 @@ logme.in
 logmein.com
 logos.com.hk
 logular.com
+loixtv.com
 lol-europe.com
 lolclub.org
 lolespor.com
@@ -24220,6 +24221,7 @@ oktube.net
 oktvusa.com
 oktw.6te.net
 okvpn.cn
+okx.com
 okxav.com
 olabloga.pl
 olcl.com
@@ -26611,7 +26613,6 @@ rame.net
 ramma.net
 randomazon.com
 randyblue.com
-rangcui.net
 rangwang.biz
 rangzen.com
 rangzen.net
