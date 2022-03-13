@@ -1340,7 +1340,6 @@
 3603765.com
 36060555.com
 362665.com
-3630573.com
 3630685.com
 3637.com
 365-588.com
@@ -7644,6 +7643,7 @@ bynet.co.il
 bypass.pw
 bypasscensorship.org
 bypasskey.com
+byrut.org
 byspotify.com
 byt0022.com
 byt020.com
@@ -20238,6 +20238,7 @@ level-plus.net
 levels.io
 leviathyn.com
 levote68.net
+levyhsu.com
 lewrockwell.com
 lex.idv.tw
 lexisnexis.com
@@ -27130,6 +27131,7 @@ rusvpn.com
 ruten.com.tw
 rutnerspazzacamino.ch
 rutor.org
+rutracker.net
 rutube.ru
 ruvpn.top
 ruyiseek.com
