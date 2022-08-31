@@ -9558,7 +9558,6 @@ cn.akinator.mobi
 cn.bigshorts.tv
 cn.bongacams.sexy
 cn.caserandom.com
-cn.com
 cn.dayabook.com
 cn.depositphotos.com
 cn.ec21.com
@@ -18290,6 +18289,7 @@ hostei.com
 hostens.com
 hostingbulk.com
 hostingerapp.com
+hostloc.com
 hosts.huhamhire.com
 hoststool.net
 hostux.net
@@ -32550,6 +32550,7 @@ tenacy.com
 tenacy.home.kg
 tenacy.link
 tenbyfotolia.com
+tencent.co.id
 tender88.com
 tenderfield.com.au
 tengbo103.com
