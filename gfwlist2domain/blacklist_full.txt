@@ -4531,10 +4531,17 @@ aopshc.com
 aorus.com
 aosintegrity.com
 aouwe.com
+ap-bangkok.myqcloud.com
+ap-hongkong.myqcloud.com
+ap-jakarta.myqcloud.com
+ap-mumbai.myqcloud.com
 ap-northeast-1.console.aws.amazon.com
+ap-seoul.myqcloud.com
+ap-singapore.myqcloud.com
 ap-southeast-1.myhuaweicloud.com
 ap-southeast-2.myhuaweicloud.com
 ap-southeast-3.myhuaweicloud.com
+ap-tokyo.myqcloud.com
 ap.org
 ap0le.com
 ap2.googleusercontent.com
@@ -8178,6 +8185,7 @@ c9998.com
 c9h1ess.com
 ca-desktop-premium.zenmateuser.com
 ca.etitrans.com
+ca.file.myqcloud.com
 ca.gov
 ca.ms.justdied.com
 ca.newfreevpn.com
@@ -10045,7 +10053,10 @@ cortanaskills.com
 cortexrpg.com
 corumcollege.com
 cos-moe.com
+cosca.myqcloud.com
 cosersuki.net
+cosger.myqcloud.com
+coshk.myqcloud.com
 cosmic.monar.ch
 cosmosdb.info
 cosmosdb.net
@@ -10053,6 +10064,7 @@ cosplay-jav.com
 cosplaybutts.com
 cosplayjav.pl
 cosplayporntube.com
+cossgp.myqcloud.com
 costco-static.com
 costco.com
 costcobusinessdelivery.com
@@ -13007,6 +13019,7 @@ eesti.ee
 eevpn.com
 efcc.org.hk
 eff.org
+effecthub.com
 effers.com
 effies.com
 efhc.mx
@@ -13506,6 +13519,8 @@ etviet.com
 etvonline.hk
 etwealth.com
 eu-consumer-empowerment.com
+eu-frankfurt.myqcloud.com
+eu-moscow.myqcloud.com
 eu-ssa.org
 eu-west-0.myhuaweicloud.com
 eu-west-1.console.aws.amazon.com
@@ -16053,6 +16068,7 @@ geotrust.com
 geph.io
 geppeivpn.asia
 gequ888.com
+ger.file.myqcloud.com
 geraldoatlarge.com
 gerefoundation.org
 german-proxy.de
@@ -17998,6 +18014,7 @@ hk-pub.com
 hk.32-b.it
 hk.c.cloudss.pw
 hk.dictionary.yahoo.com
+hk.file.myqcloud.com
 hk.finance.yahoo.com
 hk.frienddy.com
 hk.geocities.com
@@ -24683,8 +24700,11 @@ n8fwn9fwe.azurewebsites.net
 n8photos.com
 n9887.com
 n9919.com
+na-ashburn.myqcloud.com
 na-att-idns.net
 na-mexico-1.myhuaweicloud.com
+na-siliconvalley.myqcloud.com
+na-toronto.myqcloud.com
 na.ddns.name
 na.kalone.net
 na.tl
@@ -29555,6 +29575,7 @@ s8forum.com
 s99bet.com
 s99bet.net
 sa-brazil-1.myhuaweicloud.com
+sa-saopaulo.myqcloud.com
 sa.com
 sa.hao123.com
 sa36.net
@@ -30353,6 +30374,7 @@ sg9097.com
 sgapi00.com
 sgforums.com
 sgod.ga
+sgp.file.myqcloud.com
 sgp1.fun
 sgreenvpn.com
 sgtsourcing.box.com
