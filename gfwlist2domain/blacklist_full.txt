@@ -28422,6 +28422,7 @@ puuko.com
 pvp.im
 pvp.net
 pvp.tv
+pvr-hamivideo.cdn.hinet.net
 pvt.sexy
 pvue1.com
 pvue2.com
@@ -33968,6 +33969,7 @@ tvbrrr.com
 tvbs.com.tw
 tvbusa.com
 tvbweekly.com
+tvcastlive-hamivideo.cdn.hinet.net
 tvd.azureedge.net
 tvguide.club
 tvider.com
