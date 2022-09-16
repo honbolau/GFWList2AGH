@@ -9780,6 +9780,7 @@ coinexchange.io
 coinf.com.mx
 coingecko.com
 coingi.com
+coinglass.com
 coinic.com
 coinmarketcap.com
 coinonecore.com
@@ -10226,6 +10227,7 @@ crwdcntrl.net
 cryptocat.com
 cryptocert.org
 cryptocoinsnews.com
+cryptocompare.com
 cryptocurrencytalk.com
 cryptographyengineering.com
 cryptomeans.co
@@ -11358,6 +11360,7 @@ deaobni15v34x.cloudfront.net
 dearelder.com
 deasians.com
 deathbychina.com
+debank.com
 debate.org
 debian.org
 debug.com
@@ -24664,6 +24667,7 @@ mythicentertainment.com
 mythicentertainment.net
 mythicgames.com
 mytizi.com
+mytokenapi.com
 mytubeweb.com
 mytuitui.com
 mytving.com
@@ -33711,6 +33715,7 @@ trueanal.com
 truebuddha-md.org
 truebuddha.se
 truedepth3d.com
+truefi.io
 truenas.com
 truesocial.media
 trulyergonomic.com
@@ -34168,8 +34173,10 @@ twitter.fr
 twitter.jp
 twitter.org
 twitter4j.org
+twittercommunity.com
 twittercounter.com
 twitterfeed.com
+twitterflightschool.com
 twittergadget.com
 twitterinc.com
 twitterkr.com
