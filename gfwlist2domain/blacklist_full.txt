@@ -10002,6 +10002,7 @@ com.eg
 com.et
 com.fj
 com.gh
+com.gi
 com.google
 com.gr
 com.gt
