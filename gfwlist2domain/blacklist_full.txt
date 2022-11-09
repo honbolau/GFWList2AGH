@@ -18133,6 +18133,7 @@ heryan.web.id
 hetzner.cloud
 hetzner.com
 heungkongdiscuss.com
+hex.pm
 hex.win
 hexatechvpn.com
 hexieshe.com
