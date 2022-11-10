@@ -9389,7 +9389,6 @@
 9coc.com
 9conn.net
 9cp.cn
-9cts.com
 9cwx.com
 9d19.com
 9d4d.com
@@ -19896,7 +19895,6 @@ cctv18.com
 cctv1zhibo.com
 cctv4g.com
 cctv886.com
-cctvcaizhi.com
 cctvcdn.net
 cctvcj.com
 cctvcnch5ca.v.wscdns.com
@@ -29880,6 +29878,7 @@ douyi.com
 douyin.com
 douyincdn.com
 douyinec.com
+douyinliving.com
 douyinpic.com
 douyinstatic.com
 douyinvideo.net
@@ -39136,6 +39135,7 @@ gzsy07.com
 gzszgas.com
 gztaiyou.com
 gztcdj.com
+gztclwx.net
 gztfgame.com
 gzthrc.com
 gztlbm.com
@@ -39883,7 +39883,6 @@ haofajz.com
 haofan005.com
 haofanben.com
 haofang.net
-haofang365.com
 haofang5.com
 haofangkankan.com
 haofangyuan.net
@@ -49051,6 +49050,7 @@ jindun007.net
 jindunfan.com
 jinduoduo.net
 jinenrunze.com
+jinet.org
 jinfangka.com
 jinfantongyici.com
 jinfengkou.com
@@ -54828,7 +54828,6 @@ linjiedg.com
 linjin.net
 linjunet.com
 linjunlong.com
-linjuyihao.com
 link-jdsx01.netease.im
 link.00oo00.com
 link.17173.com
@@ -59745,7 +59744,6 @@ mmyfilm.com
 mmzh.com
 mn-soft.com
 mn.aty.sohu.com
-mn21.com
 mnancheng.com
 mnbvtgv.com
 mndqlib.net
@@ -60270,6 +60268,7 @@ movie.douban.com
 movie.hupu.com
 movie.youku.com
 moviemore.com
+moviereviewtoday.com
 movit-tech.com
 mowan123.com
 mowowo.com
@@ -60457,6 +60456,7 @@ mscbsc.com
 msch.f.360.cn
 mschcdn.com
 msclick2.kuwo.cn
+mscodecloud.com
 mscto.com
 msddp.com
 msdn.itellyou.cn
@@ -66139,6 +66139,7 @@ pig66.com
 pigai.org
 pigcms.com
 pigeon.sina.cn
+pigji.com
 pigjian.com
 pigqq.com
 pigvideo.cn
@@ -79637,7 +79638,6 @@ szputy.com
 szpxe.com
 szqcz.com
 szqf.org
-szqgzx.com
 szqhbs.cn
 szqianbaidun.com
 szqinxindz.com
@@ -80932,7 +80932,6 @@ tender-bucket.oss-cn-beijing.aliyuncs.com.gds.alibabadns.com
 tendis.net
 tendyron.com
 tenganxinxi.com
-tengattack.com
 tengbai-it.com
 tengbo.cc
 tengchu.com
@@ -84235,7 +84234,6 @@ ucsec.ucweb.com
 ucsec1.ucweb.com
 ucss.ninja
 uctrac.com
-uctxt.com
 ucun.tech
 ucuuc.com
 ucvgg.com
@@ -103850,7 +103848,6 @@ zgc-dsa.org
 zgcahpw.com
 zgcbank.com
 zgcbb.com
-zgcbzs.com
 zgcdcs.com
 zgcdiy.com
 zgchawang.com
@@ -105481,7 +105478,6 @@ zj2460.com
 zj31.net
 zj32.com
 zj339.com
-zj93zp.com
 zj96596.com
 zjabank.com
 zjaf.net
