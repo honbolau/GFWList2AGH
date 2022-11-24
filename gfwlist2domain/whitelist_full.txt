@@ -6632,7 +6632,6 @@
 607c0e0fba047c6b38b0a59cb8863920.v.smtcdns.net
 6080d.com
 6080j.com
-6080k.com
 6090b.com
 609452.shop.258.com
 609999.xyz
@@ -6992,6 +6991,7 @@
 69hpfx83.sched.s11t.tdnsv5.com
 69hr.com
 69jianzhi.com
+69mok.com
 69ps.com
 69shu.org
 69xiu.com
@@ -23302,7 +23302,6 @@ clyv5jqo.v1d.szbdyd.com
 clyv5jqr.v1d.szbdyd.com
 clz.me
 clzqlhj.com
-clzycld.com
 cm-10-133.getui.com
 cm-10-134.getui.com
 cm-10-135.getui.com
@@ -34955,6 +34954,7 @@ fly63.com
 flyco.com
 flycua.com
 flydigi.com
+flydiv.com
 flydog.club
 flyenglish.com
 flyert.com
@@ -36217,6 +36217,7 @@ gameitop.com
 gameiy.com
 gamejym.com
 gamekee.com
+gamekuaishou.com
 gamelauncher.samsung.com.cn
 gameley.com
 gameloop.com
@@ -51804,6 +51805,7 @@ kewail.com
 kexianggroup.com
 kexin001.com
 kexing100.com
+kexingchem.com
 kexinguoji.com
 kexinhaoma.org
 kexinshe.com
@@ -66243,7 +66245,6 @@ pingxuan123.com
 pingxx.com
 pingyao.baixing.com
 pingyin.cc
-pingyou.cc
 pinhaohuo.com
 pinhuba.com
 pinhui001.com
@@ -70751,6 +70752,7 @@ qygzbxpt.com
 qyham.com
 qyi.io
 qyiliao.com
+qyjks.com
 qyjnxh.com
 qyjpzx.com
 qyjzleh.cn
@@ -80554,7 +80556,6 @@ tcall-rtn-dispatch.cdn.qq.com
 tcbox.baidu.com
 tcbox.n.shifen.com
 tcc.so
-tccaijing.com
 tccgo.shop.258.com
 tcciod3.cachenode.cn
 tccqb.com
@@ -92324,7 +92325,6 @@ wy8.wang
 wyaoqing.com
 wyaq.com
 wybbao.com
-wybg666.com
 wybgs.com
 wyc1236.com
 wycanyin.com
@@ -92809,6 +92809,7 @@ xdgalaxy.com
 xdh0808.com
 xdhbs.com
 xdhcn.com
+xdiarys.com
 xdj-sz.com
 xdja.com
 xdjc.org
