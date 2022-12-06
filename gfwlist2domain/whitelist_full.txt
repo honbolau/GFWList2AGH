@@ -3588,6 +3588,7 @@
 3259.com
 326165f333e5d78c03f526835b379ccf.dlied1.cdntips.net
 3266585.b2b.jinanfa.cn
+326pay.com
 32800.com
 328f.com
 328vip.com
@@ -4844,7 +4845,6 @@
 4sscrm.com
 4th.rcv.sandai.net
 4thetooth.com
-4turewei.com
 4u4v.net
 4vidw8.tdum.alibaba.com
 4vxgrax3.sched.sma.tdnsv5.com
@@ -7414,7 +7414,6 @@
 76al.com
 76baobao.com
 76dongdong.com
-76e.org
 76ju.com
 76wu.com
 76xh.com
@@ -13546,6 +13545,7 @@ apk4399.com
 apk8.com
 apkevery.com
 apkgu.com
+apkpackagesys.com
 apkplug.com
 apkrj.com
 apkyx.com
@@ -13895,6 +13895,7 @@ apptao.com
 apptrack.cn
 apptrailers.itunes.apple.com
 apptrailers.itunes.g.aaplimg.com
+apptuxing.com
 apptv.w.inmobi.com
 appubang.com
 appublisher.com
@@ -24392,7 +24393,6 @@ cocosbcx.net
 cocostudio.org
 cocounion.com
 cocss.com
-coctotoo.com
 cocustomerservice.alipay-eco.com
 cod.southmoney.com
 codante.org
@@ -25281,7 +25281,6 @@ cqrc.net
 cqrcb.com
 cqs-drcn.emui.hicloud.com
 cqscmy.net
-cqshangceng.com
 cqshenou.com
 cqskl.com
 cqslib.org
@@ -27723,6 +27722,7 @@ ddsy.com
 ddt02.shenghao88.top
 ddtugame.com
 ddtv135.com
+ddtv137.com
 ddtxgame.com
 ddtz5.com
 ddun.com
@@ -27805,7 +27805,6 @@ dedesos.com
 dedeyun.com
 dedezhuji.com
 deehai.com
-deelplumbing.com
 deemob.com
 deemos.com
 deepano.com
@@ -40479,7 +40478,6 @@ hcgroup.com
 hch518.com
 hchbblg.com
 hchezhu.com
-hchfr.com
 hchlidc.com
 hchliot.com
 hcicloud.com
@@ -50383,7 +50381,6 @@ jssdk.cnzz.com
 jssdk.net
 jssdk.rayjump.com
 jssfx.com
-jssgw.com
 jsshow.net
 jssnrcb.com
 jsswordshop.com
@@ -55423,13 +55420,10 @@ lm.tv.sohu.com
 lm.web.xlisp.net
 lm1.tuliu.com
 lm1.wkpcw.cn
-lm213.com
 lm284.com
 lm335.com
 lm553.com
 lm685.com
-lm832.com
-lm865.com
 lm9999.com
 lmacc.com
 lmanmo.com
@@ -68269,6 +68263,7 @@ qcy.com
 qcymall.com
 qcyoung.com
 qczb.app
+qczj.xyz
 qd-metro.com
 qd-update.qq.com
 qd-weimob.com
@@ -70207,7 +70202,6 @@ quanzhanketang.com
 quanzhi.com
 quanzhifu.net
 quanzhou.lianjia.com
-quanzhoudaqin.com
 quanziapp.com
 quark-api.uc.cn
 quark.sm.cn
@@ -100973,6 +100967,7 @@ yituo-patibao.cn
 yituocn.com
 yitutech.com
 yituyu.com
+yiuios.com
 yiupin.com
 yiuxiu.com
 yivian.com
@@ -101218,6 +101213,7 @@ ylimg.com
 ylinux.org
 ylist.cn
 yliyun.com
+ylizu.com
 yljc888.com
 yljnet.com
 yljr.com
@@ -101248,7 +101244,6 @@ ylwl.cc
 ylwpx8.com
 ylws.net
 ylwyw.com
-ylxbxgtg.com
 ylxdtww.com
 ylxk.net
 ylxw.net
