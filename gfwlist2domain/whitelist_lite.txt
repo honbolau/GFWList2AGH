@@ -1072,7 +1072,6 @@
 11ziyun.com
 120-job.com
 120.net
-12011.org
 120185.com
 120ask.com
 120askimages.com
@@ -5169,7 +5168,6 @@
 58wzb.com
 58xinghuo.com
 58xinrui.com
-58xs.com
 58xs.la
 58xs.tw
 58xueche.com
@@ -5334,7 +5332,6 @@
 5imomo.com
 5imx.com
 5imxbbs.com
-5iok.com
 5iops.com
 5ip9.com
 5ipatent.com
@@ -6530,6 +6527,7 @@
 8531.cn
 85384.com
 853lab.com
+85462.lc
 8548965.com
 8558.org
 8563p.cn
@@ -8422,7 +8420,6 @@ ahwwnews.com
 ahwxcs.com
 ahxwkj.com
 ahydnet.com
-ahydwy.com
 ahyessoft.com
 ahyouan.com
 ahyouth.com
@@ -12200,7 +12197,6 @@ bjdgqx.com
 bjdiaoyu.com
 bjdjc.com
 bjdllti.com
-bjdlzl.com
 bjdongxin.com
 bjdsppa.com
 bjeasycom.com
@@ -12355,7 +12351,6 @@ bjtata.com
 bjtcf.com
 bjtelecom.net
 bjtitle.com
-bjtjr.net
 bjtjw.net
 bjtjzx.com
 bjtlky888.com
@@ -14707,7 +14702,6 @@ cgsoft.net
 cgspread.com
 cgstartup.com
 cgtblog.com
-cgtime.net
 cgtn.com
 cgtsj.com
 cgtsj.org
@@ -23753,7 +23747,6 @@ fayifa.com
 fayiyi.com
 fayurumen.com
 fazhijx.com
-fazj.org
 fb.mu
 fb111.com
 fb360xp.com
@@ -28853,7 +28846,6 @@ hdherpc.cn
 hdhgzx.com
 hdhospital.com
 hdhui.com
-hdingsheng.com
 hdj.me
 hdjay.com
 hdjwww.com
@@ -31336,7 +31328,6 @@ huxingroup.com
 huxiu.com
 huxiu.link
 huxiucdn.com
-huya.cm
 huya.com
 huya040.xyz
 huyahaha.com
@@ -46379,6 +46370,7 @@ ouyabosi.com
 ouyada.com
 ouyaoxiazai.com
 ouyeel.com
+ouyi.date
 ouyi.zone
 ouyingyimin.com
 ouzhougoufang.com
@@ -48697,6 +48689,7 @@ qihoo.com
 qihoo.net
 qihu.com
 qihu.org
+qihuapi.com
 qihucdn.com
 qihuiwang.com
 qihuorumen.com
@@ -51106,6 +51099,7 @@ saitjr.com
 saiyangame.com
 saiyouedu.net
 saiyunyx.com
+sakesi.club
 sakway.com
 salasolo.com
 saleoilpaintings.com
@@ -52109,7 +52103,6 @@ shanghai-electric.com
 shanghai-intex.com
 shanghai-map.net
 shanghaiairport.com
-shanghaiboxu.com
 shanghaicaiyi.com
 shanghaichannel.net
 shanghaiconcerthall.org
@@ -56237,7 +56230,6 @@ taokewenan.com
 taokezhushou.com
 taokouling.com
 taoku.com
-taolusm.com
 taoluzhibo56.com
 taolvtong.com
 taolx.com
@@ -58886,7 +58878,6 @@ uavvv.com
 uayangtze-volga.org
 ub-os.com
 ub.cc
-ub666.cc
 ubaike.cn
 uban.com
 ubangmang.com
@@ -60455,6 +60446,7 @@ vvic.com
 vvipcdn.com
 vvjob.com
 vvkaoyan.com
+vvl.cc
 vvmeiju.com
 vvo2o.com
 vvpgwg.xyz
@@ -65376,7 +65368,6 @@ xiunm.cn
 xiuno.com
 xiupin.com
 xiuren.com
-xiurenb.com
 xiushao.com
 xiusheji.com
 xiusheji.net
@@ -65709,10 +65700,7 @@ xmspace.net
 xmtbang.com
 xmtnews.com
 xmtsyg.com
-xmttz02.pw
 xmtyy.net
-xmtyy02.pw
-xmtyy04.pw
 xmuchong.com
 xmuli.tech
 xmwan.com
@@ -69893,7 +69881,6 @@ yyangmob.com
 yyasp.net
 yybox.cc
 yycaf.net
-yyccia.com
 yycec.com
 yyclouds.com
 yyclub.org

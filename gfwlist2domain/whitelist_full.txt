@@ -1288,7 +1288,6 @@
 12.cookcai.com
 120-job.com
 120.net
-12011.org
 120185.com
 1206397.sched.s1k.tdnsv5.com
 1206397.sched.v1.tdnsv5.com
@@ -6232,7 +6231,6 @@
 58wzb.com
 58xinghuo.com
 58xinrui.com
-58xs.com
 58xs.la
 58xs.tw
 58xueche.com
@@ -6447,7 +6445,6 @@
 5imomo.com
 5imx.com
 5imxbbs.com
-5iok.com
 5iops.com
 5ip9.com
 5ipatent.com
@@ -8075,6 +8072,7 @@
 8531.cn
 85384.com
 853lab.com
+85462.lc
 8548965.com
 855462.t.hypers.com.cn
 8558.org
@@ -11315,7 +11313,6 @@ ahwwnews.com
 ahwxcs.com
 ahxwkj.com
 ahydnet.com
-ahydwy.com
 ahyessoft.com
 ahyouan.com
 ahyouth.com
@@ -17242,7 +17239,6 @@ bjdgqx.com
 bjdiaoyu.com
 bjdjc.com
 bjdllti.com
-bjdlzl.com
 bjdongxin.com
 bjdsppa.com
 bjeasycom.com
@@ -17413,7 +17409,6 @@ bjtata.com
 bjtcf.com
 bjtelecom.net
 bjtitle.com
-bjtjr.net
 bjtjw.net
 bjtjzx.com
 bjtlky888.com
@@ -20834,7 +20829,6 @@ cgsoft.net
 cgspread.com
 cgstartup.com
 cgtblog.com
-cgtime.net
 cgtn.com
 cgtsj.com
 cgtsj.org
@@ -34015,7 +34009,6 @@ fayifa.com
 fayiyi.com
 fayurumen.com
 fazhijx.com
-fazj.org
 fb.37cs.com
 fb.mu
 fb.video.weibocdn.com
@@ -40604,7 +40597,6 @@ hdherpc.cn
 hdhgzx.com
 hdhospital.com
 hdhui.com
-hdingsheng.com
 hdj.baidu.com
 hdj.me
 hdjay.com
@@ -43585,7 +43577,6 @@ huya-w6.huya.com
 huya-w6.huya.com.w.kunlunea.com
 huya-w7.huya.com
 huya-w7.huya.com.m.alikunlun.com
-huya.cm
 huya.com
 huya040.xyz
 huyahaha.com
@@ -68954,6 +68945,7 @@ qihoo.com
 qihoo.net
 qihu.com
 qihu.org
+qihuapi.com
 qihucdn.com
 qihuiwang.com
 qihuorumen.com
@@ -74597,7 +74589,6 @@ shanghai.fangdd.com
 shanghai.nyu.edu
 shanghai.xiaoxiaotong.org
 shanghaiairport.com
-shanghaiboxu.com
 shanghaicaiyi.com
 shanghaichannel.net
 shanghaiconcerthall.org
@@ -80405,7 +80396,6 @@ taokewenan.com
 taokezhushou.com
 taokouling.com
 taoku.com
-taolusm.com
 taoluzhibo56.com
 taolvtong.com
 taolx.com
@@ -84135,7 +84125,6 @@ uayangtze-volga.org
 ub-os.com
 ub.cc
 ub1.job592.com
-ub666.cc
 ubacollect-drcn.cloud.dbankcloud.cn
 ubacollect-drcn.cloud.dbankcloud.com
 ubaike.cn
@@ -87096,6 +87085,7 @@ vvip.cnzz.com.danuoyi.alicdn.com
 vvipcdn.com
 vvjob.com
 vvkaoyan.com
+vvl.cc
 vvlog.moviebox.baofeng.com
 vvm.mail.wo.cn
 vvmeiju.com
@@ -94361,7 +94351,6 @@ xiunm.cn
 xiuno.com
 xiupin.com
 xiuren.com
-xiurenb.com
 xiushao.com
 xiusheji.com
 xiusheji.net
@@ -94740,10 +94729,7 @@ xmspace.net
 xmtbang.com
 xmtnews.com
 xmtsyg.com
-xmttz02.pw
 xmtyy.net
-xmtyy02.pw
-xmtyy04.pw
 xmuchong.com
 xmuli.tech
 xmupdate.cdn.pandora.xiaomi.com
@@ -103180,7 +103166,6 @@ yybox.cc
 yybv6.tcdn.qq.com
 yybx.oss-cn-hangzhou.aliyuncs.com
 yycaf.net
-yyccia.com
 yycec.com
 yyclouds.com
 yyclub.org
