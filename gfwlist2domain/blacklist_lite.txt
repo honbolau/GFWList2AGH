@@ -12168,6 +12168,7 @@ faz.net
 fb.careers
 fb.co
 fb.com
+fb.gg
 fb.me
 fb.watch
 fbacebook.com
@@ -12205,6 +12206,7 @@ fbthirdpartypixel.net
 fbthirdpartypixel.org
 fburl.com
 fbvpn.com
+fbwat.ch
 fbworkmail.com
 fc00.io
 fc02.com
