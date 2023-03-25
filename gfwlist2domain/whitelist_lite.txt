@@ -4450,6 +4450,7 @@
 51world.win
 51wp.com
 51wtp.com
+51wuditu.com
 51wxjz.com
 51wydj.com
 51wyfl.com
@@ -9831,6 +9832,7 @@ aptchip.com
 aptenon.com
 apusic.com
 apxm.net
+apxnlw.com
 aqara.com
 aqb.so
 aqbxcdn9.com
@@ -9920,6 +9922,7 @@ armbbs.net
 armchina.com
 armsword.com
 armystar.com
+armzl.com
 arnaz-on-co-jp.icu
 arocmag.com
 arongsoft.com
@@ -17532,6 +17535,7 @@ cnxmyb.cn
 cnxnmy.com
 cnxunkewang.info
 cnxuntu.com
+cnxzm.com
 cnyanglao.com
 cnyicheng.com
 cnyigui.com
@@ -18746,6 +18750,7 @@ cxzudwk.com
 cxzw.com
 cy-cdn.com
 cy-email.com
+cy-isp.net
 cy.com
 cy1990.com
 cy2009.com
@@ -18962,6 +18967,7 @@ d7b.cn
 d7ol.com
 d7vg.com
 d8th.com
+d9ym.com
 da-qian.com
 da-quan.net
 da.do
@@ -19908,6 +19914,7 @@ devui.design
 devzeng.com
 dewmobile.net
 dewu.com
+dewu.net
 dewucdn.com
 dewumall.com
 dexian.mobi
@@ -22150,6 +22157,7 @@ echinagov.com
 echinatobacco.com
 echo-isoftstone.com
 echo188.com
+echodns.xyz
 echoing.tech
 echoteen.com
 echuandan.com
@@ -24201,6 +24209,7 @@ fhwlgs.com
 fhycs.com
 fhyx.com
 fhyx.hk
+fhyx.online
 fi1818.com
 fi94.com
 fiberhome.com
@@ -25112,6 +25121,7 @@ fxl1950.com
 fxlbb.com
 fxltsbl.com
 fxm.so
+fxngpih.com
 fxo2opt.com
 fxpan.com
 fxsw.net
@@ -26030,6 +26040,7 @@ ggemo.com
 ggerg.com
 ggeye.com
 ggg.cool
+ggg868.com
 gggqa.com
 ggj88.com
 ggjrw.com
@@ -32347,6 +32358,7 @@ iegourl.com
 iejiu.com
 ieliulanqi.com
 ielts68.com
+ieltsabc.com
 ieltschn.com
 iemblog.com
 iemiq.com
@@ -39271,6 +39283,7 @@ lersang.com
 lerye.com
 leshanvc.com
 leshi123.cc
+leshiguang.com
 leshou.com
 leshow.com
 leshu.com
@@ -41039,6 +41052,7 @@ luxianpo.com
 luxiao.com
 luxiwang.com
 luxiyun.com
+luxshare-ict.com
 luxst.com
 luxtarget.com
 luxuqing.com
@@ -46068,7 +46082,6 @@ openpcba.com
 openqa.com
 openredcloud.com
 openresty.com
-openresty.org
 openrice.com
 openset.wang
 opensoce.com
@@ -47851,6 +47864,7 @@ proko.cn
 prolto.com
 promisingedu.com
 promoadx.com
+pronax.tech
 propsad.com
 proresearch.org
 prositsole.com
@@ -49211,6 +49225,7 @@ qoocc.com
 qooic.com
 qookar.com
 qoqaoligei.com
+qoqkkhy.com
 qosq.com
 qp-nett.cn
 qp110.com
@@ -52094,6 +52109,7 @@ shang360.com
 shangbaolai.com
 shangbiao.com
 shangbiao.store
+shangbiaocheng.com
 shangboo.com
 shangbw.com
 shangc.net
@@ -55756,6 +55772,7 @@ szpiao.com
 szpiaoyi.com
 szpichappy.com
 szpl0.com
+szpldq.net
 szpmi.org
 szpowerpms.com
 szputy.com
@@ -57016,6 +57033,7 @@ tianlan.net
 tianmao.com
 tianmaying.com
 tianmidian.com
+tianmu.mobi
 tianmupe.com
 tianmupr.com
 tiann90.com
@@ -63140,6 +63158,7 @@ wsound.cc
 wsoversea.info
 wsq.cool
 wsqejt.com
+wss.ink
 wsskj520.cn
 wsssec.com
 wstong.com
@@ -63172,6 +63191,7 @@ wtango.com
 wtapi.com
 wtbds.com
 wtcxs.com
+wtd56.com
 wtdex.com
 wtdms.com
 wting.info
@@ -64416,6 +64436,7 @@ xiaobaoonline.com
 xiaobaostudio.com
 xiaobd.net
 xiaobenzi.com
+xiaobianli8.com
 xiaobingxitong.com
 xiaobu121.com
 xiaocanhulian.com
@@ -64590,6 +64611,7 @@ xiaomingming.org
 xiaomingtaiji.com
 xiaomiqiu.com
 xiaomiquan.com
+xiaomirom.com
 xiaomishu.com
 xiaomiss.com
 xiaomitv.cc
@@ -70154,6 +70176,7 @@ zaijia.com
 zaijiawan.com
 zailouxia.com
 zaiminglvsuo.com
+zainan.cc
 zainanjing365.com
 zaisd.com
 zaitong.net
@@ -72906,6 +72929,7 @@ zuosa.com
 zuoshangbao.com
 zuoshipin.com
 zuoshitu.com
+zuoshouyisheng.com
 zuotishi.com
 zuotixia.com
 zuowen.com
