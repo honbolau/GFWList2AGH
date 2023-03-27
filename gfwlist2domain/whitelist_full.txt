@@ -1015,7 +1015,7 @@
 1024.com
 1024.cool
 1024.ink
-1024dmg.com
+1024.mx
 1024g.com
 1024ie.com
 1024nic.com
@@ -2108,6 +2108,7 @@
 17kuxun.com
 17kxgame.com
 17kxs8.com
+17lele.net
 17lewan.net
 17liuxue.com
 17ll.com
@@ -5474,7 +5475,6 @@
 51wyrc.com
 51wzg.com
 51wzxz.com
-51xbl.com
 51xbx.com
 51xcrc.com
 51xiancheng.com
@@ -7058,7 +7058,6 @@
 6miu.com
 6miu.net
 6miv.com
-6mxs.com
 6pifa.net
 6plat.org
 6puppy.xyz
@@ -9110,6 +9109,7 @@
 96fbd20ea10c0c4edbb2e71352bb3085.dlied1.cdntips.net
 96go.com
 96hq.com
+96jia.com
 96jm.com
 96jx.com
 96kaifa.com
@@ -11813,6 +11813,7 @@ akey.me
 akeyun.com
 akhtm.com
 akhy.com
+akjianding.com
 akjunshi.com
 akkogear.com
 aklmbh.com
@@ -18456,6 +18457,7 @@ buykee.com
 buylabel.com
 buysun.net
 buysweet.com
+buyu1314.com
 buzhi5.com
 buzhibushi.com
 buzzads.com
@@ -20781,7 +20783,6 @@ cgdream.org
 cgebook.com
 cgejournal.com
 cger.com
-cgfdgre.net
 cghlj.com
 cgi.ark.qq.com
 cgi.connect.qq.com
@@ -29767,6 +29768,7 @@ door-expo.com
 dooreb.com
 doorhr.com
 doors10.com
+doorzo.app
 doorzo.com
 doorzo.net
 doowinfintec.com
@@ -35047,7 +35049,6 @@ fmcoprc.gov.mo
 fmei.wang
 fmeibao.com
 fmf.fe.apple-dns.cn
-fmfans.net
 fmfmobile.fe.apple-dns.cn
 fmg.aty.sohu.com
 fminers.com
@@ -35608,7 +35609,6 @@ fulou.life
 fulu.com
 fumake.com
 fuman8.net
-fumanyou.cc
 fumi.com
 fumiad.dxys.pro
 fumu.com
@@ -40658,6 +40658,7 @@ hdslb.net
 hdslb.org
 hdsx36hb.com
 hdsx39hb.com
+hdsx83hb.com
 hdt.adx.admaster.com.cn
 hdtgtm.com
 hdtmedia.com
@@ -47337,7 +47338,6 @@ isky000.com
 iskyjoy.com
 iskylinem.com
 iskysoft.com
-iskytree.net
 iskyworth.com
 islide.cc
 isluo.com
@@ -47477,6 +47477,7 @@ itcpn.net
 itczh.com
 itdaan.com
 itdabao.com
+itdai.com
 itdaogou.com
 itdcw.com
 itdhz.com
@@ -49440,7 +49441,6 @@ jiuduad.com
 jiufawang.com
 jiugang.com
 jiugangbid.com
-jiuguanfm.com
 jiuhetx.com
 jiuhuang.com
 jiuhuar.com
@@ -57894,6 +57894,7 @@ masej.com
 mashang98.com
 mashangmai.com
 mashangshijie.com
+mashiro.me
 mashort.cn
 masjinquan.com
 mass-evo.com
@@ -60672,7 +60673,6 @@ mtteve.beacon.qq.com
 mttsq.com
 mttstr.beacon.qq.com
 mtty.com
-mtunique.com
 mtuoa.com
 mtv123.com
 mtw.so
@@ -62693,6 +62693,7 @@ northdm.com
 northdy.com
 northgun.com
 northidc.net
+northsoar.com
 northtimes.com
 nos.netease.com
 noscreenplz1.ifeng.com
@@ -65069,7 +65070,6 @@ panshixk.com
 panshiyun.com
 panshy.com
 pansino-solutions.com
-pansj.cc
 pansoso.com
 pansoso.org
 pansou.com
@@ -69722,7 +69722,6 @@ qqkuyou.com
 qqkw.net
 qqleju.com
 qqlin.net
-qqm98.com
 qqma.com
 qqmail.com
 qqmail.tencent.com
@@ -75755,7 +75754,6 @@ shujucun.com
 shujupie.com
 shujutang.com
 shujuwa.net
-shuke8.com
 shukeba.com
 shukeju.com
 shukoe.com
@@ -77606,6 +77604,7 @@ srv.dsp.madserving.com
 srv.jiasu.qq.com
 srvpool.eqxiu.com
 srw00.com
+srwlyx.com
 srworld.net
 srx3.net
 srxjz.cn
@@ -79741,6 +79740,7 @@ szwfb.com
 szwfzs.com
 szwgroup.com
 szwstui.com
+szwtsd.com
 szwuyukeji.com
 szwwco.com
 szxbyx.com
@@ -106275,7 +106275,6 @@ zssph.com
 zssxczxyey.com
 zstack.io
 zstczx.com
-zstzs.com
 zsucai.com
 zsucai.net
 zsufivehos.com
