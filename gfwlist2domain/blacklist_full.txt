@@ -5771,6 +5771,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.net
+azurefd.net
 azureiotcentral.com
 azureiotsolutions.com
 azureiotsuite.com
@@ -27456,6 +27457,7 @@ open.firstory.me
 open.spotify.com
 openai.com
 openaiapi-site.azureedge.net
+openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaked.com
 openallweb.com
 openamt.com

@@ -5073,6 +5073,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.net
+azurefd.net
 azureiotcentral.com
 azureiotsolutions.com
 azureiotsuite.com
