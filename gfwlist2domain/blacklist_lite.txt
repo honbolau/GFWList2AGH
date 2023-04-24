@@ -1,4 +1,3 @@
-000000000000000000000000000000000000000000000000000000000000001.com
 00006801.com
 00006805.com
 00006807.com
@@ -13150,6 +13149,7 @@ freeyellow.com
 freeyouporn.mobi
 freeyoutube.net
 freeyoutubeproxy.net
+freezhihu.org
 freezing.tv
 freiheit.org
 freindfeed.com
@@ -31983,6 +31983,7 @@ wikispecies.org
 wikissl.com
 wikitionary.org
 wikitravel.com
+wikiunblocked.org
 wikiversity.org
 wikivoyage.com
 wikivoyage.org
