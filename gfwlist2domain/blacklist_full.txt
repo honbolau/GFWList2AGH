@@ -4174,6 +4174,7 @@ alliehaze.com
 allinfa.com
 allinternal.com
 allisons.org
+allizom.net
 allizom.org
 alljackpotscasino.com
 alljapanesepass.com
@@ -20208,7 +20209,6 @@ intelstore.com
 inteltechnologyprovider.com
 intelvmwarecybersecurity.com
 interacc.com
-interactive-examples.mdn.mozilla.net
 interactivebrokers.com
 interactivetrader.com
 interc.pt
@@ -23948,6 +23948,7 @@ mdialog.com
 mdj02.com
 mdk.flnet.org
 mdlf.xyz
+mdn.allizom.net
 mdn.dev
 mdn.mozillademos.org
 mdn.mozit.cloud
