@@ -7140,7 +7140,6 @@
 700bike.com
 700live.com
 700so.com
-700static.com
 700store.com
 701.com
 7017k.com
@@ -11883,6 +11882,7 @@ aks.jdpay.com
 aks.zu.anjuke.com
 akscan.com
 aksdjfksl.kuaiyunbd.com
+akspeedy.com
 akswe.com
 aksxw.com
 aku.pub
@@ -18299,7 +18299,6 @@ bsrkt.com
 bsrv.qq.com
 bss.tv.mi.com
 bssrvdns.com
-bst24.com
 bstatic.hdslb.com
 bstatics.com
 bsteel.net
@@ -21852,6 +21851,7 @@ chinaehs.net
 chinaeic.net
 chinaeinet.com
 chinaeinv.com
+chinaembassy.at
 chinaemed.com
 chinaequity.net
 chinaera.org
@@ -22002,6 +22002,7 @@ chinalive.com
 chinaliyou.com
 chinalm.org
 chinalongmai.net
+chinalowcarb.com
 chinalsjt.com
 chinalubricant.com
 chinalure.com
@@ -26126,7 +26127,6 @@ customstat.video.51togic.com
 custweb.alipay.com
 cut35.com
 cutecomm.com
-cutefish.org
 cutefishos.com
 cuteng.com
 cutercounter.com
@@ -38967,6 +38967,7 @@ guowei.suning.com
 guoweitong.com
 guoxiehao.com
 guoxingjun.com
+guoxinlanqiao.com
 guoxinmac.com
 guoxinqh.com
 guoxue.com
@@ -42901,6 +42902,7 @@ hsybyh.com
 hsyfcenter.com
 hsysupply.com
 hsyuntai.com
+hsyunyi.com
 hsyyf.me
 hszhizhen.net
 hszk.org
@@ -47796,7 +47798,6 @@ itbilu.com
 itbkz.com
 itblw.com
 itbole.com
-itbook5.com
 itboth.com
 itbour.com
 itboy.net
@@ -49713,6 +49714,7 @@ jiqike.com
 jiqimao.com
 jiqirenku.com
 jiqizhixin.com
+jiqrxx.com
 jiqunzhihui.com
 jira.adeaz.com
 jira.vlion.cn
@@ -55948,6 +55950,7 @@ lncldglobal.com
 lncnw.com
 lndao.com
 lndhdx.com
+lndwkj.com
 lndzxy.com
 lnemci.com
 lnest.com
@@ -62093,6 +62096,7 @@ nbpyfog.cn
 nbrecsys.4paradigm.com
 nbrj.com
 nbrlzy.com
+nbrz.site
 nbsason.com
 nbsdk-baichuan.alicdn.com
 nbsdk-baichuan.taobao.com
@@ -73587,7 +73591,6 @@ sal.topgslb.com
 salasolo.com
 saleoilpaintings.com
 salesforce.gallerycdn.azure.cn
-salestalk.xyz
 saliayi.com
 salogs.com
 salonglong.com
@@ -77043,7 +77046,6 @@ skyfeather.online
 skyfollowsnow.pro
 skyfont.com
 skyfox.org
-skygho.com
 skyheng.com
 skyju.cc
 skylerzhang.com
@@ -90987,7 +90989,6 @@ wscdns.info
 wscdns.org
 wscloudcdn.com
 wscloudcdn.org
-wsclouddns.com
 wscloudsec.com
 wscncjnngimdl02.fastcdn.hexun.com
 wscont1.apps.microsoft.com
@@ -100980,6 +100981,7 @@ yeastar.com
 yebaike.com
 yebangyu.org
 yebao-client.oss-cn-beijing.aliyuncs.com
+yebaojiasu.com
 yeboyzq.com
 yecdn.com
 yeconfig.game.yy.com
@@ -104999,6 +105001,7 @@ zhangrc.site
 zhangread.com
 zhangrunnan.com
 zhangsenhao.com
+zhangsh08.com
 zhangshen.club
 zhangshengrong.com
 zhangtiantian.cc
