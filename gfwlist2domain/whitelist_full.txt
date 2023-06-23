@@ -31959,7 +31959,6 @@ easytouch.com
 easytrip.com
 easyzw.com
 eateapp.com
-eaten.fun
 eavs02.eqifa.com
 eaydu.com
 eayou.com
@@ -39690,6 +39689,7 @@ h7ec.com
 h85wpwwr.v1d.szbdyd.com
 h8aq3ba9.sched.vp.tdnsv5.com
 h8jx.com
+h9hash.com
 h9imt8jv.sched.d0.tdnsv5.com
 ha.gsxt.gov.cn
 ha97.com
@@ -57214,7 +57214,6 @@ lzhongdian.com
 lzhpo.com
 lzhygame.com
 lzjdbjc.com
-lzjjdd.net
 lzjoy.com
 lzkj-isv.isvjcloud.com
 lzkj-isv.isvjcloud.com-2f9a65efd7e3.jdcloudwaf.com
@@ -70997,7 +70996,6 @@ qutu.com
 qutuiwa.com
 quumii.com
 quvisa.com
-quw1234.icu
 quwaifu.com
 quwan.com
 quwan.fun
@@ -75815,6 +75813,7 @@ shitu-query-nj.su.bcebos.com
 shiwan.com
 shiwangyun.com
 shiweisemi.com
+shiwusmd.com
 shixi.yjbys.com
 shixian.com
 shixiaojin.com
@@ -77993,6 +77992,7 @@ speednt.com
 speedpdf.com
 speedsz.net
 speedtest.cn
+speedtest.im
 speedv4.m.jd.com
 speedv4.m.jd.com.gslb.qianxun.com
 speedv6.m.jd.com
@@ -107171,7 +107171,6 @@ ztcj365.com
 ztcl6.tcdnlive.com
 ztcl9.tcdnlive.com
 ztcnwy.com
-ztdad.com
 zte.net
 zteappstore.ztems.com
 ztedevice.com
