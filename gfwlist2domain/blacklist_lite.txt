@@ -9099,7 +9099,6 @@ cruisecritic.com
 crunchyroll.com
 crustwebsites.net
 crv2000.com
-crwdcntrl.net
 cryptocat.com
 cryptocert.org
 cryptocoinsnews.com
@@ -19346,6 +19345,7 @@ linkmetube.com
 linksalpha.com
 linkshit.com
 linksysinfo.org
+linktr.ee
 linkuswell.com
 linotype.com
 linpie.com
@@ -27370,6 +27370,7 @@ smartsimcha.com
 smartsource.com
 smartydns.com
 smashinn.com
+smashwords.com
 smathis.com
 smchbooks.com
 smdingenieria.cl

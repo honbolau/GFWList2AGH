@@ -1495,7 +1495,6 @@
 1347806.p23.tc.cdntip.com
 1347806.sched.sma.tdnsv5.com
 13482896776.com
-135-139.com
 135019.com
 135031.com
 1351.com
@@ -1830,7 +1829,6 @@
 1633.com
 1633d.com
 163663.com
-163686.com
 1637.com
 163888.net
 1639810196.15921086564685665075.sngdia.imtmp.net
@@ -4125,7 +4123,6 @@
 3817.com
 381pk.com
 38238r.com
-3829.com
 3839.com
 3839apk.com
 3839app.com
@@ -4706,7 +4703,6 @@
 479d944e1c0ac60600b5a21bfc635520.dlied1.cdntips.net
 47gs.com
 47jh.com
-47ks.com
 47r.cn
 47zu.com
 4801520.b2b.qth58.cn
@@ -14185,6 +14181,7 @@ artwe.com
 artwer.com
 artwork.starbucks.com.cn
 artwork.starbucks.com.cn.wswebpic.com
+artwun.com
 artww.com
 artxun.com
 arup.m.taobao.com
@@ -15465,6 +15462,7 @@ balijieji.com
 ballgametime.com
 ballpure.com
 balltv.cc
+baltamatica.com
 bama555.com
 bamaiwo.com
 bamaol.cc
@@ -36182,7 +36180,6 @@ fzyfan.net
 fzyfs.net
 fzzqcdn.com
 fzzrlh.com
-fzzyky.com
 g-emall.com
 g-live.easyliao.com
 g-photography.net
@@ -41394,6 +41391,7 @@ hf10000.com
 hf12345.vip
 hf365.com
 hf777.com
+hfabiao.com
 hfanss.com
 hfapp-service.heweather.net
 hfbaogao.com
@@ -48917,7 +48915,6 @@ jiagou1216.com
 jiagouyun.com
 jiaguhome.com
 jiagulun.com
-jiahe100.com
 jiaheu.com
 jiahuacinema.com
 jiahuaming.com
@@ -52075,6 +52072,7 @@ keep-so.kwd.inkuai.com
 keep.com
 keepc.com
 keepcdn.com
+keepmobi.com
 keepwalking.dftoutiao.com
 keepyoga.com
 keerdapower.com
@@ -63417,6 +63415,7 @@ nuokui.com
 nuomanzi.world.tmall.com
 nuomi.com
 nuomicikoi.com
+nuomili.com
 nuomiphp.com
 nuonuo.com
 nuopai.suning.com
@@ -63767,7 +63766,6 @@ office-peixun.com
 office26.com
 officecdn.microsoft.com
 officectrl.com
-officeedit.com
 officejc.net
 officese.com
 officesoftcn.com
@@ -84568,7 +84566,6 @@ tywbw.com
 tywh.com
 tywxw.la
 tyy6.com
-tyyhf.com
 tyymt.com
 tyyouyou.cn
 tyzscl.com
@@ -86827,6 +86824,7 @@ velasx.com
 velep.com
 velocaps.com
 vemarsdev.com
+vemarsstatic.com
 vemic.com
 vemvm.com
 ventoy.net
@@ -87327,6 +87325,7 @@ vivo.com
 vivo.mmxy.tech
 vivo.s5.sched.tdnsv1.com
 vivoglobal.com
+vivojrkj.com
 vivokb.com
 vivovip.mmszxc.top
 vivst.com
@@ -87891,7 +87890,6 @@ w.xiaopiaoyou.com
 w.ymapp.com
 w0.dxmstatic.com
 w0663.com
-w0882.com
 w0lker.com
 w1.hoopchina.com.cn
 w1.jinyueya.net
@@ -93859,7 +93857,6 @@ xhwhouse.com
 xhx.61.com
 xhx.design
 xhxsw.com
-xhxw.com
 xhy.com
 xhyd.com
 xhyfrp.en.made-in-china.com
@@ -95511,6 +95508,7 @@ xmqianzun.com
 xmqyh321.com
 xmr-zh.com
 xmrbi.com
+xms45.com
 xmsec.cc
 xmshqh.com
 xmsixian.com
@@ -102361,6 +102359,7 @@ yolinkmob.com
 yolipai.net
 yoloboo.com
 yoloho.com
+yoloogames.com
 yomiko.cloud
 yomiko.club
 yomiko.fun
@@ -105483,6 +105482,7 @@ zhijiangames.com
 zhijianhutong.com
 zhijiaoyi.com
 zhijiapro.com
+zhijiashe.com
 zhijidoc.com
 zhijieketang.com
 zhijin.baixing.com
@@ -106158,6 +106158,7 @@ zhuzhou.lianjia.com
 zhuzhouwang.com
 zhuzi.me
 zhuzihaoke.com
+zhuziplay.com
 zhw2101024.com
 zhw666.cn
 zhwangart.com
