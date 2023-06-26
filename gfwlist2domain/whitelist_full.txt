@@ -1881,6 +1881,7 @@
 16838.com
 1684.cc
 1684c3828f29326ace9ffad3266bff79.v.smtcdns.net
+168510.com
 1685738.sched.v1-dk.tdnsv5.com
 1688.com
 168810.cn
@@ -3294,6 +3295,7 @@
 2e208cc0efb4af62.qaxcloudwaf.com
 2e853f59ec07207be72aee8a939f9149.dlied1.cdntips.net
 2ead672dd59280fdf041c4d638ae1eef.dlied1.cdntips.net
+2ed5d.com
 2f.com
 2f.zol-img.com.cn
 2f.zol-img.com.cn.wswebpic.com
@@ -3412,6 +3414,7 @@
 300o5d3.cdnnodedns.cn
 300ppt.com
 300zi.com
+301-66cdn.com
 301688.com
 301848.com
 301mba.com
@@ -3907,7 +3910,6 @@
 360yfw.com
 360youtu.com
 360zhai.com
-360zhuizhu.com
 360zhyx.com
 360zqaq.com
 360zuowen.com
@@ -6049,6 +6051,7 @@
 5676.com
 5678la.com
 567idc.com
+567pan.com
 5680420.cc
 5680433.cc
 5684.com
@@ -7114,6 +7117,7 @@
 6wtx.com
 6xd.com
 6xg6th.tdum.alibaba.com
+6xhuo.com
 6xigema.com
 6xw.com
 6y6s066.com
@@ -9134,6 +9138,7 @@
 96bbs.com
 96caifu.com
 96dp.com
+96f2d.com
 96fbd20ea10c0c4edbb2e71352bb3085.dlied1.cdntips.net
 96go.com
 96hq.com
@@ -11206,6 +11211,7 @@ agdist-api.cloud.huawei.com
 age-spa.com
 age.tv
 age06.com
+agedm1.com
 agefans.app
 agefans.tv
 agenge.com
@@ -24203,7 +24209,6 @@ cnknowledge.com
 cnkok.com
 cnkuai.com
 cnky.net
-cnkybg.com
 cnlangier.com
 cnlaw.net
 cnledw.com
@@ -31688,6 +31693,7 @@ e139.com
 e189.21cn.com
 e1988.com
 e2.2345.com
+e213155.com
 e21b4e68.fyeds4.com
 e21cn.com
 e22a.com
@@ -32528,7 +32534,6 @@ egshuyuan.com
 egt365.com
 ehafo.com
 ehaier.com
-ehaimao.com
 ehaiwang.com
 ehangtian.com
 ehaoyao.com
@@ -32926,6 +32931,7 @@ enlistsecureup.com
 enmonster.com
 enmotech.com
 enmuo.com
+enn-ng.com
 ennews.com
 ennresearch.com
 ennweekly.com
@@ -34556,6 +34562,7 @@ feiyuapi.com
 feiyuemu.com
 feiyuhk.com
 feiyunjs.com
+feiyunxiazai.com
 feiyuteam.com
 feizan.com
 feizao.tv
@@ -40380,6 +40387,7 @@ haoyuanxiao.com
 haoyun13.com
 haoyun56.com
 haoyunbb.com
+haoyundao.net
 haoyunma.com
 haozai120.com
 haozaishop.com
@@ -45511,6 +45519,8 @@ igooma.com
 igoyx.com
 igreatdream.com
 igslb.net
+igtm-a101.com
+igtm-b101.com
 igtm.pub
 iguanyu.com
 iguazutraffic.xyz
@@ -53441,6 +53451,7 @@ ky0001.vip
 ky0048.cc
 ky010.vip
 ky01002.com
+ky01005.com
 ky107.co
 ky151.co
 ky55005.com
@@ -57166,6 +57177,7 @@ lytoufang.com
 lytpw.com
 lytuchuang10.com
 lytuchuang12.com
+lytuchuang13.com
 lytuchuang2.com
 lytuchuang3.com
 lytuchuang4.com
@@ -74997,7 +75009,6 @@ sh-hilead.com
 sh-holfer.com
 sh-holiday.com
 sh-hywin.com
-sh-investment.net
 sh-kechen.com
 sh-kr.net
 sh-pod1-smp-device-asset.apple.com.mwcname.com
@@ -77849,6 +77860,7 @@ soushai.com
 soushu.vip
 soushuking.com
 sousou.com
+sousou.pro
 sousoudus.com
 sousuoyouxi.com
 soutaowang.com
@@ -79734,6 +79746,7 @@ swt0.com
 swttobaidujs.zoosnet.net
 swttobaiduservice.zoosnet.net
 swtuchuang4.com
+swtuchuang5.com
 swupdl.adobe.com
 swwactivity.oss-cn-shanghai.aliyuncs.com
 swwimg.shmallshow.com
@@ -80817,7 +80830,6 @@ tan07.com
 tan14.net
 tan1dian.com
 tan8.com
-tan90.me
 tanamari.com
 tanapk.com
 tanbaicun.com
@@ -81403,7 +81415,6 @@ techgastronomy.com
 techgogogo.com
 techingrid.net
 techmiao.com
-technode.com
 techo.chat
 techoke.com
 techonegame.com
@@ -82267,6 +82278,7 @@ tigerbrokers.com
 tigerbrokers.net
 tigeresop.com
 tigerfintech.com
+tigerhouse.cc
 tigersecurities.com
 tigeryun.com
 tigtag.com
@@ -95306,7 +95318,6 @@ xjzhongwu.com
 xjzkzx.com
 xjzlyy.com
 xjzsks.com
-xjzyplay.com
 xk2012.com
 xk8090.com
 xk89.com
@@ -101340,6 +101351,7 @@ yichangly.com
 yiche.com
 yichemall.com
 yicheng.anjuke.com
+yichengji.com
 yichesafe.com
 yichmh.com
 yichuyifan.com
@@ -101961,7 +101973,6 @@ yiyu.com
 yiyuan.nagezan.net
 yiyuanqiang.net
 yiyuansoft.com
-yiyuantian.com
 yiyuanyi.org
 yiyuetop.com
 yiyum.com
@@ -102668,6 +102679,7 @@ youshibeike.com
 youshifu.com
 youshikoudai.com
 youshixiu.com
+youshop04.com
 youshop10.com
 youshouge513.cn
 youshu.cc
