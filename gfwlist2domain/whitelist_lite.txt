@@ -1958,6 +1958,7 @@
 1kyx.com
 1lan.tv
 1lewen.com
+1liantu.com
 1look.tv
 1lou.com
 1lzs.com
@@ -3043,6 +3044,7 @@
 360jinrong.net
 360jk.com
 360jq.com
+360jrjietiao.com
 360jrkt.com
 360js.com
 360jzhm.com
@@ -4250,7 +4252,6 @@
 51langtu.com
 51ldb.com
 51ldzx.com
-51lexing.com
 51lg.com
 51lifes.com
 51lingji.com
@@ -5157,6 +5158,7 @@
 58supin.com
 58tg.com
 58toto.net
+58touxiang.com
 58trz.com
 58tx.xyz
 58tyh.com
@@ -12708,7 +12710,6 @@ bnnd.net
 bnnxklj.cn
 bnq86.com
 bnqgsl.com
-bnu120.space
 bnupg.com
 bnwin.com
 bnxb.com
@@ -16722,6 +16723,7 @@ clcindex.com
 clclibrary.com
 clcmw.com
 clcyd.com
+cldbiz.com
 clean-cn.com
 cleaninfo.com
 clear-sz.com
@@ -17604,6 +17606,7 @@ cntv.com
 cntvwb.cn
 cntwg.com
 cnuninet.net
+cnur.com
 cnutcon.com
 cnuuu.com
 cnv168.com
@@ -24962,7 +24965,6 @@ fpsace.com
 fpvdxd5.com
 fpwap.com
 fpxz.net
-fq597.com
 fqapps.com
 fqgj.net
 fqis.xin
@@ -25568,7 +25570,6 @@ galaxyfont.com
 galaxyinfo.com
 galaxymacau.com
 galaxyns.net
-galeo.me
 gallopgazelle.com
 galstars.net
 galsun.com
@@ -31957,7 +31958,6 @@ hzjlcs.com
 hzjlxx.com
 hzjmjl.com
 hzjqhy.com
-hzjs56.com
 hzjunglepay.com
 hzjyxzyy.com
 hzkayo.com
@@ -32124,6 +32124,7 @@ i91pv.com
 i9star.com
 ia-shenzhen.com
 iacblog.com
+iaczlg.cfd
 iaddata.com
 iadmob.com
 iadmore.com
@@ -32825,7 +32826,6 @@ igomkt.com
 igooma.com
 igoyx.com
 igreatdream.com
-igslb.net
 igtm-a101.com
 igtm-b101.com
 igtm.pub
@@ -35020,6 +35020,7 @@ jianchuangwang.com
 jiandaima.com
 jiandan.net
 jiandansousuo.com
+jiandantianqi.com
 jiandanxinli.com
 jiandaopay.com
 jiandaoyun.com
@@ -40779,6 +40780,7 @@ lmwgame.com
 lmwlhh.com
 lmwljz.com
 lmxxxz.com
+ln76yf.cfd
 lnamphp.com
 lncldapi.com
 lncldglobal.com
@@ -46373,6 +46375,7 @@ olymtech.com
 omacloud.com
 omarea.com
 omayse.com
+omccsh.com
 omchain.com
 omdnchina.com
 omegatravel.net
@@ -47687,6 +47690,7 @@ picc.com
 piccamc.com
 picchealth.com
 piccjs.com
+piclabo.xyz
 picooc.com
 picosmos.net
 picp.io
@@ -53011,7 +53015,6 @@ shenmayouxi.com
 shenmikj.com
 shenmo.tech
 shenmou.com
-shenmufeiyang0912.com
 shenou.com
 shenpinwu.com
 shenpucw.com
@@ -56848,7 +56851,6 @@ taooo.cc
 taopiaopiao.com
 taopiaopiao.shop
 taopic.com
-taopindi.com
 taopinquan.com
 taoq.net
 taoqao.com
@@ -58804,7 +58806,6 @@ ttayy.cn
 ttbba.com
 ttbbss.com
 ttbc33.com
-ttbcdn.com
 ttcad.com
 ttdailynews.com
 ttdong.com
@@ -69147,7 +69148,6 @@ ynx111.com
 ynxdfpr.com
 ynxr.com
 ynxxb.com
-ynyazhuo.com
 ynycloud.xyz
 ynyes.com
 ynyfcz.cn
