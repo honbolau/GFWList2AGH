@@ -2834,6 +2834,7 @@
 21znw.com
 22.jiangzi.com
 22.jiangzi.com.cname3039.yjs-cdn.com
+220book.com
 221234.xyz
 2213.com
 221316.com
@@ -3174,7 +3175,6 @@
 28123.com
 281826.vip
 2827.com
-282886.vip
 283.laobanfa.com
 283130.b2b.jinanfa.cn
 283237.b2b.jinanfa.cn
@@ -3187,11 +3187,9 @@
 286392.com
 2871858.b2b.jinanfa.cn
 2872005.b2b.jinanfa.cn
-287897.vip
 287ffdd4d743c43e465206a327eaaa25.dlied1.cdntips.net
 288288dy.com
 2885.com
-288957.vip
 288idc.com
 289.com
 289037.b2b.jinanfa.cn
@@ -9038,7 +9036,6 @@
 95303.com
 95306.cn
 9536299.slego.tcloudscdn.com
-953923.vip
 953a61383037a8304748e5270853e42f.dlied1.cdntips.net
 95408.com
 954cc7685b51022eb3277c774ac960b1.safeframe.googlesyndication.com
@@ -9170,7 +9167,6 @@
 97742425819a241e1dd5f0c2f19af457.v.smtcdns.net
 97775.com
 977pk.com
-978239.vip
 97866.com
 9787.com
 978a9da2.fyeds8.com
@@ -12881,6 +12877,7 @@ anymetre.com
 anyoy.com
 anyrtc.io
 anysdk.com
+anyskygame.com
 anysql.net
 anytesting.com
 anythinktech.com
@@ -29192,7 +29189,6 @@ dju8.com
 djwcp.com
 djwxw.com
 djwyjszpyxgs473.shop.258.com
-djxfar6.com
 djyde.com
 djye.com
 djyjob.com
@@ -35568,7 +35564,6 @@ fps-pro.ws.126.net
 fps7.com
 fpsace.com
 fptest.fraudmetrix.cn
-fpvdxd5.com
 fpwap.com
 fpxz.net
 fqapps.com
@@ -37227,7 +37222,6 @@ geyoukj.com
 gezhixq.net
 gezida.com
 gezila.com
-gezkdx7.com
 gf-cloud.com
 gf-funds.com
 gf.61.com
@@ -38713,6 +38707,7 @@ guangdianyun.tv
 guangdiu.com
 guangdong.chinatax.gov.cn
 guangdong.sinaimg.cn
+guangdonglong.com
 guangdongtaiji.com
 guangdv.com
 guangfeng.com
@@ -42685,7 +42680,6 @@ hp888.com
 hpccake.com
 hpd.a.shifen.com
 hpd.baidu.com
-hpdwfd2.com
 hpe.cn
 hpejlsb.com
 hpoi.net
@@ -48552,7 +48546,6 @@ jcxcvqc.cn
 jcyai.com
 jcyes.com
 jcyipong.com
-jcyunk2.com
 jcyx2019.com
 jczhijia.com
 jczhiyao.com
@@ -50355,7 +50348,6 @@ joyoung.com
 joyowo.com
 joyque.com
 joyshebao.com
-joysight.com
 joyslink.com
 joysung.com
 joytest.org
@@ -53448,6 +53440,7 @@ kxxsc.com
 kxxxl.com
 kxzmw.com
 ky-express.com
+ky.live
 ky0001.vip
 ky0048.cc
 ky010.vip
@@ -54046,6 +54039,7 @@ laxienian888.com
 layabox.com
 layout-meituan-net.b0.aicdn.com
 layout.meituan.net
+layoutad.com
 laysky.com
 layui-inc.com
 layui.com
@@ -61282,7 +61276,6 @@ muzsj.com
 mv.music.tc.qq.com
 mv6.music.tc.qq.com
 mvads.kugou.com
-mvben.com
 mvc188.com
 mvcat.com
 mvhere.com
@@ -61474,7 +61467,6 @@ mydancecn.online
 mydao.net
 mydbfx.com
 mydcyj.com
-mydebook.com
 mydeershow.com
 mydf.net
 mydianshijia.com
@@ -63385,7 +63377,6 @@ nttui.com
 ntuiw.cc
 ntuiw.com
 ntvalumium.com
-ntvxbf7.com
 ntwikis.com
 ntwzy.com
 ntyswlkj.com
@@ -68203,7 +68194,6 @@ pv4b.com
 pvc-e7031f9b-6522-11e9-883f-fa163e9e2c22.obs.cn-north-1.myhuaweicloud.com
 pvc.zol.com.cn
 pvc123.com
-pvhgws7.com
 pvkj.com
 pvm.zol.com.cn
 pvmama.com
@@ -70112,7 +70102,6 @@ qnsdk.com
 qnssl.com
 qntz.cc
 qnvideo.mengniu99.com
-qnvipmall.com
 qnvod.net
 qnxxz.mengniu99.com
 qny.smzdm.com
@@ -72320,7 +72309,6 @@ rfk.com
 rfmwave.com
 rfsister.com
 rfthunder.com
-rfyqtv2.com
 rg950.com
 rgb128.com
 rgdhgdf.com
@@ -75448,6 +75436,7 @@ shejiku.net
 shejipi.com
 shejiqun.com
 shejis.com
+shejitang.com
 shejiwo.net
 shejiye.com
 sheketiandi.com
@@ -78161,7 +78150,6 @@ srcmini.com
 srcmsh.com
 srcssc.com
 srd.simba.taobao.com
-sreanalyze.com
 srell.com
 sreminder.cn
 srf.qianbao.qq.com
@@ -78495,6 +78483,7 @@ startssl.com
 startup-partner.com
 startup.oupeng.com
 starwarschina.com
+starxn.com
 stat-download-ssl.xunlei.com
 stat-nba.com
 stat-xng-ma.xiaoniangao.cn
@@ -81038,6 +81027,7 @@ taopinquan.com
 taoq.net
 taoqao.com
 taoqian123.com
+taoqizu.com
 taoquanquan.com
 taosdata.com
 taosha.club
@@ -95650,7 +95640,6 @@ xntv.tv
 xnw.com
 xnwan.com
 xnxin.com
-xny365.com
 xnyauto.com
 xnye.net
 xnz3.weijinzhuanbb.com
@@ -100673,6 +100662,7 @@ yans017.com
 yansedaquan.com
 yanshihua.com
 yanshishuo.com
+yanshuangyingx.com
 yantai-chuanpiao.com
 yantai.baixing.com
 yantaibank.net
