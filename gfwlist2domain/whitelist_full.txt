@@ -11089,6 +11089,7 @@ adxserver.ad.cmvideo.cn
 adxvip.com
 adxwork.com
 adyounger.com
+adysimg.com
 adyun.com
 adzar-energy.com
 adzh.com
@@ -14106,7 +14107,6 @@ arkrdigital.com
 arkread.com
 arkteam.net
 arliki.com
-arm001.com
 arm9.net
 arm9home.net
 armbbs.net
@@ -28430,7 +28430,6 @@ dgwap.com
 dgwtrl.com
 dgxbjg.com
 dgxinde.net
-dgxinyuds.com
 dgxue.com
 dgyejia.com
 dgygpx.com
@@ -41675,7 +41674,6 @@ hijoys.com
 hikailink.com
 hikari.wiki
 hikcreate.com
-hikedj.com
 hiklife.com
 hikoon.com
 hikops.com
@@ -78281,6 +78279,7 @@ ssdfans.com
 ssdkauth.hpplay.cn
 ssdv6.tcdn.qq.com
 ssdv6mid.tcdn.qq.com
+ssdzg.com
 sse.com.cn
 sseinfo.com
 ssf.51dmn.top
@@ -94256,6 +94255,7 @@ xiaohuau.xyz
 xiaohulu.com
 xiaohuochai.cc
 xiaohuochai.site
+xiaohus.com
 xiaohuwl.com
 xiaohuxi.cn
 xiaoice.com
@@ -100660,7 +100660,6 @@ yanglong.pro
 yangluojob.com
 yangluoxw.com
 yangmao.info
-yangmaodang.org
 yangmaohao.net
 yangner.com
 yangqianguan.com
