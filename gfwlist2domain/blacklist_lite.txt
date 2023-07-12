@@ -20259,6 +20259,8 @@ mdj02.com
 mdlf.xyz
 mdn.dev
 mdnkids.com
+mdnplay.dev
+mdnyalp.dev
 mdpi.com
 mdrpmx.com
 me-gay.com
@@ -25309,7 +25311,6 @@ qtrac.eu
 qtweeter.com
 quad9.net
 qualcomm-email.com
-qualcomm.com
 qualcommhalo.com
 qualcommlabs.com
 qualcommmea.com
