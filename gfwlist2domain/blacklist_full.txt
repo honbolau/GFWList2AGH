@@ -4001,9 +4001,11 @@ akacrypto.net
 akadeem.net
 akademiye.org
 akadns.com
+akadns.net
 akadns6.net
 akaeai.com
 akafms.net
+akagtm.org
 akahost.net
 akaint.net
 akaishidake-test.ec2.toshiba-medical.biz
@@ -5565,6 +5567,7 @@ avirtualfriend.ch
 avizoon.site
 avizoone.com
 avjb.com
+avjoy.me
 avlang.com
 avlulu.cc
 avlulu001.com
@@ -12208,6 +12211,7 @@ dlsitestudio.com
 dlxi9ddd6fxyg.cloudfront.net
 dlxthj4dgku6j.cloudfront.net
 dlyoutube.com
+dm-event.net
 dm258.com
 dm3a8dsjmaqu2.cloudfront.net
 dm44143bsn99b.cloudfront.net
@@ -12359,6 +12363,7 @@ dnsweb.xyz
 dnswho.xyz
 dnv9o962ksri1.cloudfront.net
 dnvod.tv
+dnvodcdn.me
 dnxepj861ggav.cloudfront.net
 dnzdol7b8bzms.cloudfront.net
 do-essential-oils.com
@@ -25201,6 +25206,7 @@ musclegirlflix.com
 muse.jhu.edu
 musemagazine.it
 musescore.com
+mushroomtrack.com
 mushroomtube.com
 music.monstercat.com
 musicade.net
@@ -27014,6 +27020,7 @@ ole777.com
 olehd.com
 olehdtv.com
 olelive.com
+olemovienews.com
 olevod.com
 olevodtv.com
 oli-school.com
@@ -32101,13 +32108,11 @@ skylineo.com
 skymirror-cirple-guard.firebaseio.com
 skyoceanrescue.com
 skyoyue.com
-skype-edf.akadns.net
 skype.com
 skype.net
 skype.pchome.com.tw
 skypeassets.com
 skypeassets.net
-skypedata.akadns.net
 skyporn.online
 skypost.hk
 skypost.ulifestyle.com.hk
