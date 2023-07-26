@@ -4338,6 +4338,7 @@ amazon-lantern.com
 amazon-launchpad.com
 amazon.co.jp
 amazon.com
+amazon.dev
 amazon.in
 amazon.jobs
 amazon.jp
@@ -9248,6 +9249,8 @@ checkgfw.com
 checkpoint.com
 checkthis.com
 cheezit.com
+chegg.com
+cheggcdn.com
 chei.us
 chemequations.com
 chemnetbase.com
@@ -9782,6 +9785,7 @@ cloudflarestream.com
 cloudflaretest.com
 cloudflarewarp.com
 cloudfoundry.com
+cloudfront.com
 cloudfront.glb.cellopoint.com
 cloudfront.net
 cloudfunctions.net
@@ -9811,6 +9815,7 @@ clsjet.com
 clsp.fun
 club.tw
 club1069.com
+clubhouse.com
 clubhouseapi.com
 clubseventeen.com
 clubsweethearts.com
@@ -13665,6 +13670,7 @@ epaper.wsj-asia.com
 epic.com.tw
 epicbrowser.com
 epicgames.com
+epicgames.dev
 epicnpc.com
 epicquail.co.uk
 epicreads.com
@@ -15219,6 +15225,7 @@ fooooo.com
 footensalle.be
 footjobtube4free.com
 footprint.net
+footprintdns.com
 footstockings.com
 footwiball.com
 for-some.biz
@@ -17957,7 +17964,6 @@ hbg.com
 hbmygj.cn
 hbo.com
 hbo.com.c.footprint.net
-hbo.com.edgesuite.net
 hboasia.com
 hbogo.com
 hbogoasia.com
@@ -21673,6 +21679,8 @@ kajihara.net.br
 kaka1234.net
 kakao.co.kr
 kakao.com
+kakaocdn.net
+kakaocorp.com
 kaktuz.com
 kalachakralugano.org
 kali.org
@@ -23900,6 +23908,7 @@ matsushimakaede.com
 mattborengasser.com
 matters.news
 matters.one
+matters.town
 matthewdgreen.wordpress.com
 matthias.wimmer.name
 matthias.wimmer.tel
@@ -29932,6 +29941,7 @@ rarbgprx.org
 rarbgto.org
 rarbgunblock.com
 rarbgunblock.org
+rarbgunblocked.org
 rarbgway.org
 raremovie.cc
 raremovie.net
@@ -35443,7 +35453,6 @@ twill.net
 twilog.org
 twimbow.com
 twimg.com
-twimg.edgesuite.net
 twimi.net
 twindexx.com
 twinkspornos.com
