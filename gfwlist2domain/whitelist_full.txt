@@ -383,7 +383,6 @@
 0527zz.com
 052cb209c20ec0c2be2ea70e15fe56a5.safeframe.googlesyndication.com
 052yx.com
-0531-jinan.com
 0531.com
 053135.com
 0531jb.com
@@ -15940,7 +15939,6 @@ bb-edu.com
 bb-game.com
 bb-pco.com
 bb06.com
-bb179.com
 bb2.ifeng.com
 bb263256578ff9085e7ffdc49055ccbc.dlied1.cdntips.net
 bb33e5221f3fce7cba5acb48ec056c24.dlied1.cdntips.net
@@ -22917,6 +22915,7 @@ cimamotor.com
 cimc.com
 cimen.club
 cimg.178.com
+cimictiles.com
 ciming-bj.com
 ciming-shop.com
 ciming.com
@@ -24293,7 +24292,6 @@ cnhvacrnet.com
 cnhwjt.com
 cnhzz.com
 cniao5.com
-cniao8.com
 cnibx.com
 cnicif.com
 cnidea.net
@@ -31692,6 +31690,7 @@ dytt7899.com
 dytt8.com
 dytt8.net
 dyx.com
+dyxf365.com
 dyxldjy.com
 dyxsdwm.com
 dyxtw.com
@@ -43575,6 +43574,7 @@ huaqiao.org
 huaqidigital.com
 huaqin.com
 huaqinchi.com
+huaqiu.com
 huaquandian.wang
 huaranhunsha.com
 huaraytech.com
@@ -43812,7 +43812,6 @@ hui712.com
 hui800.com
 hui800.net
 huian.baixing.com
-huianchougy.com
 huians.com
 huibo.com
 huicaishui.net
@@ -45845,6 +45844,7 @@ igoyx.com
 igreatdream.com
 igtm-a101.com
 igtm-b101.com
+igtm-meeting-tencent.com
 igtm.pub
 iguanyu.com
 iguazutraffic.xyz
@@ -46090,6 +46090,7 @@ ikunac.com
 ikuvn.com
 ikx.me
 ikyy.cc
+ikzybf.com
 il133.cn
 il8r.com
 ilab-x.com
@@ -54724,7 +54725,6 @@ ledianduo.com
 ledianyun.com
 lediaocha.com
 ledo.com
-ledole.com
 ledong.baixing.com
 ledou.dl.uu.cc
 ledouwan.com
@@ -55071,7 +55071,6 @@ lezai.com
 lezhi.com
 lezhi99.com
 lezhibo.com
-lezhieducation.com
 lezhiot.com
 lezhiyun.com
 lezhuan.com
@@ -55265,6 +55264,7 @@ liangyi360.com
 liangyunchang.com
 liangzhishu.com
 liangzl.com
+liangzuji.com
 lianhaikeji.com
 lianhanghao.com
 lianhecang.com
@@ -61071,6 +61071,7 @@ mookie1.cn
 moolsun.com
 moomoo.com
 moonbasa.com
+moonbitlang.com
 mooncell.wiki
 moonfly.net
 mooninbox.com
@@ -65241,7 +65242,6 @@ ottpauth.yst.aisee.tv
 ottshopping.net
 ottupdate.api.mgtv.com
 otype.com
-otzyx.com
 ou99.com
 ouapi.com
 oubk.com
@@ -69348,7 +69348,6 @@ qd.lianjia.com
 qd.myapp.com
 qd.pcsdownload.n.shifen.com
 qd256.com
-qd315.net
 qd8.com
 qdac.cc
 qdaeon.com
@@ -102337,6 +102336,7 @@ yingpaigame.com
 yingpingji.com
 yingshe.com
 yingsheng.com
+yingshevip.com
 yingshi.jiangzi.com
 yingshi.jiangzi.com.w.kunlunca.com
 yingshiborui.com
