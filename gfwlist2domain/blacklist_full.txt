@@ -9767,6 +9767,7 @@ cloudcredibility.com
 cloudfare.com
 cloudfire.com
 cloudflare-dns.com
+cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
 cloudflare.com
@@ -9777,6 +9778,7 @@ cloudflarebolt.com
 cloudflareclient.com
 cloudflareinsights.com
 cloudflareok.com
+cloudflareportal.com
 cloudflarepreview.com
 cloudflareresolve.com
 cloudflaressl.com
@@ -26577,6 +26579,7 @@ npa.gov.tw
 npackd.org
 npf.org.tw
 npm.community
+npm.edu.tw
 npmjs.com
 npmjs.org
 npnt.me
@@ -28280,6 +28283,8 @@ pigflying.net
 pikabu.monster
 pikkupiironki.com
 pikkur.com
+pikpak.me
+pikpakdrive.com
 piliapp.com
 pillbeatsblackfridaysale.com
 pilot.game.tw
@@ -32447,6 +32452,7 @@ soundcloud.hs.llnwd.net
 soundcloud.org
 soundofhope.kr
 soundofhope.org
+soundon.fm
 soup.io
 soupofmedia.com
 sourceforge.com
