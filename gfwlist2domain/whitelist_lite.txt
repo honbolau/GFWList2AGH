@@ -2408,7 +2408,6 @@
 24kdh.com
 24ker.com
 24kplus.com
-24kwx.com
 24maker.com
 24money.com
 24om.com
@@ -4065,7 +4064,6 @@
 51chaoban.com
 51chongdian.net
 51chost.com
-51chuguo.org
 51chuli.com
 51cir.com
 51city.fun
@@ -9361,6 +9359,7 @@ amhl.net
 amicool.net
 amif-expo.com
 amijiaoyu.com
+amindbox.com
 aminer.org
 aminglinux.com
 amo9.com
@@ -13221,7 +13220,6 @@ btcsos.com
 btcwatch.com
 btdad.live
 btdad17.xyz
-btddfk.com
 btdog.com
 btdownload.net
 bte.ink
@@ -18834,7 +18832,6 @@ ctoclub.com
 ctoutiao.com
 ctqcw.com
 ctracer.net
-ctrip-lvyou.com
 ctrip-ttd.hk
 ctrip.cn
 ctrip.com
@@ -20067,7 +20064,6 @@ dedemao.com
 dedesos.com
 dedeyun.com
 dedezhuji.com
-deehai.com
 deemob.com
 deemos.com
 deepba.com
@@ -21210,6 +21206,7 @@ doh.pub
 dohnxnn.cn
 dohuo.com
 doido.com
+doii.cc
 doit.am
 doitim.com
 doiua.com
@@ -40598,6 +40595,7 @@ linglong.dev
 linglongart.com
 linglonglife.com
 linglongtech.com
+lingmo.org
 lingmovie.com
 lingnanpass.com
 lingocn.com
@@ -40983,7 +40981,6 @@ livesupport24x7.com
 liveuc.net
 livevideostack.com
 livinglabs.cc
-livku.com
 livotre.com
 liwai.com
 liwei.red
@@ -45495,6 +45492,7 @@ nearcharge.com
 nearsnet.com
 nease.net
 neat-reader.com
+neatifyapp.com
 neavo.me
 nebulogy.com
 nedaex.com
@@ -51477,6 +51475,7 @@ rimiedu.com
 rinbowe.com
 ringdoll.com
 rinlink.com
+rinvay.cc
 ripic.xyz
 rippleos.com
 rippletek.com
@@ -54674,7 +54673,6 @@ siyuetian.net
 siyuweb.com
 sizeofvoid.net
 sizuo.com
-sizushaofu.com
 sj-lawyer.com
 sj0763.com
 sj11hb.com
@@ -55838,6 +55836,7 @@ startos.org
 startssl.com
 startup-partner.com
 starwarschina.com
+starx-w.com
 starxn.com
 stat-nba.com
 stat18.com
@@ -61135,7 +61134,6 @@ venucia.com
 venuscn.com
 venustrain.com
 vephp.com
-ver1.pub
 vercel.com
 verdareto.com
 verisilicon.com
@@ -66343,6 +66341,7 @@ xinfu888.com
 xinfushe.com
 xing008.com
 xing73.com
+xingai.com
 xingames.com
 xingbangip.com
 xingbo.tv
@@ -74552,7 +74551,6 @@ zwjl.net
 zwkf.net
 zwlhome.com
 zwoptical.com
-zwpearl.com
 zws2.com
 zwtianshangm.com
 zwtkl8.com
