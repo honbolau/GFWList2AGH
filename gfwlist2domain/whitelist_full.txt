@@ -6981,6 +6981,7 @@
 6949.com
 695157.com
 695175.com
+69525.com
 695275.com
 695828.com
 695976.sched.v1-dk.tdnsv5.com
@@ -10302,7 +10303,6 @@ acg68.com
 acgaa.xyz
 acgcp.com
 acgdb.com
-acgdmzy.com
 acgdoge.net
 acgist.com
 acgjc.com
@@ -10861,6 +10861,7 @@ adpub.yaolan.com
 adpublish.ydstatic.com
 adpubs.yaolan.com
 adq.chinaso.com
+adqkmob.com
 adquan.com
 adreal.cn
 adreep.cn
@@ -30259,6 +30260,7 @@ dovechina.com
 dovesky.com
 dovov.com
 dowater.com
+doweb8.com
 dowebok.com
 dowei.com
 doweidu.com
@@ -32405,14 +32407,12 @@ edge.ivideo.sina.com.cn
 edgesrv.com
 edhic.com
 edhk9.com
-edianchi.com
 edianshang.com
 edianzu.com
 ediclot.com
 edifier.com
 edimei.com
 edingzhuan.com
-edinuan.com
 edirect.asia
 editcode.net
 edith.xiaohongshu.com
@@ -33491,7 +33491,6 @@ ether-pack.pangolin-sdk-toutiao.com
 ether-pack.pangolin-sdk-toutiao.com.w.cdngslb.com
 ether-pack.pangolin-sdk-toutiao.com.w.cdngslb.com.qr.uuhimalayanqm.com
 ethercap.com
-ethern.me
 ethfans.org
 etiantian.com
 etiantian.net
@@ -35447,7 +35446,6 @@ flyert.com
 flyertea.com
 flyertrip.com
 flyfishx.com
-flyfts.com
 flyfunny.com
 flygo.net
 flygon.net
@@ -36923,7 +36921,6 @@ gaoyizaixian.com
 gaoyoujob.com
 gaoyun.cloud
 gaozhaiedu.com
-gaozhiip.com
 gaozhongwuli.com
 gaozhouba.com
 gaozhuang.xyz
@@ -42314,6 +42311,7 @@ hmnjf.com
 hmnst.com
 hmoe.link
 hmplay.com
+hmrczp.com
 hmrz.wo.cn
 hmsce.org
 hmsem.com
@@ -42425,6 +42423,7 @@ hnhnmg.com
 hnhxin.com
 hnhxxk.com
 hniec.org
+hnied.xyz
 hniic.com
 hniois.com
 hnisca.org
@@ -43528,7 +43527,6 @@ huasheng.love
 huasheng100.com
 huashengdaili.com
 huashengls.com
-huashenll.com
 huashi6.com
 huashichang.com
 huashilm.com
@@ -51193,7 +51191,6 @@ jtwlj.cn
 jtxys8.com
 jtyjy.com
 jtyy.com
-jtzhuan.xyz
 ju33.com
 ju51.com
 ju81.cc
@@ -52281,7 +52278,6 @@ kcart.alipay.com
 kccidc.com
 kccqgj.cn
 kcdn0.com
-kcdns.net
 kcdnvip.com
 kchance.com
 kchile.com
@@ -53646,6 +53642,7 @@ kuwew.com
 kuwo.cn
 kuwuu.com
 kuxiaoji.com
+kuxiaozhu.com
 kuxiuktv.com
 kuxuexi.com
 kuy8.com
@@ -54496,7 +54493,6 @@ ldd.me
 lddengine.com
 lddgo.net
 ldeng.com
-ldjx.cc
 ldk.ruiyufangchan.cn
 ldkj-zs.com
 ldmap.net
@@ -56711,7 +56707,6 @@ longshine.com
 longshunjn11.51sole.com
 longsok.com
 longsto.com
-longsunhenges.com
 longsys.com
 longtaifoods.com
 longtaiwj.com
@@ -67295,7 +67290,6 @@ pjialin.com
 pjjyzx.com
 pjk7ta35.sched.sma.tdnsv5.com
 pjlyds.com
-pjnoi.com
 pjob.net
 pjogndc8ixoidna.360doc.cn
 pjrcn.com
@@ -70369,6 +70363,7 @@ qjsb88.com
 qjshe.com
 qjsmartech.com
 qjtrip.com
+qjwenming.com
 qjwhzs.com
 qjxgold.com
 qjy168.com
@@ -70451,7 +70446,6 @@ qlgpy.com
 qlidc.com
 qlisv.siemens6es7.com
 qlivecdn.com
-qljgw.com
 qll-times.com
 qlmoney.com
 qlnp7a2u.sltadapter.cdntip.com
@@ -70757,7 +70751,6 @@ qquu8.com
 qqvgame.qq.com
 qqvgame.qq.com.x2s-dstack.sched.dcloudstc.com
 qqvip-web.cdn-go.cn
-qqvv88.com
 qqwangming6.com
 qqwaw.com
 qqweb.qq.com
@@ -72471,7 +72464,6 @@ rendna.com
 renegade-project.org
 renesas.cn
 renew.console.aliyun.com
-renfei.net
 rengwan.com
 renhaisiwang.1688.com
 renhence.com
@@ -72744,6 +72736,7 @@ rffan.info
 rffanlab.com
 rfhhzx.com
 rfidcardcube.com
+rfidfans.com
 rfidtech.cc
 rfjckj.cn
 rfk.com
@@ -77793,7 +77786,6 @@ smoba.ams.game.qq.com
 smoba.mid.tdnsv6.com
 smobatv-pic.tga.qq.com
 smobatv-pic.tga.qq.com.cloud.tc.qq.com
-smochen.com
 smohan.net
 smokeliq.com
 smoothgroup.cc
@@ -77994,7 +77986,6 @@ socm.dmp.360.cn
 socolar.com
 socomic.com
 socool-tech.com
-socsight.com
 socwxsns.video.qq.com
 sodalife.xyz
 sodao.com
@@ -78824,7 +78815,6 @@ sspai.com
 sspai.me
 sspapi.youxiaoad.com
 sspeeddns.com
-sspezz.com
 sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
 sspmservice.ad-survey.com
 ssports.com
@@ -79757,7 +79747,6 @@ sudu-y94k.com
 sudu123.net
 suducha.com
 sududa.com
-sudun-cname.com
 sudupower.net
 sudusite.com
 suedai.com
@@ -83112,7 +83101,6 @@ tjst.net
 tjstats.com
 tjtele.com
 tjtj.sugardown.cn
-tjtongye.com
 tjtsfhh.cn
 tjtusuguan.com
 tjufbase.com
@@ -91871,7 +91859,6 @@ wumart.com
 wumei5.com
 wumeishebei.com
 wumii.com
-wumii.org
 wumii.tv
 wuming.com
 wup.browser.qq.com
@@ -96168,6 +96155,7 @@ xn--fjqz50cv5q3so.ltd
 xn--fjqz50cv5q3so.online
 xn--flw351e.com
 xn--glr604k.com
+xn--iiq222b6igvp5c.com
 xn--it-1r3f.com
 xn--jvrr72kgma408a.com
 xn--mtsr39cnql.video
@@ -96815,6 +96803,7 @@ xuyi.net
 xuyilx.com
 xuyimin.club
 xuyuanyi.com
+xuyueswkj.com
 xuzhi.net
 xuzhou.anjuke.com
 xuzhou.baixing.com
