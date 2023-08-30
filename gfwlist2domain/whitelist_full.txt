@@ -1925,7 +1925,6 @@
 169163.com
 169369.com
 1696.com
-1697499.com
 16999.com
 169gold.net
 169it.com
@@ -5500,6 +5499,7 @@
 51xiaolu.com
 51xie.com
 51xingjy.com
+51xinhu.com
 51xinyuan.com
 51xnj.com
 51xpj.com
@@ -8005,7 +8005,6 @@
 8398e10550e3e1b63b41a553cc3a8753.v.smtcdns.net
 83990567.com
 83d568b273990f9528bf2cdb6a4d8d37.safeframe.googlesyndication.com
-83dd.com
 83edu.net
 83f8dp8p.v1d.szbdyd.com
 83f8dspk.v1d.szbdyd.com
@@ -11868,7 +11867,6 @@ ak7amtyh.v1d.szbdyd.com
 akaifa.com
 akaiwl.com
 akamud.gallerycdn.azure.cn
-akandou.com
 akaxin.com
 akbe.com
 akbkgame.com
@@ -31593,9 +31591,6 @@ dyrcb.net
 dyrjjt.com
 dysxxw.com
 dytechnolog.com
-dytg389.xyz
-dytg390.xyz
-dytg391.xyz
 dytt789.com
 dytt7899.com
 dytt8.com
@@ -34806,6 +34801,7 @@ fengxiaotx.com
 fengxuan.co
 fengxuelin.com
 fengyan.cc
+fengyang.fun
 fengyigc.xyz
 fengyitong.name
 fengyiwc.xyz
@@ -35980,7 +35976,6 @@ fujinli.com
 fuka.cc
 fukeha.com
 fulantv.com
-fuli.la
 fuli1024.com
 fuli404.net
 fuliansheng.com
@@ -38403,7 +38398,6 @@ gowinxp.com
 gowithmi.com
 goyihu.com
 goyoo.com
-goyouhuima.com
 gozap.com
 gozendata.com
 gp-dev.cdn.bcebos.com
@@ -40796,6 +40790,7 @@ hblykj.com
 hbm360.com
 hbmes.com
 hbmmtt.com
+hbn68.com
 hbnews.net
 hbnewsoft.com
 hbneww.com
@@ -41413,7 +41408,6 @@ henanjianling.com
 henanjubao.com
 henanpige.com
 henansyj.com
-henanyouth.com
 henbt.com
 hencin.com
 hencoder.com
@@ -41691,6 +41685,7 @@ hhhoo.com
 hhhstz.com
 hhht.lianjia.com
 hhht.zu.anjuke.com
+hhhtfin.com
 hhhtnews.com
 hhhtscf.com
 hhjkyz.com
@@ -42763,7 +42758,6 @@ hostkvm.com
 hostmonit.com
 hostproph.com
 hostxen.com
-hostyun.com
 hot.m.shouji.360tpcdn.com
 hotalk.com
 hotbanner.site
@@ -43980,7 +43974,6 @@ huodongxing.com
 huoduan.com
 huofar.com
 huofutp.com
-huoguopaihang.com
 huogz.com
 huohoo.com
 huohu123.com
@@ -48856,6 +48849,7 @@ jdgslb.net
 jdgwdq.com
 jdh.com
 jdhhmd.com
+jdhmediajd.com
 jdhonline.com
 jdhyplay.com
 jdiaveu.cn
@@ -52436,7 +52430,6 @@ keshan.baixing.com
 keshizhongguo.com
 kesion.com
 kesiyunlai.com
-keslb.com
 keso.cn
 kesucorp.com
 kesum.com
@@ -53753,7 +53746,6 @@ kzerr.com
 kzett.com
 kzeww.com
 kzj365.com
-kzore.com
 kzqs.com
 kzread.com
 kzt.cc
@@ -58191,7 +58183,6 @@ maimemo.com
 maimemostatus.com
 maimiaotech.com
 maimn.com
-maimowang.com
 maimuban.com
 main-api.biligame.com
 main.jiukang.org
@@ -60495,7 +60486,6 @@ mmtrixcnet.com
 mmtrixopt.com
 mmuaa.com
 mmwan.cc
-mmwantai.com
 mmww.com
 mmxiaowu.com
 mmxy.tech
@@ -62303,6 +62293,7 @@ nas.console.aliyun.com
 nas1.cn
 nas66.com
 nas7en42.sched.sma.tdnsv5.com
+nasack.net
 nase.tech
 nasgetinfo.com
 nashwork.com
@@ -63934,6 +63925,7 @@ o4hpc.cn
 o4on.vip
 o51d6rc1.sched.s11t.tdnsv5.com
 o574ou0.cdnnodedns.cn
+o6s.net
 o7bwit0rqeewo5o8lorxmpmqkqdg27il.alicloudwaf.com
 o7h.net
 o7xs6runw.bkt.clouddn.com
@@ -67492,6 +67484,7 @@ po.funshion.com
 pobaby.net
 pobasoft.com
 pocc.cc
+pocidian.com
 pocketdigi.com
 pocketuni.net
 poco.cn
@@ -68604,6 +68597,7 @@ pxdier.net
 pxdsm.com
 pxemba.com
 pxene.com
+pxhuiben.com
 pxjafjc.cn
 pxr0.com
 pxtop1.com
@@ -71919,6 +71913,7 @@ rail-transit.com
 railcn.net
 rails365.net
 rain8.com
+raina.tech
 rainasmoon.com
 rainbond.com
 rainbow.one
@@ -81738,6 +81733,7 @@ tdnsv2.com
 tdnsv3.com
 tdnsv5.com
 tdnsv6.com
+tdnsv7.com
 tdnsv8.com
 tdnsx1.com
 tdotapp.com
@@ -82324,7 +82320,6 @@ thhymj.com
 thief.im
 thinbug.com
 thingjs.com
-thingtry.com
 think-mall.com
 think.lenovo.com.cn
 thinkcmf.com
@@ -84922,7 +84917,6 @@ tyi365.com
 tyinstall.com
 tyjlwy.com
 tyjmmy.com
-tyjmqz.com
 tyjr-cn-chengdu.aliyun.com
 tyjr-cn-heyuan.aliyun.com.gds.alibabadns.com
 tyjr-cn-huhehaote.aliyun.com
@@ -85924,7 +85918,6 @@ upandashi.com
 upanok.com
 upanshadu.com
 upantool.com
-upanxitong.com
 uparpu.com
 upay.10010.com
 upbz.net
@@ -102870,6 +102863,7 @@ yongche.name
 yongche.org
 yongchengren.com
 yongdatang.com
+yongfan99.com
 yonghe1999.com
 yonghejinrong.com
 yongheng.online
@@ -104495,6 +104489,7 @@ yxsss.com
 yxt-tattoo.com
 yxt.com
 yxt521.com
+yxtk.xyz
 yxttzb.com
 yxtun.com
 yxtvg.com
@@ -104930,7 +104925,6 @@ zb.zu.anjuke.com
 zb1.org
 zb128x9.cc
 zb580.tv
-zb8.com
 zbb.sh.gov.cn
 zbbar.net
 zbbm.chsi.com.cn
