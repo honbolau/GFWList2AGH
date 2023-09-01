@@ -840,7 +840,6 @@
 1lib.uk
 1lib.us
 1mobile.com
-1mobile.tw
 1monsterbeatsbydreus.com
 1mynews.asia
 1mynews.com
@@ -4402,6 +4401,7 @@ ameblo.jp
 amentrix.co.uk
 america.gov
 americablog.org
+american.edu
 americanas.com.br
 americandairyco.com
 americanfamily.com
@@ -4822,7 +4822,6 @@ apk2.ml
 apk2.tk
 apk4fun.com
 apkcombo.com
-apkdler.com
 apkdownloadforwindows.com
 apkgk.com
 apkhere.com
@@ -5460,7 +5459,6 @@ australiaplus.com
 auth.docker.io
 authorizeddns.net
 authorizeddns.org
-authorizeddns.us
 authorxml.com
 authy.com
 auto-aufladen.de
@@ -5880,7 +5878,6 @@ bachelorsgrove.org
 backchina.com
 backdoorlesbians.com
 backend.wb888.net
-backpackers.com.tw
 backroomcastingcouch.com
 backstreetmerch.com
 backtotiananmen.com
@@ -7029,6 +7026,7 @@ bitvj.com
 bitwarden.com
 bitxtv.site
 bitz.ai
+bitz.com
 bivipsil.org
 bivpn.com
 biwei198.com
@@ -7211,7 +7209,6 @@ blog.pathtosharepoint.com
 blog.pentalogic.net
 blog.prototypr.io
 blog.pshrmn.com
-blog.qooza.hk
 blog.radi.ws
 blog.ranxiang.com
 blog.reimu.net
@@ -8090,7 +8087,6 @@ buckbuild.com
 buckwild.ca
 budaedu.org
 budatt.com
-buddhanet.com.tw
 buddhanet.idv.tw
 buddhism-controversy-blog.com
 buddhism.about.com
@@ -8611,7 +8607,6 @@ cam4.be
 cam4.com
 cam4.it
 cam4.jp
-cam4.sg
 cam69.com
 camaleonjuguetes.cl
 cambaddies.com
@@ -9649,7 +9644,6 @@ cityoflove.com
 cityoftemecula.org
 citypopulation.de
 citystudent.ca
-citytalk.tw
 citytourgirls.com
 cityxtv.com
 cityxzp.site
@@ -9704,7 +9698,6 @@ cleanadulthost.com
 cleanernow.co.uk
 cleansite.biz
 cleansite.info
-cleansite.us
 cleansolutions.mx
 clearharmony.net
 clearlinux.org
@@ -11566,7 +11559,6 @@ db481.com
 db48ymmipqi6b.cloudfront.net
 db577.com
 db8866.com
-dbc.hk
 dbgjd.com
 dbmws10dbd2dl.cloudfront.net
 dbo15s62lcu1q.cloudfront.net
@@ -12475,7 +12467,6 @@ dom.com
 dom.dl.wu.akadns.net
 dom2.ru
 domai.com
-domain.club.tw
 domain.glass
 domain.name
 domain888.pw
@@ -12941,8 +12932,6 @@ dynalias.com
 dynamic-dns.net
 dynamic-proxy.com
 dynamicdns.biz
-dynamicdns.co.uk
-dynamicdns.me.uk
 dynamicdns.org.uk
 dynamics.com
 dynasys.org
@@ -13383,7 +13372,6 @@ ee176.net
 ee33.jdao.tk
 ee699.net
 ee848.com
-eeas.europa.eu
 eebay.com
 eee112.net
 eee36.net
@@ -15505,7 +15493,6 @@ fr2135.com
 fr24news.com
 fracebook.com
 fradkin.com.ar
-fragment.com
 fragrancebay.com
 framote.com
 france24.com
@@ -18010,6 +17997,7 @@ hd-wheels.com
 hd.club.tw
 hd.cssyz.xyz
 hd.port0.org
+hd.stheadline.com
 hd.tv100.us
 hd1565.com
 hd1999.top
@@ -18661,7 +18649,6 @@ hkcoc.com
 hkcoc.weather.com.hk
 hkcsl.com
 hkctu.org.hk
-hkdailynews.com.hk
 hkday.net
 hkdc.us
 hkddn.org
@@ -18813,6 +18800,7 @@ home.nzcity.co.nz
 home.saxo
 home.shadowsocks.ch
 home.sina.com
+home.so-net.net.tw
 homealonemilfs.com
 homebitcoin.club
 homebrew.bintray.com
@@ -19536,7 +19524,6 @@ iceporncasting.com
 icerocket.com
 icevil.webege.com
 icevirtuallibrary.com
-icfcdn.com
 icgirls.com
 ichigocandy.com
 ichineseporn.com
@@ -19755,7 +19742,6 @@ igoogle.is
 igoogle.it
 igoogle.jo
 igoogle.kz
-igoogle.lv
 igoogle.mn
 igoogle.ms
 igoogle.nl
@@ -19766,7 +19752,6 @@ igoogle.ru
 igoogle.rw
 igoogle.sc
 igoogle.sh
-igoogle.sk
 igoogle.sm
 igoogle.sn
 igoogle.tk
@@ -20654,7 +20639,6 @@ itgonglun.com
 ithaisex.com
 ithelp.ithome.com.tw
 ithk.org
-ithome.com.tw
 itimemachine.net
 itm-tracker.witron.de
 itmag-dz.com
@@ -21681,6 +21665,7 @@ kagyu.org
 kagyu.org.nz
 kagyu.org.za
 kagyumonlam.org
+kagyunews.com.hk
 kagyuoffice.org
 kagyuoffice.org.tw
 kahle.org
@@ -22129,6 +22114,7 @@ ksforfree.ml
 kshownow.net
 ksks.4irc.com
 ksmeow.moe
+ksnews.com.tw
 ksnotes2.eternal-group.com
 kspcoin.com
 kstatic.googleusercontent.com
@@ -23841,7 +23827,6 @@ martinoticias.com
 martinoticias.org
 martix.org
 martsangkagyuofficial.org
-maruta.be
 marvel.com
 marvel10thanniversary.com
 marveldimensionofheroes.com
@@ -24232,7 +24217,6 @@ meteor.com
 meteorshowersonline.com
 methdad.com
 metro.taipei
-metrohk.com.hk
 metrolife.ca
 metronominal.xyz
 metropolismag.com
@@ -25344,7 +25328,6 @@ myanniu.com
 myappleid.com
 myatos.net
 myaudiocast.com
-myav.com.tw
 myav.life
 myav.tv
 myav123.com
@@ -25548,7 +25531,6 @@ mysdn.net
 mysecondarydns.com
 mysexgames.com
 mysexygfs.com
-myshare.url.com.tw
 myshopify.com
 mysims.com
 mysimsracing.com
@@ -26040,7 +26022,6 @@ news.mingpao.com
 news.mn
 news.modia.com.hk
 news.msn.com.tw
-news.nationalgeographic.com
 news.now.com
 news.omy.sg
 news.pchome.com.tw
@@ -26602,7 +26583,6 @@ npmjs.com
 npmjs.org
 npnt.me
 npr.org
-nps.gov
 npsboost.com
 nqma.net
 nqrmanbetx.com
@@ -26993,7 +26973,6 @@ ohsexotube.com
 ohsextv.com
 ohssr.me
 ohyeah1080.com
-oikos.com.tw
 oiktv.com
 oiobbs.com
 oizoblog.com
@@ -27001,6 +26980,7 @@ ojbkss.win
 ok.hopto.org
 ok.ru
 ok.writers.idv.tw
+ok.xxx
 ok158158.com
 ok246.com
 ok367.com
@@ -27032,7 +27012,6 @@ oktw.6te.net
 okvpn.cn
 okx.com
 okxav.com
-olabloga.pl
 olcl.com
 old-cat.net
 old.honeynet.org
@@ -27216,7 +27195,6 @@ onmypc.biz
 onmypc.info
 onmypc.net
 onmypc.org
-onmypc.us
 onsalekey.com
 onsaletrend.com
 onstream.cc
@@ -29706,7 +29684,6 @@ qnap.com
 qombol.com
 qooqlevideo.com
 qoos.com
-qooza.hk
 qorno.com
 qp991919.com
 qpby00.com
@@ -30839,6 +30816,7 @@ salonsp.com
 salth2ofish.com
 salvation.org.hk
 salvationarmyradio.org
+samair.ru
 samaskew.com
 sambaporno.com
 sambhota.org
@@ -30983,6 +30961,7 @@ sbo8810.com
 sbobet.com
 sbofa99.com
 sbrand988.com
+sbs.com.au
 sbsstudio.net63.net
 sbuxcard.com
 sc-cdn.net
@@ -31689,6 +31668,7 @@ shadows.pw
 shadowsky.xyz
 shadowslaves.com
 shadowsocks-r.com
+shadowsocks.asia
 shadowsocks.at
 shadowsocks.be
 shadowsocks.biz
@@ -32027,6 +32007,7 @@ singaporepools.com.sg
 singfortibet.com
 singlelogin.app
 singlelogin.me
+singpao.com.hk
 singtao.ca
 singtao.com
 singtao.com.au
@@ -32048,6 +32029,7 @@ sinocast.com
 sinocism.com
 sinoinsider.com
 sinomontreal.ca
+sinonet.ca
 sinopitt.info
 sinopsis.cz
 sinoquebec.com
@@ -32083,6 +32065,7 @@ site40.net
 site44.com
 site88.net
 site90.net
+sitebro.tw
 siteengineserver.com
 sitegetter.net
 siteintelgroup.com
@@ -32142,6 +32125,7 @@ skyassets.com
 skyav.me
 skybet.com
 skybet98.com
+skyking.com.tw
 skyking.net-tv.tw
 skykiwi.com
 skylikesun.blogspot.my
@@ -32252,10 +32236,12 @@ smathis.com
 smcconnell.co.uk
 smchbooks.com
 smdingenieria.cl
+smh.com.au
 smh88800.com
 smh8885.com
 smhric.org
 sminted.com
+smith.edu
 sml011.com
 smm99999.com
 smokinmovies.com
@@ -32339,6 +32325,7 @@ socks-proxy.net
 sockscap64.com
 sockslist.net
 socrec.org
+sod.co.jp
 sod99.com
 sodichan.com
 soft4fun.net
@@ -33140,6 +33127,7 @@ sttcloud.net
 sttcloud.top
 stuarttown.com.au
 stuarttown.org.au
+student.tw
 studentsexparties.com
 studentsforafreetibet.org
 studerendeforetfrittibet.dk
@@ -35022,7 +35010,6 @@ trijayanews.com
 trikepatrol.com
 trimleng.cn
 trimleng.com
-trimondi.de
 trinita.tv
 triokini.com
 trionworlds.com
@@ -37601,6 +37588,7 @@ weiphone.com
 weiquanwang.org
 weirdhentai.com
 weisuo.ws
+weitt.us
 weiweishe.github.io
 weiyuksj.com
 weknowporn.com
@@ -37622,7 +37610,6 @@ wen.ru
 wengewang.com
 wengewang.org
 wenhui.ch
-wenweipo.com
 wenxuecity.com
 wenyunchao.com
 wenyunchao.spaces.live.com
@@ -43240,6 +43227,7 @@ www.zyxel.com.tw
 www.zz323.com
 www.zzwav.com
 www01.ktzhk.com
+www1.american.edu
 www1.biz
 www1.cbn.com
 www1.downsx.com
@@ -43303,7 +43291,6 @@ wzfou.me
 wzlthw.com
 wzmyg.com
 wztv8.com
-wzyboy.im
 x-art.com
 x-arthd.com
 x-artvideo.net
@@ -44601,7 +44588,6 @@ youthforfreechina.org
 youthforhumanrights.org
 youthnetradio.org
 youthtaiwan.net
-youthwant.com.tw
 youtobe.com
 youtrannytube.com
 youtu.be

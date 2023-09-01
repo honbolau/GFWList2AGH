@@ -789,7 +789,6 @@
 1lib.uk
 1lib.us
 1mobile.com
-1mobile.tw
 1monsterbeatsbydreus.com
 1mynews.asia
 1mynews.com
@@ -3910,6 +3909,7 @@ amebaowndme.com
 ameblo.jp
 america.gov
 americablog.org
+american.edu
 americandairyco.com
 americanfamily.com
 americangreencard.com
@@ -4243,7 +4243,6 @@ apk2.ml
 apk2.tk
 apk4fun.com
 apkcombo.com
-apkdler.com
 apkdownloadforwindows.com
 apkgk.com
 apkhere.com
@@ -4796,7 +4795,6 @@ australiachinarelations.org
 australiaplus.com
 authorizeddns.net
 authorizeddns.org
-authorizeddns.us
 authorxml.com
 authy.com
 auto-aufladen.de
@@ -6200,6 +6198,7 @@ bitvj.com
 bitwarden.com
 bitxtv.site
 bitz.ai
+bitz.com
 bivipsil.org
 bivpn.com
 biwei198.com
@@ -7546,7 +7545,6 @@ cam4.be
 cam4.com
 cam4.it
 cam4.jp
-cam4.sg
 cam69.com
 camaleonjuguetes.cl
 cambaddies.com
@@ -8410,7 +8408,6 @@ cityoflove.com
 cityoftemecula.org
 citypopulation.de
 citystudent.ca
-citytalk.tw
 citytourgirls.com
 cityxtv.com
 cityxzp.site
@@ -8449,7 +8446,6 @@ cldmail.ru
 cleanadulthost.com
 cleansite.biz
 cleansite.info
-cleansite.us
 cleansolutions.mx
 clearharmony.net
 clearlinux.org
@@ -9647,7 +9643,6 @@ db458.com
 db481.com
 db577.com
 db8866.com
-dbc.hk
 dbgjd.com
 dbr.ee
 dbw9999.com
@@ -12991,7 +12986,6 @@ fr.cr
 fr2135.com
 fr24news.com
 fracebook.com
-fragment.com
 fragrancebay.com
 framote.com
 france24.com
@@ -16433,7 +16427,6 @@ iceporn.com
 iceporncasting.com
 icerocket.com
 icevirtuallibrary.com
-icfcdn.com
 icgirls.com
 ichigocandy.com
 ichineseporn.com
@@ -16629,7 +16622,6 @@ igoogle.is
 igoogle.it
 igoogle.jo
 igoogle.kz
-igoogle.lv
 igoogle.mn
 igoogle.ms
 igoogle.nl
@@ -16640,7 +16632,6 @@ igoogle.ru
 igoogle.rw
 igoogle.sc
 igoogle.sh
-igoogle.sk
 igoogle.sm
 igoogle.sn
 igoogle.tk
@@ -20189,7 +20180,6 @@ martinoticias.com
 martinoticias.org
 martix.org
 martsangkagyuofficial.org
-maruta.be
 marvel.com
 marvel10thanniversary.com
 marveldimensionofheroes.com
@@ -22610,7 +22600,6 @@ npmjs.com
 npmjs.org
 npnt.me
 npr.org
-nps.gov
 npsboost.com
 nqma.net
 nqrmanbetx.com
@@ -22941,6 +22930,7 @@ oiobbs.com
 oizoblog.com
 ojbkss.win
 ok.ru
+ok.xxx
 ok158158.com
 ok246.com
 ok367.com
@@ -22969,7 +22959,6 @@ oktvusa.com
 okvpn.cn
 okx.com
 okxav.com
-olabloga.pl
 olcl.com
 old-cat.net
 older-women-movies.com
@@ -23126,7 +23115,6 @@ onmypc.biz
 onmypc.info
 onmypc.net
 onmypc.org
-onmypc.us
 onsalekey.com
 onsaletrend.com
 onstream.cc
@@ -25362,7 +25350,6 @@ qnap.com
 qombol.com
 qooqlevideo.com
 qoos.com
-qooza.hk
 qorno.com
 qp991919.com
 qpby00.com
@@ -26327,6 +26314,7 @@ saloncs.com
 salonsp.com
 salth2ofish.com
 salvationarmyradio.org
+samair.ru
 samaskew.com
 sambaporno.com
 sambhota.org
@@ -27016,6 +27004,7 @@ shadows.pw
 shadowsky.xyz
 shadowslaves.com
 shadowsocks-r.com
+shadowsocks.asia
 shadowsocks.at
 shadowsocks.be
 shadowsocks.biz
@@ -27321,6 +27310,7 @@ sinocast.com
 sinocism.com
 sinoinsider.com
 sinomontreal.ca
+sinonet.ca
 sinopitt.info
 sinopsis.cz
 sinoquebec.com
@@ -27351,6 +27341,7 @@ site40.net
 site44.com
 site88.net
 site90.net
+sitebro.tw
 siteengineserver.com
 sitegetter.net
 siteintelgroup.com
@@ -27509,6 +27500,7 @@ smh88800.com
 smh8885.com
 smhric.org
 sminted.com
+smith.edu
 sml011.com
 smm99999.com
 smokinmovies.com
@@ -28237,6 +28229,7 @@ strongwindpress.com
 stroyexpert.org
 sttcloud.net
 sttcloud.top
+student.tw
 studentsexparties.com
 studentsforafreetibet.org
 studerendeforetfrittibet.dk
@@ -29907,7 +29900,6 @@ trijayanews.com
 trikepatrol.com
 trimleng.cn
 trimleng.com
-trimondi.de
 trinita.tv
 triokini.com
 trionworlds.com
@@ -32098,6 +32090,7 @@ weiphone.com
 weiquanwang.org
 weirdhentai.com
 weisuo.ws
+weitt.us
 weiyuksj.com
 weknowporn.com
 welcometopurgatory.ca
@@ -32814,7 +32807,6 @@ wzfou.me
 wzlthw.com
 wzmyg.com
 wztv8.com
-wzyboy.im
 x-art.com
 x-arthd.com
 x-artvideo.net
