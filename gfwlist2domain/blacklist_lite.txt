@@ -8507,7 +8507,6 @@ cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
 cloudflare.com
-cloudflare.net
 cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
@@ -14069,6 +14068,8 @@ giaxzp.site
 gibbook.com
 giexu2020.com
 gifeye.com
+giffgaff.com
+giffgaff.design
 gifnuki.com
 gifporntube.com
 gifree.com
