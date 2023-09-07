@@ -4370,7 +4370,6 @@
 3qhouse.com
 3qqq.net
 3qwe.com
-3qzone.com
 3r66.com
 3rd.t.sohu.com
 3rd35g.tdum.alibaba.com
@@ -9201,6 +9200,8 @@
 984g.com
 985.so
 985dh.com
+985ks.com
+985ks.net
 985sy.com
 986338dsd.com
 98654.com
@@ -9251,7 +9252,6 @@
 991yue.com
 9922524.com
 9928.tv
-9929846.com
 9939.com
 99394.com
 993h.com
@@ -11764,6 +11764,7 @@ aixinbaomu.com
 aixinquban.com
 aixinwu.org
 aixinyunfan.com
+aixiu.net
 aixq.com
 aixue.net
 aixuedai.com
@@ -17181,6 +17182,7 @@ bitett.com
 bitetui.com
 bitgo.cc
 bitgo.net
+bitgo.tech
 bitguai.com
 bithosts.net
 bithub00.com
@@ -35953,6 +35955,7 @@ fui.im
 fuimg.com
 fuiou.com
 fuioupay.com
+fujfu.com
 fujiabin.com
 fujianrc.com
 fujiansme.com
@@ -50149,6 +50152,7 @@ jjdiaoyu.com
 jjdzc.com
 jjecn.com
 jjfinder.com
+jjfuzu.com
 jjg630.com
 jjgjy.cc
 jjglobal.com
@@ -50458,6 +50462,7 @@ jobuy.com
 jobvvv.com
 jobyp.com
 jocat.com
+jodeibel.com
 joe92.com
 johhan.com
 johnardo.com
@@ -52363,6 +52368,7 @@ kenaalev.v1d.szbdyd.com
 kenaalj6.v1d.szbdyd.com
 kenaalsf.v1d.szbdyd.com
 kename.com
+kendingde.com
 kendocn.com
 kendryte.com
 kenfor.com
@@ -61585,6 +61591,7 @@ mwrfchina.org
 mwryx.com
 mws.adsage.com
 mwsa.ximalaya.com
+mwtee.com
 mwyzhcdn.com
 mwzv2phu.sched.sma.tdnsv5.com
 mx-industry.com
@@ -72277,6 +72284,7 @@ reg.lenovo.com.wswebcdn.com
 reg.thinkpad.com
 reg.thinkpad.com.wswebcdn.com
 reg007.com
+regengbaike.com
 regexr-cn.com
 region.ifeng.com
 regioninfo-pa.googleapis.com
@@ -78721,8 +78729,10 @@ sst.taptap.com
 ssv.admaster.com.cn
 sswater.com
 sswchina.com
+ssxcycy.com
 ssxd.mediav.com
 ssxf.net
+ssxpxjt.com
 ssxxp.com
 ssyar.com
 ssyer.com
@@ -90682,6 +90692,7 @@ wjrcb.com
 wjshw.com
 wjsou.com
 wjsw.com
+wjtzyg.com
 wjunjie.com
 wjw.jiangsu.gov.cn
 wjw.shanxi.gov.cn
@@ -93885,7 +93896,6 @@ xbidc.com
 xbiquge.cc
 xbiquge.com
 xbiquge.la
-xbiquge.so
 xbiquge.tw
 xbiquge6.com
 xbiqugew.com
@@ -93981,6 +93991,7 @@ xcot.com
 xcpapa.site
 xcpapa.xyz
 xcphzs.com
+xcpxssx.com
 xcq2022.com
 xcqxcq.com
 xcrxykl.com
