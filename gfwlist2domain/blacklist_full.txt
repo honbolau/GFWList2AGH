@@ -5049,6 +5049,7 @@ apps.box.com
 apps.education2020.com
 apps.evozi.com
 apps.mohawkcollege.ca
+appsflayer.com
 appsflyer.com
 appshopper.com
 appsocks.net
@@ -7003,6 +7004,7 @@ bitcointalk.org
 bitcoinworld.com
 bitfinex.com
 bitflyer.com
+bitget.com
 bitgz.com
 bithumb.com
 bitinka.com.ar
@@ -10514,6 +10516,7 @@ cruisecritic.com
 crunchyroll.com
 crustwebsites.net
 crv2000.com
+crypto.com
 cryptocat.com
 cryptocert.org
 cryptocoinsnews.com
@@ -21859,6 +21862,7 @@ kik.cl
 kik.com
 kikdirty.com
 kikibt.org
+killcovid2021.com
 killerjo.net
 killingfieldsmuseum.com
 killwall.com
@@ -24217,6 +24221,8 @@ metroradio.com.hk
 metrotoons.com
 meuhentai.com
 mewe.com
+mexc.com
+mexcsensors.com
 mexgroup.com
 mexpress.cl
 meyou.jp
@@ -30731,6 +30737,7 @@ sa.hao123.com
 sa36.net
 sa78gs.wpc.edgecastcdn.net
 saalt.org
+saasexch.com
 saatchiart.com
 saboom.com
 sabuibo.net
