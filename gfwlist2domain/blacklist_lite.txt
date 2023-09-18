@@ -2114,7 +2114,6 @@
 6up.com
 6xxxvideos.com
 6yhy.com
-7-zip.org
 7004202.com
 70066hg.com
 7009.cc
@@ -19300,6 +19299,7 @@ lhfplay.com
 lhj006.com
 lhj600.com
 li-hongzhi-master.org
+li.taipei
 liangchenyun.io
 liangchenyun.xyz
 liangyou.net
@@ -21077,6 +21077,7 @@ moneyswift.online
 moneywithfacebook.com
 mongodb.com
 mongodb.org
+monica.im
 monitorchina.org
 monitorware.com
 monitrix.net
@@ -29847,7 +29848,6 @@ transangels.com
 transarmuito.com
 transcamslive.com
 translate.goog
-translate.google
 translatetheweb.com
 translatewiki.net
 translatewiki.org
