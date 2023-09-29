@@ -19518,6 +19518,7 @@ capitalcloud.net
 capitalonline.net
 capiv2.xinyue.qq.com
 capjoy.com
+caplanking.com
 capsuleshanghai.com
 captcha.95516.com
 captcha.95516.com.wscdns.com
@@ -46993,7 +46994,6 @@ indier.com
 indivi-cdn.shouji.sogou.com
 indmi.com
 induta.com
-indvaan.com
 ineice.com
 inengyuan.com
 inesa-it.com
@@ -53354,7 +53354,6 @@ kugou.net
 kuguopush.com
 kugz.net
 kuhii.com
-kuhua.net
 kuicc.com
 kuihuakeji.com
 kuihuo.com
@@ -63605,7 +63604,6 @@ ntqfdq.com
 ntrcb.com
 nttui.com
 ntuiw.com
-ntvalumium.com
 ntwikis.com
 ntwzy.com
 ntyswlkj.com
@@ -65597,7 +65595,6 @@ pacaio.match.qq.com
 pacdn.com
 paceroom.net
 pacgatelaw.com
-package-design.net
 package.box.xiaomi.com
 package.cdn.box.xiaomi.com
 package.dingtalk.com
@@ -66281,7 +66278,6 @@ pdd.net
 pddcdn.com
 pddeu.com
 pddim.com
-pddjw.com
 pddpic.com
 pdds-cdn.uc.cn
 pddugc.com
@@ -81154,7 +81150,6 @@ tangruiqian.com
 tangsanshu.com
 tangshan.anjuke.com
 tangshan.cc
-tangshencs.com
 tangshijun.com
 tangshuang.net
 tangshui.net
@@ -86317,6 +86312,7 @@ uuyoyo.com
 uuzham.com
 uuzhufu.com
 uuzo.net
+uuzone.com
 uuzu.com
 uuzuonline.com
 uuzuonline.net
@@ -88890,6 +88886,7 @@ wbox.sinaimg.cn
 wbpctips.mobile.sina.cn
 wbpctips.uve.weibo.com
 wbpvc.com
+wbsdz.com
 wbsrf.com
 wbstatic.douyu.com
 wbstatic.douyu.com.w.cdngslb.com

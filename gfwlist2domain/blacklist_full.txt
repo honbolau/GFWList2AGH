@@ -26360,7 +26360,12 @@ nikezoom.com
 nikkan-gendai.com
 nikkan-spa.jp
 nikkansports.com
+nikke-de.com
+nikke-en.com
+nikke-fr.com
+nikke-jp.com
 nikke-kr.com
+nikke-sea.com
 nikkei.com
 nikkei4946.com
 nikkisixx.net
