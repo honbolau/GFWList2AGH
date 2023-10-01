@@ -8988,6 +8988,7 @@ cdn-images.mailchimp.com
 cdn-lg.line-apps.com
 cdn-main.plus500.com
 cdn-osawaris.nutaku.net
+cdn-spotify-experiments.conductrics.com
 cdn-terapeak.com
 cdn.assets.lfpcontent.com
 cdn.cms-twdigitalassets.com
@@ -9773,6 +9774,7 @@ cloudcredibility.com
 cloudfare.com
 cloudfire.com
 cloudflare-dns.com
+cloudflare-ech.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
@@ -10246,6 +10248,7 @@ comze.com
 con.hk
 conair.me
 conceptdoppler.org
+conductrics.com
 conduit.com
 coned.com
 config.getiantem.org
