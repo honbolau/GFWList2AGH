@@ -5463,6 +5463,7 @@ australia.kinokuniya.com
 australiachinarelations.org
 australiaplus.com
 auth.docker.io
+auth0.com
 authorizeddns.net
 authorizeddns.org
 authorxml.com
@@ -6024,6 +6025,7 @@ basicframes.com
 basiclue.com
 basicprogramming.comyr.com
 basil.idv.tw
+basilisk-browser.org
 basketbawful.com
 bastillepost.com
 bastropfirestone.com
@@ -8015,6 +8017,7 @@ brourou.com
 brovpn.io
 browse007.com
 browsec.com
+browser.kagi.com
 browsercam.com
 browserleaks.com
 brsbox.com
@@ -10499,6 +10502,7 @@ crmdynint.com
 crocoguide.com
 crocotube.com
 crola.xyz
+cromite.org
 crossborderexpansion.com
 crossfire.co.kr
 crossfireyouthministry.com
@@ -11694,6 +11698,7 @@ debate.org
 debian.org
 debug.com
 debugproject.com
+decentr.net
 dechamora.com
 deck.ly
 decloudus.com
@@ -12529,6 +12534,7 @@ dotfacebook.com
 dotfacebook.net
 dotfreesex.com
 dotherex.com
+dothq.org
 dotplane.com
 dotsub.com
 dotunnel.com
@@ -14101,6 +14107,8 @@ ezto.in
 eztw.com
 ezua.com
 ezwebtest.com
+f-dro1d.org
+f-droid.com
 f-droid.org
 f-q.me
 f-secure.com
@@ -14776,6 +14784,7 @@ fdd.org
 fdiintelligence.com
 fdn.fr
 fdp.de
+fdroid.org
 fdzeta.com
 fe-ver.com
 feacboo.com
@@ -15155,6 +15164,7 @@ fljsq.cn
 fll.cc
 flnet.org
 flog.tw
+floorp.app
 floplus.com
 floppy-tits.com
 floridablue.com
@@ -18405,6 +18415,7 @@ hichannel.hinet.net
 hidalgo.cl
 hidden-advent.org
 hiddenvoyeurspy.com
+hiddify.com
 hide-ip.us
 hide-me.org
 hide-my-ip.com
@@ -21671,6 +21682,7 @@ kadokawagakugei.com
 kaggle.com
 kaggle.net
 kaggleusercontent.com
+kagi.com
 kaguragames.com
 kagyu-sfla.org
 kagyu.org
@@ -21965,6 +21977,7 @@ kitdesign.com
 kitster.me
 kity.pw
 kiwi.kz
+kiwibrowser.com
 kj.1680210.com
 kk-whys.co.jp
 kk.etowns.net
@@ -22013,6 +22026,7 @@ kmc-av.com
 kmcf.kinmen.gov.tw
 kmdhyy.com
 kmeiju.net
+kmeleonbrowser.org
 kmff17.com
 kmh.gov.tw
 kmov.com
@@ -22758,6 +22772,7 @@ libraryofthumbs.com
 libredd.it
 libredns.gr
 libreswan.org
+librewolf.net
 librox.co.za
 libsolutions.app
 libsolutions.net
@@ -24441,6 +24456,7 @@ mimi22.top
 mimiai.net
 mimissr.net
 mimivip.com
+minbrowser.org
 minchen.comuv.com
 mindandlife.org
 mindgeek.com
@@ -25945,6 +25961,7 @@ netsjoes.com.br
 netsneak.com
 netsohes.com.br
 netsolssl.com
+netsurf-browser.org
 nettoyeur.tk
 nettyinternet.com
 netvideogirls.com
@@ -27704,6 +27721,7 @@ pal.hgob.org
 palacemoon.com
 palcomix.com
 paldengyal.com
+palemoon.org
 palestineremix.com
 palevo.com
 palgrave.com
@@ -27811,6 +27829,7 @@ pascherbeatsmonster.com
 pashtovoa.com
 pasiahola.com
 pasionmujeres.com
+paskoocheh.com
 pass.fm
 pass.tdna.me
 passage.life
@@ -29536,6 +29555,7 @@ pullishy.ca
 pullstring.net
 pulsacijazivota.com
 pulse.yahoo.com
+pulsebrowser.app
 punchbowl.com
 punishbang.com
 punishtube.com
@@ -29831,6 +29851,7 @@ quran.nu
 quranexplorer.com
 quranicaudio.com
 quranurdu.com
+qutebrowser.org
 quutoo.net
 qvodzy.org
 qwant.com

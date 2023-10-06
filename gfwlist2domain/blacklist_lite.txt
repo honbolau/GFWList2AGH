@@ -4799,6 +4799,7 @@ austinjardinera.com
 australia-proxy.com
 australiachinarelations.org
 australiaplus.com
+auth0.com
 authorizeddns.net
 authorizeddns.org
 authorxml.com
@@ -5289,6 +5290,7 @@ baselinestudy.org
 basevie.fr
 basicframes.com
 basiclue.com
+basilisk-browser.org
 basketbawful.com
 bastillepost.com
 bastropfirestone.com
@@ -9101,6 +9103,7 @@ crmdynint.com
 crocoguide.com
 crocotube.com
 crola.xyz
+cromite.org
 crossborderexpansion.com
 crossfireyouthministry.com
 crossfitfirestone.com
@@ -9757,6 +9760,7 @@ debate.org
 debian.org
 debug.com
 debugproject.com
+decentr.net
 dechamora.com
 deck.ly
 decloudus.com
@@ -10405,6 +10409,7 @@ dotfacebook.com
 dotfacebook.net
 dotfreesex.com
 dotherex.com
+dothq.org
 dotplane.com
 dotsub.com
 dotunnel.com
@@ -11728,6 +11733,8 @@ ezto.in
 eztw.com
 ezua.com
 ezwebtest.com
+f-dro1d.org
+f-droid.com
 f-droid.org
 f-q.me
 f-secure.com
@@ -12360,6 +12367,7 @@ fdd.org
 fdiintelligence.com
 fdn.fr
 fdp.de
+fdroid.org
 fdzeta.com
 fe-ver.com
 feacboo.com
@@ -12699,6 +12707,7 @@ fljsq.cn
 fll.cc
 flnet.org
 flog.tw
+floorp.app
 floplus.com
 floppy-tits.com
 floridablue.com
@@ -15433,6 +15442,7 @@ hiccears.com
 hidalgo.cl
 hidden-advent.org
 hiddenvoyeurspy.com
+hiddify.com
 hide-ip.us
 hide-me.org
 hide-my-ip.com
@@ -18401,6 +18411,7 @@ kadokawagakugei.com
 kaggle.com
 kaggle.net
 kaggleusercontent.com
+kagi.com
 kaguragames.com
 kagyu-sfla.org
 kagyu.org
@@ -18657,6 +18668,7 @@ kitdesign.com
 kitster.me
 kity.pw
 kiwi.kz
+kiwibrowser.com
 kk.stream
 kk2582.com
 kk426.com
@@ -18694,6 +18706,7 @@ kmart.com
 kmc-av.com
 kmdhyy.com
 kmeiju.net
+kmeleonbrowser.org
 kmff17.com
 kmov.com
 kmqlms.com
@@ -19350,6 +19363,7 @@ libraryofthumbs.com
 libredd.it
 libredns.gr
 libreswan.org
+librewolf.net
 libsolutions.app
 libsolutions.net
 libsyn.com
@@ -20729,6 +20743,7 @@ mimi22.top
 mimiai.net
 mimissr.net
 mimivip.com
+minbrowser.org
 mindandlife.org
 mindgeek.com
 mindmaple.com
@@ -22057,6 +22072,7 @@ netsarang.com
 netsee.co
 netsneak.com
 netsolssl.com
+netsurf-browser.org
 nettoyeur.tk
 nettyinternet.com
 netvideogirls.com
@@ -23545,6 +23561,7 @@ pakistanporntube.net
 palacemoon.com
 palcomix.com
 paldengyal.com
+palemoon.org
 palestineremix.com
 palevo.com
 palgrave.com
@@ -23632,6 +23649,7 @@ pascherbeatsmonster.com
 pashtovoa.com
 pasiahola.com
 pasionmujeres.com
+paskoocheh.com
 pass.fm
 passage.life
 passeporttibetain.org
@@ -25220,6 +25238,7 @@ pullfolio.com
 pullishy.ca
 pullstring.net
 pulsacijazivota.com
+pulsebrowser.app
 punchbowl.com
 punishbang.com
 punishtube.com
@@ -25482,6 +25501,7 @@ quran.nu
 quranexplorer.com
 quranicaudio.com
 quranurdu.com
+qutebrowser.org
 quutoo.net
 qvodzy.org
 qwant.com
