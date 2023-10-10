@@ -8630,6 +8630,7 @@
 91ceshi.com
 91cha.com
 91chang.com
+91changxie.com
 91chuxue.com
 91cpm.com
 91cps.com
@@ -10058,6 +10059,7 @@ abdstem.com
 abe-tech.com
 abeacon.cn
 abeacon.com
+abesmoke.com
 abfalse.cn
 abfirst.cn
 abhouses.com
@@ -14457,6 +14459,7 @@ atmob.com
 atobo.com
 atoken.m.taobao.com
 atom-log.3.cn
+atomgit.com
 atomhike-en.com
 atomhike.com
 atomic-art.com
@@ -22043,6 +22046,7 @@ chinametro.net
 chinameyer.com
 chinamfi.net
 chinamining.com
+chinamishu.net
 chinamission.be
 chinamlmcc.com
 chinamobile.com
@@ -22340,6 +22344,7 @@ chipcoo.com
 chipcreation.com
 chipdance.com
 chiphell.com
+chiphometek.com
 chiplayout.net
 chipmanufacturing.org
 chiponeic.com
@@ -25986,8 +25991,10 @@ ctfund.com
 ctg.jd.com
 ctg.jd.com.gslb.qianxun.com
 ctg75.com
+ctgapp.com
 ctghealthy.com
 ctghr.com
+ctghro.com
 cthhmu.com
 cthnet.com
 cthuwork.com
@@ -52645,7 +52652,6 @@ kkkd.com
 kkkwww.com
 kklishi.com
 kklxj.com
-kkmaoyi.com
 kkmh.com
 kkminer.com
 kkmop.com
@@ -63393,6 +63399,7 @@ novelapi.baidu.com
 noveless.com
 novelfm.com
 novelfmpic.com
+novelfmstatic.com
 novelfmvod.com
 novell.me
 novelsns.html5.qq.com
@@ -67146,7 +67153,6 @@ plalzhang.com
 planckled.com
 planetmeican.com
 planoi.com
-plantextra.com
 plantname.xyz
 plantower.com
 plants.ink
@@ -76262,6 +76268,7 @@ shouxintec.com
 shouyao.com
 shouye-wang.com
 shouyi.dftoutiao.com
+shouyihuo.com
 shouyou.3dmgame.com
 shouyou.53shubiao.com
 shouyou.com
@@ -77033,6 +77040,7 @@ sir66.com
 siryin.com
 sis.jpush.io
 sisen.com
+sisensing.com
 sishuok.com
 sishuxuefu.com
 sisijiyi.com
@@ -78042,6 +78050,7 @@ soulgame.mobi
 souluo.net
 soulv.com
 soulwonderland.com
+sound-force.com
 soundai.info
 soup.play.aiseet.atianqi.com
 soup.v.qq.com
@@ -80925,6 +80934,7 @@ taiantang.net
 taibumall.com
 taicang.baixing.com
 taichi-app.com
+taichi-maker.com
 taichyfood.com
 taicihome.com
 taidao.net
@@ -82173,6 +82183,7 @@ third.adeaz.com
 thirdlogin.yy.com
 thirdqq.qlogo.cn
 thirdwx.qlogo.cn
+thiscute.world
 thishealthsummit.com
 thisim.net
 thisisdongdongqiang.com
@@ -89375,6 +89386,7 @@ weiqinfang.com
 weiqingbao.cc
 weiqitv.com
 weiqudao.net
+weiqundaquan.com
 weiquyx.com
 weiren.com
 weirenwu.weibo.com
@@ -95141,6 +95153,7 @@ xinji.org
 xinjiadiy.com
 xinjiance.com
 xinjianggou.com
+xinjidian.com
 xinjimo.com
 xinjingks.com
 xinjisuan.net
@@ -101096,6 +101109,7 @@ ybanj.com
 ybao.org
 ybaobei.cn
 ybaobx.com
+ybask.com
 ybbdzp.com
 ybbgd.com
 ybbxkj.com
@@ -104782,6 +104796,7 @@ zbstatic1.com
 zbsybh.cn
 zbsyd.v.bsgslb.cn
 zbsydweb.v.bsgslb.cn
+zbt.com
 zbuhe.com
 zbusa.com
 zbwbbs.com
