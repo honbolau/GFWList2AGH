@@ -11614,6 +11614,7 @@ airmb.com
 airmobyte.com
 airnut.com
 airoha.com.tw
+airportcip.com
 airsavvi.com
 airspa.net
 airstar.com
@@ -12014,6 +12015,7 @@ alibabadesign.com
 alibabadns.com
 alibabadoctor.com
 alibabafapiao.com
+alibabafoundation.com
 alibabafuturehotel.com
 alibabagroup.com
 alibabaonline.com
@@ -13560,6 +13562,7 @@ apispace.com
 apissl.gifshow.com
 apissl.ksapisrv.com
 apistat.gao7.com
+apitd.net
 apitmp.yuelun.com
 apitrip.meituan.com
 apiunipay.msf.tencent-cloud.com
@@ -47433,6 +47436,7 @@ ip668o.com
 ip669.com
 ip846271861.out.azhimalayanvh.com
 ip87.com
+ipaddr.host
 ipadown.com
 ipadview.com
 ipaiban.com
@@ -56837,6 +56841,7 @@ luan.anjuke.com
 luaninfo.com
 luanren.com
 luastudio.net
+luatos.com
 luban-api.shiguangkey.com
 luban.snssdk.com
 luban.snssdk.com.w.kunluncan.com
@@ -58668,6 +58673,7 @@ mbdp01.bdstatic.com
 mbdp02.bdstatic.com
 mbdp03.bdstatic.com
 mbgo.com
+mbian.com
 mbinary.xyz
 mbjb1.girl13.com
 mbldbb.com
@@ -58682,6 +58688,7 @@ mbs.boc.cn
 mbs.hao.360.cn
 mbs.weathercn.com
 mbs1.bdstatic.com
+mbsifu.com
 mbsky.com
 mbsts.cp12.ott.cibntv.net
 mbsug.ssl.so.com
@@ -59596,6 +59603,7 @@ mico.io
 micrenzheng.com
 micro-bee.com
 micro-servs.com
+micro-x.net
 microad-cn.com
 microad-z.com
 microad.jp
@@ -69293,6 +69301,8 @@ qhnaqb7q.v1d.szbdyd.com
 qhnaqkcd.v1d.szbdyd.com
 qhnaqlcq.v1d.szbdyd.com
 qhnaqphp.v1d.szbdyd.com
+qhnet.club
+qhnet.site
 qhnews.com
 qhng18wn.v1d.szbdyd.com
 qhngb889.v1d.szbdyd.com
@@ -70168,6 +70178,7 @@ qlbchina.com
 qlbg.net
 qlchat.com
 qldzj.com
+qlelectrons.com
 qlgpy.com
 qlidc.com
 qlisv.siemens6es7.com
@@ -74131,6 +74142,7 @@ scicn.net
 scidict.org
 science.china.com.cn
 sciencemeta.com
+sciengine.com
 scientrans.com
 scies.org
 scievent.com
@@ -79894,6 +79906,7 @@ swiftjava.com
 swiftlet.net
 swiftstar.net
 swijoy.com
+swirebev.com
 swisswalls.com
 switch.pcfg.cache.wpscdn.cn
 switching.atm.punchbox.org
@@ -83805,6 +83818,7 @@ trustocean.com
 trustsoc.com
 truststatic.jomodns.com
 trustutn.org
+trvok.com
 trwba.com
 trwl.net
 try.dangdang.com
@@ -96615,6 +96629,7 @@ xxyhzd.com
 xxyo.com
 xxyw.com
 xxyxmdq.cn
+xxyy.co
 xxzdpf.com
 xxzfgjj.com
 xxzhushou.com
@@ -104751,6 +104766,7 @@ zbsybh.cn
 zbsyd.v.bsgslb.cn
 zbsydweb.v.bsgslb.cn
 zbt.com
+zbt.net
 zbuhe.com
 zbusa.com
 zbwbbs.com
@@ -106117,6 +106133,7 @@ zhongxiangdichan.net
 zhongxiaole.net
 zhongxing123.com
 zhongxinwanka.com
+zhongxinwei.net
 zhongxues.com
 zhongxunrunda.com
 zhongxuntv.com
