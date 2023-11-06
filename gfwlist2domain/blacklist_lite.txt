@@ -634,6 +634,9 @@
 18board.com
 18board.info
 18ccc.tv
+18comic-god.cc
+18comic-god.club
+18comic-god.xyz
 18comic.bet
 18comic.biz
 18comic.cc
@@ -3215,7 +3218,12 @@ adevar.net
 adgoogle.net
 adguard-dns.com
 adguard-vpn.com
+adguard-vpn.online
+adguard.app
 adguard.com
+adguard.info
+adguard.org
+adguardvpn.com
 adhelpnews.com
 adidas-group.com
 adidas.com
@@ -3279,6 +3287,8 @@ ads-twitter.com
 adsense.com
 adshoppeevents.com
 adss.asia
+adtidy.net
+adtidy.org
 adult-cartoon-sex.com
 adult-empire.com
 adult-h.com
@@ -17206,6 +17216,7 @@ ipdisguiser.com
 ipfire.org
 ipfs-gateway.cloud
 ipfs.io
+ipfs.tech
 ipfspin.com
 ipge.com
 iphider.org
@@ -18130,6 +18141,7 @@ jm-madeira.pt
 jm607.com
 jm98.cc
 jmara.net
+jmcomic.ltd
 jmcomic.me
 jmcomic.mobi
 jmcomic.moe
@@ -21289,6 +21301,7 @@ moystoys.com
 moyu4.com
 moyuv5.com
 moyuvpn.net
+mozgcp.net
 mozhua.net
 mozilla.com
 mozilla.community
@@ -24888,6 +24901,7 @@ pppds.com
 ppshk.net
 pptp.kr
 pptxtv.site
+ppy.sh
 pr0pgutf0hp089.com
 practicalbusinessskills.com
 practicaldigitalprotection.com

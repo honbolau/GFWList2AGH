@@ -681,6 +681,9 @@
 18board.com
 18board.info
 18ccc.tv
+18comic-god.cc
+18comic-god.club
+18comic-god.xyz
 18comic.bet
 18comic.biz
 18comic.cc
@@ -3300,6 +3303,7 @@ a.idm.host
 a.leohearts.com
 a.mb2.host
 a.pomf.se
+a.ppy.sh
 a.se
 a.ssd2.bid
 a.we55.us
@@ -3612,7 +3616,12 @@ adevar.net
 adgoogle.net
 adguard-dns.com
 adguard-vpn.com
+adguard-vpn.online
+adguard.app
 adguard.com
+adguard.info
+adguard.org
+adguardvpn.com
 adhelpnews.com
 adidas-group.com
 adidas.com
@@ -3689,6 +3698,8 @@ adsa2.9acz1.com
 adsense.com
 adshoppeevents.com
 adss.asia
+adtidy.net
+adtidy.org
 adult-cartoon-sex.com
 adult-empire.com
 adult-h.com
@@ -5305,6 +5316,7 @@ assets.bwbx.io
 assets.fanart.tv
 assets.fastgit.org
 assets.gitlab-static.net
+assets.ppy.sh
 assetsadobe.com
 assetshare.box.com
 asshole.com
@@ -8428,6 +8440,7 @@ c.ios9.us
 c.mi.com
 c.ns02.top
 c.pc322.xyz
+c.ppy.sh
 c.win7.us
 c.zr55.us
 c074c.azurewebsites.net
@@ -20391,6 +20404,7 @@ ipfs.infura.io
 ipfs.io
 ipfs.runfission.com
 ipfs.smartsignature.io
+ipfs.tech
 ipfspin.com
 ipge.com
 ipgphotonics.box.com
@@ -21369,6 +21383,7 @@ jm607.com
 jm98.cc
 jma.go.jp
 jmara.net
+jmcomic.ltd
 jmcomic.me
 jmcomic.mobi
 jmcomic.moe
@@ -22383,6 +22398,7 @@ lawlove.org
 lawofhongkong.com
 lawyerpu.com
 laxd.com
+lazer.ppy.sh
 lazerpenguin.com
 lazymike.com
 lazymind.me
@@ -23493,6 +23509,7 @@ m.yzc212.com
 m.yzc369.com
 m090909.com
 m0tei.co.uk
+m1.ppy.sh
 m2.my03.com
 m200260.com
 m2estudio.cl
@@ -25057,6 +25074,7 @@ moystoys.com
 moyu4.com
 moyuv5.com
 moyuvpn.net
+mozgcp.net
 mozhua.net
 mozilla.com
 mozilla.community
@@ -26582,6 +26600,7 @@ notepad-plus-plus.org
 notheroes.com
 nothinghere.tk
 notify.dropboxapi.com
+notify.ppy.sh
 notion-static.com
 notion.com
 notion.new
@@ -27485,6 +27504,7 @@ oss-me-east-1.aliyuncs.com
 oss-us-east-1.aliyuncs.com
 oss-us-west-1.aliyuncs.com
 ossxtv.com
+osu.ppy.sh
 oszx.co
 otaku-168.com
 otaku13.howbbs.com
@@ -29153,6 +29173,7 @@ ppshk.net
 pptp-hk-2.expressnetwork.net
 pptp.kr
 pptxtv.site
+ppy.sh
 pr0pgutf0hp089.com
 practicalbusinessskills.com
 practicaldigitalprotection.com
@@ -31394,6 +31415,7 @@ sensorynetworks.com
 sensualgirls.org
 sensualmothers.com
 sensueel.net
+sentry.ppy.sh
 senvpn.com
 senzacodice.com
 senzuritv.net
@@ -32612,6 +32634,7 @@ spearswms.com
 special.miffyliye.org
 specialtyheadphones.com
 specreport01.jigsy.com
+spectator.ppy.sh
 spectraltube.com
 spectronlaser.com
 spectrum.com
