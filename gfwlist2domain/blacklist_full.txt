@@ -9200,6 +9200,7 @@ chat.openai.com.cdn.cloudflare.net
 chat.stackexchange.com
 chatango.com
 chaterbate.com
+chatgpt.com
 chatnook.com
 chatroom.dsn02.co
 chatroom.dsn05.co
@@ -26921,6 +26922,7 @@ o8ky.14.iamallama.com
 oa1.immigration.gov.tw
 oac.cdlib.org
 oaistatic.com
+oaiusercontent.com
 oakland.edu
 oakville.ca
 oanda.cn
