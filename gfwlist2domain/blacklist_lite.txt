@@ -8527,6 +8527,7 @@ cloudfare.com
 cloudfire.com
 cloudflare-dns.com
 cloudflare-ech.com
+cloudflare-esni.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
@@ -17382,6 +17383,7 @@ isaacmao.com
 isalnikov.com
 isanalyze.com
 isasecret.com
+isbgpsafeyet.com
 isca-speech.org
 ischool.com
 iscvt.org
@@ -21722,6 +21724,7 @@ mymom.info
 mymusclevideo.com
 mynetav.net
 mynetav.org
+mynetname.net
 mynike.com
 myntuemba.com
 mynumber.org
