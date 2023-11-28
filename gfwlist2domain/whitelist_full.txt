@@ -168,7 +168,6 @@
 022sunny.com
 022v.com
 023086.com
-023buy.com
 023cq.cc
 023dir.com
 023dns.com
@@ -2790,6 +2789,7 @@
 21znw.com
 22.jiangzi.com
 22.jiangzi.com.cname3039.yjs-cdn.com
+220840.com
 221234.xyz
 2213.com
 221316.com
@@ -5688,6 +5688,7 @@
 52kanxiaoshuo.com
 52kb365.com
 52kfly.com
+52leho.com
 52liaoshen.com
 52life.cc
 52linglong.com
@@ -6046,7 +6047,6 @@
 5773956723.180.160.103.68.46011.wifi.10b4093010.weibo.66.dnssina.com
 57821.com
 578965.com
-579609.com
 57a89b8b3b7bbaa3b23abc4db3508893.dlied1.cdntips.net
 57ac.com
 57auto.com
@@ -8841,6 +8841,7 @@
 9377a.com
 9377aa.com
 9377co.com
+9377d.com
 9377df.com
 9377g.com
 9377hi.com
@@ -10827,7 +10828,6 @@ adse.ximalaya.com
 adsebs.ximalaya.com
 adsehera.ximalaya.com
 adsence.sogou.com
-adsense-plan.com
 adsensor.org
 adserve2.tom.com
 adservice.google.com
@@ -18545,7 +18545,6 @@ bvttsg.com
 bw.bilibili.com
 bw1006.com
 bw30yun.com
-bw36jnxjfna.com
 bw40.net
 bw8848.com
 bwae.org
@@ -19038,6 +19037,7 @@ c77c.com
 c79e81a9419f9fa6626c9e0f3de2a8e6.dlied1.cdntips.net
 c7c8.com
 c7cc.com
+c7sky.com
 c7w.tech
 c8.wangdq.com
 c82j9a2q.sched.d0.tdnsv5.com
@@ -24744,7 +24744,6 @@ comic520.com
 comicdd.com
 comicer.com
 comicfans.net
-comicocn.com
 comicool.cn
 comicst.com
 comicv.com
@@ -25031,7 +25030,6 @@ cooltechdoll.com
 cooluc.com
 coolwarmsy.com
 coolwp.com
-coolxap.com
 coolxcloud.com
 coolyun.com
 coolzou.com
@@ -26437,7 +26435,6 @@ czxsss.com
 czxuexi.com
 czxy.com
 czxym168.cn
-czyhq.com
 czyooda.com
 czyxba.com
 czzcm.com
@@ -27620,6 +27617,7 @@ db2.fuz.cc
 db2.gamersky.com
 db2car.com
 db5.gamersky.com
+db9w.com
 db9x.com
 dbaeumer.gallerycdn.azure.cn
 dbank.com
@@ -29511,7 +29509,6 @@ dmiug.com
 dmjtxt.com
 dmlei.com
 dmm.aizhan.com
-dmm87d.xyz
 dmoe.cc
 dmozdir.org
 dmp-data.vip.com
@@ -29873,6 +29870,7 @@ dongfeng.net
 dongfengtrucks.com
 dongfund.com
 dongge.com
+donggua.com
 dongguantoday.com
 donghaifunds.com
 donghao.org
@@ -36758,9 +36756,7 @@ gather-dns.com
 gatherer.m.qq.com
 gathernames.com
 gaubau.info
-gaussianoptics.com
 gavindesign.com
-gawin.info
 gaxgame.com
 gaxrmyy.com
 gayeah.cn
@@ -41525,7 +41521,6 @@ hh010.com
 hh112233hh.com
 hh1488.com
 hhailuo.com
-hhbg123.com
 hhcn.com
 hhcx-led.com
 hhczy.com
@@ -42274,6 +42269,7 @@ hnrcsc.com
 hnrcsc.net
 hnrich.net
 hnrmb.com
+hnrsks.com
 hnsdzjy.com
 hnsfdc.com
 hnshengben.com
@@ -43736,6 +43732,7 @@ huming.com
 hunan.chinatax.gov.cn
 hunancatv.com
 hunanedu.net
+hunanpea.com
 hunantv-dtv.m.cn.miaozhen.com
 hunantv-ipdx.cn.miaozhen.com
 hunantv-mipdx.cn.miaozhen.com
@@ -47229,6 +47226,7 @@ intlscdn.com
 intmedic.com
 intmian.com
 intohard.com
+intomod.com
 intopet.com
 intovfx.com
 intowz.com
@@ -48075,7 +48073,6 @@ itzjj.com
 itzm.com
 itzmx.com
 itzmx.net
-itzzh.com
 iu.juzi.cn
 iu18.com
 iu25.com
@@ -54593,7 +54590,6 @@ lequgo.com
 lequyuanyi.com
 lequz.com
 leqv.online
-lerengu.com
 lergao.com
 lerist.dev
 lerry.me
@@ -56975,7 +56971,6 @@ luyouqi.com
 luyouwang.com
 luyouwang.net
 luyouxia.com
-luyuanqj.com
 luzexi.com
 lv.dingtalk.com
 lv74.com
@@ -57736,7 +57731,6 @@ m6.lefile.cn
 m6.lefile.cn.wswebcdn.com
 m6.run
 m6815.talk99.cn
-m6go.com
 m7-kix.gifshow.com
 m7.lefile.cn
 m7.lefile.cn.wswebcdn.com
@@ -61798,7 +61792,6 @@ mzbei.com
 mzbkw.com
 mzboss.com
 mzcd.xyz
-mzd1.com
 mzeyes.com
 mzfanyi.vip
 mzfile.com
@@ -63595,6 +63588,7 @@ nxnet.net
 nxnews.net
 nxnresearch.com
 nxol.net
+nxpta.com
 nxrrvmy.com
 nxsks.com
 nxtianshangb.com
@@ -69540,6 +69534,7 @@ qifub.com
 qifun.com
 qifuwang.com
 qigongworld.net
+qiguagua.com
 qiguo.com
 qiguoguo.net
 qiguoread.com
@@ -72776,7 +72771,6 @@ rrbay.com
 rrbus.com
 rrcimg.com
 rrcp.com
-rrd.me
 rrdaj.com
 rrdtjj.top
 rree.com
@@ -75575,6 +75569,7 @@ shenghuowo.com
 shenghuozhe.net
 shengjing360.com
 shengjoy.com
+shengjuewl.com
 shengjunshi.com
 shenglan1101.com
 shengli.com
@@ -88223,6 +88218,7 @@ wandafilm.com
 wandahotelinvestment.com
 wandahotels.com
 wandanqu.com
+wandaph.com
 wandaplazas.com
 wandarealm.com
 wandasportstravel.com
@@ -89290,7 +89286,6 @@ weiwenjia.com
 weiwuhui.com
 weix.xyz
 weixian.baixing.com
-weixiang.net
 weixiangshe.com
 weixianmanbu.com
 weixianxian.baixing.com
@@ -91303,7 +91298,6 @@ wudaotv.com
 wudayy.com
 wueasy.com
 wufafuwu.com
-wufangbo.com
 wufangzhai.com
 wufangzhai.suning.com
 wufazhuce.com
@@ -93619,7 +93613,6 @@ xbpro.vip
 xbptc.com
 xbpz9.com
 xbqgyy.com
-xbriyu.com
 xbrl-cn.org
 xbrother.com
 xbspace.com
@@ -95314,6 +95307,7 @@ xixipan.com
 xixiqipai.com
 xixiqiu.com
 xixisys.com
+xixiwg.com
 xixiyishu.com
 xiyacs.com
 xiyamaoyi.com
@@ -103235,7 +103229,6 @@ yt.mmstat.com.gds.alibabadns.com
 yt1.mmstat.com
 yt1998.com
 yt2.mmstat.com
-yt211.com
 yt69.com
 yt698.com
 yta-tech.com
@@ -104675,6 +104668,7 @@ zcit.net
 zcitidc.com
 zciv.com
 zcjbgame.com
+zcjhsdk.com
 zcjxedu.com
 zclock.xyz
 zcm99.com
@@ -105570,7 +105564,6 @@ zhibs.net
 zhibugongzuo.com
 zhicaiwang.com
 zhicall.com
-zhicg.com
 zhichanli.com
 zhichaoxt.com
 zhicheng.com
@@ -105594,7 +105587,6 @@ zhidieyun.com
 zhiding.cn
 zhiding.com.cn
 zhidiy.com
-zhidj.com
 zhidmai.com
 zhidtech.com
 zhidu.suning.com
@@ -106218,7 +106210,6 @@ zhujia120.com
 zhujia360.com
 zhujiahua.html5.qq.com
 zhujiaimg.com
-zhujian.org
 zhujiangbeer.com
 zhujiange.com
 zhujiangrc.com
