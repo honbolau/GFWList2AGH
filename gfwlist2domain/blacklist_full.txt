@@ -3588,6 +3588,7 @@ actuweb.net
 aculo.us
 ad.jp
 ad69.com
+ada.support
 adad06.com
 adad09.com
 adam-modellbau.pl
@@ -5903,6 +5904,7 @@ backstreetmerch.com
 backtotiananmen.com
 bacon.com
 bad.mn
+bad.news
 badaas.com
 badasianpussy.com
 badgen.net
@@ -8385,10 +8387,15 @@ bxwx.net
 by.bnaz.org
 by.ddns.name
 by111111.com
+byapis.com
 byb8.app
 bybeatsdre.com
+bybit-exchange.github.io
+bybit.ada.support
 bybit.com
 byc88.com
+bycbe.com
+bycsi.com
 bydrebeats.com
 byedon.com
 byethost11.com
@@ -11812,6 +11819,8 @@ deqmgur9wakvx.cloudfront.net
 derbytournaments.com
 derekhsu.homeip.net
 derementeria.cl
+deribit.cdn.prismic.io
+deribit.com
 derpibooru.org
 desc.se
 descargasgay.com
@@ -16344,6 +16353,10 @@ gate.cc
 gate.huang.cool
 gate.io
 gatecoin.com
+gatedata.org
+gateimg.com
+gateio.live
+gateio.services
 gatestoneinstitute.org
 gateswq.net
 gateway.dev
@@ -20136,6 +20149,7 @@ initiummall.com
 initproducts.com
 inix.net
 injil.net
+inkbunny.net
 inkcat.net
 inkchoice.com
 inkedravens.com
@@ -29264,6 +29278,7 @@ printfriendly.com
 printspots.com
 printspots.net
 prism-break.org
+prismic.io
 prisoneralert.com
 pritunl.com
 privacybox.de
