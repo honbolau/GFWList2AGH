@@ -14935,6 +14935,7 @@ b2b179.com
 b2b6.com
 b2baa.com
 b2badmin.lenovo.com.cn
+b2bgo.com
 b2bic.com
 b2bname.com
 b2bneican.com
@@ -32404,6 +32405,7 @@ edu84.net
 edu88.com
 eduad.baidu.com
 eduancm.com
+eduapaashwc.com
 eduartisan.com
 education.sspu.edu.cn
 educg.net
@@ -40881,6 +40883,7 @@ hbzywh.com
 hc-byq.com
 hc-cdn.com
 hc-software.com
+hc-sre.com
 hc.reg.163.com
 hc.tdm.qq.com
 hc01.com
@@ -43458,6 +43461,7 @@ huaweicloud-smn.net
 huaweicloud.com
 huaweicloudapis.com
 huaweicloudlive.com
+huaweicloudsite.com
 huaweicloudwaf.com
 huaweidevice.com
 huaweidun.com
@@ -43466,8 +43470,10 @@ huaweimall.com
 huaweimarine.com
 huaweimarketplace.com
 huaweimossel.com
+huaweioneaccess.com
 huaweirom.com
 huaweisafedns.com
+huaweisre.com
 huaweistatic.com
 huaweiuniversity.com
 huaweiyun.com
@@ -44108,6 +44114,7 @@ hwadmin.com
 hwangda.com
 hwanjia.com
 hwasmart.com
+hwastro.com
 hwbaoan.com
 hwccpc.com
 hwcdnsre.com
@@ -44118,6 +44125,7 @@ hwclouds-dns.net
 hwclouds.com
 hwclouds.mobi
 hwclouds.net
+hwcloudsite.com
 hwcloudvis.com
 hwcpb.com
 hwcrazy.com
@@ -61742,6 +61750,7 @@ myhuilv.com
 myhwcdn.com
 myhwcloudlive.com
 myhwclouds.com
+myhwclouds.net
 myhx120.com
 myicloud.vip
 myie.me
@@ -88065,6 +88074,7 @@ vsbuys.com
 vscjava.gallerycdn.azure.cn
 vscode-icons-team.gallerycdn.azure.cn
 vscode.cdn.azure.cn
+vscode.download.prss.microsoft.com
 vscodevim.gallerycdn.azure.cn
 vsd-picture.cdn.bcebos.com
 vsdhf.com
