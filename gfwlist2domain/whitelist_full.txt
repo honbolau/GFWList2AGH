@@ -61898,6 +61898,7 @@ myunke.com
 myunying.com
 myushan.com
 myvactrip.com
+myvs.download.prss.microsoft.com
 mywakao.com
 mywap2.icbc.com.cn
 mywayboo.net
@@ -63977,6 +63978,7 @@ oem.cdn.cootekservice.com
 oemol.com
 oemresource.com
 oemsnavi.com
+oemsoc.download.prss.microsoft.com
 oemssl.cn.cdn.cloudflare.net
 oeob.net
 oesell.com
@@ -77821,6 +77823,7 @@ softhome.cc
 softparkinfo.com
 softpure.com
 softtest.com
+software.download.prss.microsoft.com
 software.drivergenius.com
 softwarechn.com
 softwarecn.com
@@ -88247,6 +88250,7 @@ vyk.admaster.com.cn
 vynior.com
 vysj.com
 vyuan8.com
+vz.download.prss.microsoft.com
 vz.yunmowu.com
 vz41.com
 vzaihua.com
