@@ -20311,6 +20311,7 @@ cdn.ishansong.com.m.alikunlun.com
 cdn.jandan.net
 cdn.jandan.net.w.kunlunle.com
 cdn.jesgoo.com
+cdn.jetbrains.com
 cdn.jsdelivr.net.mwcloudcdn.com
 cdn.kaayun.com
 cdn.leakzero.com
@@ -30253,7 +30254,6 @@ download.game.yy.com
 download.gfe.nvidia.cn
 download.gmugmu.com
 download.gmugmu.com.w.cdngslb.com
-download.jetbrains.com
 download.jr.jd.com
 download.m.37.com
 download.mcloud.139.com
