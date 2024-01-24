@@ -17375,6 +17375,7 @@ isalnikov.com
 isanalyze.com
 isasecret.com
 isbgpsafeyet.com
+isc.org
 isca-speech.org
 ischool.com
 iscvt.org
@@ -20727,6 +20728,7 @@ mihr.com
 mihua.org
 miitomo.com
 miiverse.com
+mikanani.me
 mikandi.com
 mikerogero.com
 mikesoltys.com
@@ -26068,6 +26070,7 @@ riotgames.info
 riotgames.net
 riotpin.com
 riotpoints.com
+ripe.net
 ripple.com
 riseup.com
 riseup.net
@@ -26302,6 +26305,7 @@ s-bluemix.net
 s-books.com
 s-cashonmobile.com
 s-cute.com
+s-dc-msedge.net
 s-dragon.org
 s-microsoft.com
 s-msedge.net

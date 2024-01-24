@@ -4258,7 +4258,6 @@ alphabetfinance.net
 alphafinancial.ca
 alphaporno.com
 alphasigmaphi.org
-alphassl.com
 alphera.com
 alphera.net
 alpinelinux.org
@@ -7003,6 +7002,7 @@ bine.me
 bing.cn
 bing.com
 bing.net
+bing123.com
 bingads.com
 bingagencyawards.com
 bingapis.com
@@ -9817,6 +9817,7 @@ cljkkuqf.com
 clkads.com
 cloaker.us
 cloakpoint.com
+clock.isc.org
 cloclo14.cldmail.ru
 cloclo21.cldmail.ru
 clojure.org
@@ -13367,11 +13368,11 @@ edengay.net
 edenriegel.com
 edenrules.com
 edf818.com
-edge-skype-com.s-0001.s-msedge.net
 edge.steam-dns.top.comcast.net
 edgecastcdn.net
 edgedatg.com
 edgefonts.net
+edgekey.net
 edgemeplease.com
 edgesuite.net
 edialogue.org
@@ -16894,7 +16895,6 @@ globalrescue.net
 globalriskregulator.com
 globalsecurity.org
 globalsign-media.com
-globalsign.com
 globalsign.net
 globalspec.com
 globaltm.org
@@ -20571,6 +20571,7 @@ isalnikov.com
 isanalyze.com
 isasecret.com
 isbgpsafeyet.com
+isc.org
 isc.sans.edu
 isca-speech.org
 ischool.com
@@ -24447,6 +24448,7 @@ mihr.com
 mihua.org
 miitomo.com
 miiverse.com
+mikanani.me
 mikandi.com
 mike.cz.cc
 mikerogero.com
@@ -26742,6 +26744,7 @@ ntdtvla.com
 ntdvn.com
 nthlink.com
 nthrtye.com
+ntp.ripe.net
 ntq.comlu.com
 ntrfun.com
 ntrqq.com
@@ -30505,6 +30508,7 @@ riotgames.net
 riotpin.com
 riotpoints.com
 riozap.com.br
+ripe.net
 ripple-3dc2d.firebaseio.com
 ripple.com
 riseup.com
@@ -30765,6 +30769,7 @@ s-bluemix.net
 s-books.com
 s-cashonmobile.com
 s-cute.com
+s-dc-msedge.net
 s-dragon.org
 s-microsoft.com
 s-msedge.net
@@ -32922,6 +32927,7 @@ ssvps.site
 ssx3.com
 ssxtv.com
 sszhanghao.com
+st.com
 st.idv.tw
 stackage.org
 stackapps.com
