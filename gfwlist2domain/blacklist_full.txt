@@ -7221,6 +7221,7 @@ blockedinchina.net
 blockedsiteaccess.com
 blockless.com
 blockscout.com
+blocktempo.com
 bloco.org
 blog.1994.io
 blog.51.ca
@@ -26212,6 +26213,7 @@ nexpart.com
 next.com
 next11.co.jp
 nextapple.com
+nextapple.tw
 nextbigfuture.com
 nextcomm.com.ar
 nextdigital.com.hk
@@ -28116,6 +28118,7 @@ pchomeonline.com.tw
 pcij.org
 pcloud.com
 pcman.ptt.cc
+pcmarket.com.hk
 pcre.org
 pcstore.com.tw
 pct.org.tw
@@ -30883,6 +30886,7 @@ sadistic-v.com
 sadout.com
 sadpanda.us
 sae.org
+saeima.lv
 saerock.com
 safasti.com
 safasti.net
@@ -34165,6 +34169,7 @@ theaggie.org
 theatlantic.com
 theatlanticcities.com
 theatrum-belli.com
+theaustralian.com.au
 theav.cc
 theb.ai
 thebanker.com
@@ -35894,6 +35899,7 @@ ukrainianpolicy.com
 uku.im
 ukusvpn.com
 ukwhoswho.com
+ulifestyle.com.hk
 ulike.net
 ulol.com
 ulop.net
@@ -43998,6 +44004,7 @@ xs9999.com
 xsava.xyz
 xscale.com
 xsden.info
+xsden.org
 xsela.cc
 xsela.com
 xshaker.net

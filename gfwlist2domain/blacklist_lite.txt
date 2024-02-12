@@ -6385,6 +6385,7 @@ blockedinchina.net
 blockedsiteaccess.com
 blockless.com
 blockscout.com
+blocktempo.com
 bloco.org
 blog.br
 blog.de
@@ -22266,6 +22267,7 @@ nexosalud.com
 nexpart.com
 next.com
 nextapple.com
+nextapple.tw
 nextbigfuture.com
 nextdns.io
 nextdoor.com
@@ -26370,6 +26372,7 @@ sadistic-v.com
 sadout.com
 sadpanda.us
 sae.org
+saeima.lv
 saerock.com
 safasti.com
 safasti.net
@@ -33454,6 +33457,7 @@ xs9999.com
 xsava.xyz
 xscale.com
 xsden.info
+xsden.org
 xsela.cc
 xsela.com
 xshaker.net
