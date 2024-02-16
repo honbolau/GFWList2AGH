@@ -1734,7 +1734,9 @@
 4musclemen.com
 4mydomain.com
 4myminicard.com
+4pcdn.org
 4pig.com
+4plebs.org
 4porn.com
 4porn4.com
 4proxy.de
@@ -3796,6 +3798,7 @@ advertisergleam.com
 advertstream.com
 advisen.com
 adx.promo
+ae-ad-1.myhuaweicloud.com
 ae.hao123.com
 ae.org
 aeasyshop.com
@@ -3890,6 +3893,7 @@ agapp.net
 agardenday.com
 agc-ity.com
 agc90.com
+agedm.org
 agemys.net
 agencias.renfe.com
 agency.kg811.com
@@ -4051,6 +4055,7 @@ akadns.com
 akadns.net
 akadns6.net
 akadns88.net
+akadns99.net
 akaeai.com
 akafms.net
 akagtm.org
@@ -4787,6 +4792,7 @@ ap-singapore.myqcloud.com
 ap-southeast-1.myhuaweicloud.com
 ap-southeast-2.myhuaweicloud.com
 ap-southeast-3.myhuaweicloud.com
+ap-southeast-4.myhuaweicloud.com
 ap-tokyo.myqcloud.com
 ap.org
 ap0le.com
@@ -13970,6 +13976,7 @@ eu-moscow.myqcloud.com
 eu-ssa.org
 eu-west-0.myhuaweicloud.com
 eu-west-1.console.aws.amazon.com
+eu-west-101.myhuaweicloud.com
 eu.org
 eu49.com
 eu99999.com
@@ -24102,6 +24109,7 @@ mdpjoin.buzz
 mdrpmx.com
 mdse.com.au
 mdu.sp9198.com
+me-east-1.myhuaweicloud.com
 me-gay.com
 me.com
 me.me
@@ -35053,6 +35061,7 @@ tpw-tw.com
 tqdc000.com
 tqlkmzw.x.incapdns.net
 tr-cam.com
+tr-west-1.myhuaweicloud.com
 tr.com
 tr.fmylife.com
 tr.im
