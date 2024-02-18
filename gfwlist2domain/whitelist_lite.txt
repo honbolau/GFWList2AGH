@@ -17599,8 +17599,11 @@ clouddongying.com
 clouddream.net
 cloudeagle.cn
 cloudflare-cn.com
+cloudflareanycast.net
 cloudflarecn.net
+cloudflareglobal.net
 cloudflareinsights-cn.com
+cloudflareperf.com
 cloudflareprod.com
 cloudflarestaging.com
 cloudflarestoragegw.com
