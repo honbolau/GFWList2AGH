@@ -5149,6 +5149,7 @@ apkmonk.com
 apkplz.com
 apkplz.net
 apkpure.com
+apkpure.net
 apksum.com
 apktada.com
 apktops.com
@@ -11437,6 +11438,8 @@ convrgencegame.com
 coobay.com
 cooer.su
 cookiechoices.org
+cookielaw.org
+cookiepro.com
 cookierecht.nl
 cooking.stackexchange.com
 cookpad.com
@@ -13333,7 +13336,6 @@ disk.yandex.ru
 disney-asia.com
 disney-discount.com
 disney-plus.net
-disney-portal.my.onetrust.com
 disney-studio.com
 disney-studio.net
 disney.asia
