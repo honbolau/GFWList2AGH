@@ -8703,6 +8703,7 @@ cfake.com
 cfan.xyz
 cfblob.com
 cff888.com
+cfl.re
 cfna.com
 cfos.de
 cfr.org
@@ -22975,6 +22976,7 @@ modelsfreecams.com
 modeltv.com
 modernchinastudies.org
 mododns.com
+modperl.pl
 modrinth.com
 modular.im
 moe-acg.cc
@@ -23246,6 +23248,7 @@ mozilla.org
 mozillademos.org
 mozit.cloud
 moztw.org
+mp-pxcdn.com
 mp3buscador.com
 mp3gratis.us
 mp3hub.net
@@ -25105,6 +25108,9 @@ okstate.edu
 oktube.net
 oktvusa.com
 okvpn.cn
+okx-dns.com
+okx-dns1.com
+okx-dns2.com
 okx.com
 okxav.com
 olabloga.pl
@@ -31239,6 +31245,8 @@ tagxedo.com
 taiav.com
 tail-f.com
 tailf.com
+tailscale.com
+tailscale.io
 tailwindtraders.com
 taiolongdh.sbs
 taipeisociety.org
@@ -32647,6 +32655,7 @@ tryquinn.com
 tryrating.com
 tryst.link
 ts.la
+ts.net
 ts2.se
 ts221.net
 ts2t.com
