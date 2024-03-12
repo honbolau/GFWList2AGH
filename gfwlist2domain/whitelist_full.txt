@@ -6398,7 +6398,6 @@
 5548.net
 555000d3.com
 5551557.com
-5553089.com
 55555558.com
 555bb666cc.com
 555bb888bb.com
@@ -15248,6 +15247,7 @@ asktao.com
 askwx.com
 askxt.org
 askzybf.com
+askzycdn.com
 aslk2018.com
 aslzw.com
 asm64.com
@@ -34974,7 +34974,6 @@ editorconfig.gallerycdn.azure.cn
 ediuschina.com
 edk24.com
 edlcaster.com
-edmadf.com
 edmcn.net
 edmseller.com
 edns.com
@@ -35858,7 +35857,6 @@ equimper.gallerycdn.azure.cn
 equipmentimes.com
 equity.tmall.com
 equity.tmall.com.w.cdngslb.com
-equn.com
 eqv3oqyr.v1d.szbdyd.com
 eqxiu.cn
 eqxiu.com
@@ -37784,6 +37782,7 @@ fhyx.hk
 fi-play.com
 fi0.cc
 fi11tv162.com
+fi11tv170.com
 fi1818.com
 fi94.com
 fibercrops.com
@@ -77979,7 +77978,6 @@ qyjnxh.com
 qyjpzx.com
 qyjzleh.cn
 qykh2009.com
-qykodo.com
 qyle1.com
 qyled.xyz
 qymgc.com
@@ -89897,6 +89895,7 @@ thunlp.org
 thupdi.com
 thurcacca.org
 thwiki.cc
+thwpmanage.com
 thxbxg.com
 thxddb.com
 thxedu.com
