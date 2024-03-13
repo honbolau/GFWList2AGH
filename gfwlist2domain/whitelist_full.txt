@@ -1373,7 +1373,6 @@
 1206397.sched.v1.tdnsv5.com
 120ask.com
 120askimages.com
-120bjgcyy.org
 120btc.com
 120fd.com
 120gz.com
@@ -2247,7 +2246,6 @@
 17huo.com
 17huodong.com
 17ic.com
-17imoe.com
 17itou.com
 17ivr.com
 17jc.net
@@ -4847,7 +4845,6 @@
 4080517.com
 4080so.com
 40manhua.com
-40maoaa.com
 40mdd.com
 40xk.com
 41188.com
@@ -6924,6 +6921,7 @@
 5jli.com
 5joys.com
 5jwl.com
+5k.work
 5kbox.com
 5kcrm.com
 5kcrm.net
@@ -9016,6 +9014,7 @@
 8llp.com
 8mfty.com
 8mhh.com
+8mi.tech
 8miu.com
 8miu.net
 8mkt.com
@@ -16481,7 +16480,6 @@ baishan.com
 baishancloud.com
 baishancloud.org
 baishangeek.com
-baishengshouhou.com
 baishicha.com
 baishishuju.com
 baishixi.xyz
@@ -19444,7 +19442,6 @@ boooog.net
 boosj.com
 boost77.com
 booster.xueersi.com
-boostintensity.com
 boostiv.cn
 boosyi.com
 boot-img.xuexi.cn
@@ -20137,6 +20134,8 @@ byfcw.com
 byfen.com
 byfuh.com
 byfunds.com
+byfurry.com
+byfurry.net
 byfzxy.com
 bygamesdk.com
 byguitar.com
@@ -27162,7 +27161,6 @@ coolsdream.com
 coolsite.vip
 coolsite360.com
 coolsphoto.com
-coolstyle.org
 cooltechdoll.com
 cooluc.com
 coolwarmsy.com
@@ -40184,6 +40182,7 @@ gdwlife.com
 gdwxyf.com
 gdxfl.com
 gdxinya.com
+gdxmsx.com
 gdxscode.com
 gdxxb.com
 gdxych.com
@@ -43856,7 +43855,6 @@ haokanzhan.com
 haokecheng.com
 haokejie.com
 haokeyun.vip
-haokongbu1.com
 haokoo.com
 haoku.net
 haokuaiya.com
@@ -45113,7 +45111,6 @@ heymeowfm.com
 heymore.com
 heyou51.com
 heyplus.com
-heyreport.com
 heyria.com
 heytap.com
 heytapcs.com
@@ -49306,6 +49303,7 @@ ict18.com
 ict361.com
 ict88.com
 ictcsr.org
+ictdns.store
 ictehi.com
 ictest8.com
 ictk-china.com
@@ -49315,6 +49313,7 @@ ictpaas.com
 ictr.cn
 ictun.com
 ictuniv.com
+icu.moe
 icuh4nsi8ym9bj3p5x81otfx9kpw6uja.yundunwaf2.com
 iculture.cc
 icv.cn
@@ -53828,7 +53827,6 @@ jidianniu.com
 jidianwang.com
 jidujiao.com
 jidujiasu.com
-jiduu.com
 jie0.com
 jie518.com
 jiebaodz.com
@@ -63746,7 +63744,6 @@ manzhan8.com
 manzj.net
 manzuo.com
 mao-shen.com
-mao.bz
 mao.li
 maobotv.com
 maobugames.com
@@ -68091,6 +68088,7 @@ ncbgh.aijingjing.site
 ncbgh.liuc.info
 ncboo.com
 nccqj.com
+ncderuida.com
 ncdxbbs.com
 ncfcsa.org
 ncfgroup.com
@@ -68586,6 +68584,7 @@ nfschina.com
 nftoolshop.com
 nfwin.com
 nfyeya.com
+nfyun.vip
 nfzhouyi.com
 ng-alain.com
 ng.shmtu.edu.cn
@@ -70299,7 +70298,6 @@ onekey2.cmpassport.com
 onekeyghost.com
 onekeyrom.com
 onemob.mobi
-onemovie.com
 oneniceapp.com
 onenoter.com
 onepass.geetest.com
@@ -88571,7 +88569,6 @@ talbrain.com
 talebase.com
 talebook.org
 talentable.com
-talentjava.com
 talents-tech.com
 talentsmag.com
 talicai.com
@@ -89413,6 +89410,7 @@ tencentproxy.com
 tencentrio.com
 tencentstart.com
 tencentsuite.com
+tencenttds.com
 tencenttid.com
 tencentwemeet.club
 tencentwepark.com
@@ -89860,6 +89858,7 @@ threatbook.net
 threegorgestours.com
 threetong.com
 thron.cn
+thrrip.space
 ths123.com
 ths8.com
 thseoer.com
@@ -91622,6 +91621,7 @@ tronixin.com
 tropcdn.com
 trpc.gamecenter.qq.com
 trpcdn.net
+trpcw.com
 trqjrp.xyz
 trrsv2.union2.50bang.org
 trs.cn
@@ -93864,7 +93864,6 @@ upp.itunes.apple.com
 upp.itunes.apple.com.mwcname.com
 uppershop.hk
 uppsd.com
-upqlmfm.com
 upqzfile.com
 upqzfilebk.com
 upr.unity.cn
@@ -94244,7 +94243,6 @@ uvexperience.com
 uviewui.com
 uvimage.56.com
 uvledtek.com
-uvov.com
 uw3c.com
 uw9.net
 uwa4d.com
@@ -94942,7 +94940,6 @@ vbbobo.com
 vbidc.com
 vbiquge.com
 vbmcms.com
-vbooking.net
 vbsemi.com
 vbsuvb.com
 vbuluo.com
@@ -110665,6 +110662,7 @@ yibin.anjuke.com
 yibite.com
 yiboard.com
 yibocat.com
+yiboshi.com
 yicai.com
 yicai55.com
 yicaiglobal.com
@@ -111467,6 +111465,7 @@ yjxsoft.com
 yjydl.com
 yjyghb.com
 yjyj95.com
+yjyxiyan.com
 yjz9.com
 yjzb.app
 yjzb.tv
@@ -111704,6 +111703,7 @@ ynet.com
 ynet.da.mgtv.com
 ynevxkx.cn
 ynfabu.com
+ynfmly.com
 ynfwyy.com
 ynfxw.com
 yngd016.com
@@ -113547,6 +113547,7 @@ ywhqs.com
 ywies-shpd.com
 ywindex.com
 ywinf.com
+ywit.xyz
 ywky.org
 ywlist.com
 ywlm.net
@@ -114423,7 +114424,6 @@ zebracdn.com
 zebred.com
 zeda1.com
 zedsy.com
-zedukm.com
 zeekrlife.com
 zeelis.com
 zeesin.com
@@ -115587,7 +115587,6 @@ zhizuobiao.com
 zhizuobiaojiaoyu.com
 zhizuoh5.com
 zhizuotu.com
-zhizy9.com
 zhj9.com
 zhjfad.com
 zhjiameng.com
