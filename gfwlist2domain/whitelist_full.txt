@@ -4633,6 +4633,7 @@
 3hgui.com
 3hm23gai.sched.s2-dk.tdnsv5.com
 3hmlg.com
+3i8uiq2w.work
 3ijw4t.tdum.alibaba.com
 3img.hitv.com
 3img.hitv.com.w.kunlunle.com
@@ -11929,6 +11930,7 @@ aginomoto.com
 agiquery.com
 agiso-static.oss-cn-zhangjiakou.aliyuncs.com
 agiso.com
+agit.site
 agks5cwh.v1d.szbdyd.com
 agks5dao.v1d.szbdyd.com
 agks5ntq.v1d.szbdyd.com
@@ -21726,7 +21728,6 @@ cdbsfund.com
 cdbvzs.com
 cdbybo.com
 cdccpit.org
-cdcd.plus
 cdce.cn
 cdcet.com
 cdcgames.net
@@ -23109,7 +23110,6 @@ chemtour.com
 chemwith.com
 chemyq.com
 chen-design.com
-chen-nuo.com
 chen9396.b2b.huangye88.com
 chenag.com
 chenaiwx.xyz
@@ -23204,8 +23204,10 @@ chenlinux.com
 chenlinzuwu.com
 chenlongyx.com
 chenmomo.com
+chennianyoupin.com
 chenpe.com
 chenpeng.info
+chenpishoucang.com
 chenplus.com
 chenpot.com
 chenruixuan.com
@@ -26669,7 +26671,6 @@ codekissyoung.com
 codekk.com
 codeku.me
 codelife.cc
-codelover.link
 codemany.com
 codemart.com
 codemm.net
@@ -31300,6 +31301,7 @@ dierkezhan.com
 diershoubing.com
 dietfd.com
 diexun.com
+dieyanli.com
 diezhan.me
 diezhan6.com
 difanapp.com
@@ -33557,6 +33559,7 @@ dun-mfy-cdn.com
 dun.ppdaicdn.com
 dun.ppdaicdn.com.w.kunlungr.com
 dun.tax
+dungeon-server.com
 dunjiaodu.com
 dunkelhost.de
 dunkhome.com
@@ -43607,6 +43610,7 @@ hankunlaw.com
 hanlefang.net
 hanlei.org
 hanlin.press
+hanlindong.com
 hanlinzhijia.net
 hanmaidj.com
 hanmaker.com
@@ -43805,6 +43809,7 @@ haohanfw.com
 haohanguo.com
 haohanpower.tech
 haohanseo.com
+haohaomy.com
 haohaotuan.com
 haohaowan.com
 haohaoxiu.com
@@ -57083,6 +57088,7 @@ kekenet.com
 kekepx.com
 kekeshici.com
 kekexueba.com
+kekeyuyin.com
 kekoku.com
 kel99.com
 kelamayi.anjuke.com
@@ -57297,7 +57303,6 @@ ki47.com
 kiaic.com
 kibey.com
 kibinggroup.com
-kibo.tech
 kid.cdn.ptmi.gitv.tv
 kid.xl.ptxl.gitv.tv
 kid17.com
@@ -72547,7 +72552,6 @@ petrexchina.com
 petroren.com
 petrvet.com
 pettime.info
-pettwo.com
 pewax88.com
 pewld.com
 pewsc.com
@@ -77447,6 +77451,7 @@ queniukw.com
 queniulf.com
 queniumf.com
 queniupl.com
+queniupz.com
 queniuqy.com
 queniurc.com
 queniusa.com
@@ -79123,6 +79128,7 @@ riji13.com
 rijigu.com
 rijiwang.com
 rili.cn
+rili11.com
 rilijingling.com
 rilvtong.com
 rilzob.com
@@ -97811,7 +97817,6 @@ weizhipin.com
 weizhoudaoly.com
 weizhuangfu.com
 weizhuanji.com
-weizhuannet.com
 weizoom.com
 wejianzhan.com
 wejiazu.com
@@ -112304,6 +112309,7 @@ youyegame.com
 youyi-game.com
 youyigame.com
 youyijifen.com
+youyijiu.com
 youyilm.com
 youyiqi.com
 youyiqiaogou.com
@@ -114381,6 +114387,7 @@ zdworks.com
 zdwsh.tech
 zdwx.net
 zdxx5113.taojindi.com
+zdxygl.com
 zdyrs.com
 zdz.la
 zdzdm.com
@@ -115564,6 +115571,7 @@ zhizuotu.com
 zhj9.com
 zhjfad.com
 zhjiameng.com
+zhjiu.com
 zhjj.org
 zhjncb.com
 zhjp.net
