@@ -89696,7 +89696,6 @@ testeast2.blob.core.chinacloudapi.cn
 testeb.com
 testerhome.com
 testerlife.com
-testflight.apple.com
 testict.com
 testin.cn
 testingpai.com
