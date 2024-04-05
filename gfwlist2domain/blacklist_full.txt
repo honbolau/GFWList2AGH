@@ -2117,6 +2117,7 @@
 5skgrtpct7ae.com
 5uproxy.net
 5vpn.net
+5w.ag
 5ye8.com
 5z5.com
 5zuo2.com
@@ -11154,7 +11155,6 @@ coinexchange.io
 coinf.com.mx
 coingecko.com
 coingi.com
-coinglass.com
 coinic.com
 coinmap.org
 coinmarketcap.com
@@ -36829,6 +36829,7 @@ svsfx.com
 svsgames.org
 svyaznoybank.ru
 swably.com
+swag-live.co
 swag.live
 swagbucks.com
 swaghub.cc
@@ -49272,6 +49273,7 @@ yzld188.top
 yzys.tv
 yzzk.com
 z-lib.org
+z-library.se
 z.com
 z00.world
 z02.01.dynamic-dns.net
