@@ -15077,7 +15077,6 @@ arongsoft.com
 aroseks.com
 arp.cc
 arpg2.com
-arphic.com.cn
 arpun.com
 arrow-tower.com
 arrowos.net
@@ -19127,7 +19126,6 @@ blog.itpub.net
 blog.izgq.net
 blog.mydrivers.com
 blog.sina.com.cn
-blog.syx86.cn
 blog.tuziip.com
 blog.vive.com
 blog.yangsh888.com
@@ -34245,7 +34243,6 @@ dymexhealthcare.com
 dyn.ithome.com
 dyn.wps.cn
 dyna.agrantsem.com
-dynacw.com.cn
 dynamic-ip.xyz
 dynamic.api.tiles.ditu.live.com
 dynamic.app.m.letv.com
@@ -41587,7 +41584,6 @@ goofish.com
 googcc.net
 google-analytics-cn.com
 google-analytics.com
-google.cn
 googleadapis.com
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
@@ -82247,7 +82243,6 @@ service.weibo.com
 service86.com
 servicecut.meizu.com
 servicemesher.com
-services.googleapis.cn
 servicesupport.hicloud.com
 servicesupport1.hicloud.com
 servicewechat.com
@@ -116481,7 +116476,6 @@ zhuanspirit.com
 zhuanstatic.com
 zhuanti.hebnews.cn
 zhuantilan.com
-zhuanxing.cn
 zhuanyejun.com
 zhuanyepeixun.com
 zhuanyes.com
@@ -117570,7 +117564,6 @@ zoogooy.com
 zookingsoft.com
 zookparts.com
 zoom-china.com
-zoom.com.cn
 zoom.zshu.net
 zoom3g.com
 zoomerstudio.com
