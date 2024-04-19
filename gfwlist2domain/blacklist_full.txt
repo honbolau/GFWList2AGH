@@ -9998,6 +9998,7 @@ cdn.helixstudios.net
 cdn.hkwesi22222.xyz
 cdn.js7k.com
 cdn.jsdelivr.net
+cdn.jwplayer.com
 cdn.line-apps.com
 cdn.mobileread.com
 cdn.plus500.com
@@ -15529,6 +15530,7 @@ f1886.com
 f1oncology.com
 f22.flnet.org
 f2646.com
+f2pool.com
 f33.flnet.org
 f3399.com
 f35.flnet.org
@@ -20902,6 +20904,7 @@ hrea.org
 hrecords.jp
 hrf.org
 hrichina.org
+hrntt.org
 hromadske.tv
 hrs5555.com
 hrsaz.com
@@ -29362,6 +29365,7 @@ npa.gov.tw
 npackd.org
 npf.org.tw
 npm.community
+npm.gov.tw
 npmjs.com
 npmjs.org
 npnt.me
@@ -32094,6 +32098,7 @@ potato.im
 potatso.com
 potenza.jp
 potvpn.com
+pourquoi.tw
 povoasemanario.pt
 povpn.org
 povpn3.com
@@ -49325,6 +49330,7 @@ zalmos.com
 zaloapp.com
 zambianwatchdog.com
 zambranolimitada.cl
+zamimg.com
 zanduayurveda.com
 zannel.com
 zaobao.com
