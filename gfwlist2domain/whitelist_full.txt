@@ -4120,7 +4120,6 @@
 360jq.com
 360jrjietiao.com
 360jrkt.com
-360junshi.com
 360jzhm.com
 360kad.com
 360kan.com
@@ -12204,6 +12203,7 @@ aibangbaoxian.net
 aibank.com
 aibank.link
 aibaocloud.com
+aibaohu.com
 aibaov.com
 aibaoxian.com
 aibase.com
@@ -12290,6 +12290,7 @@ aierchina.com
 aierfano.com
 aieye8.com
 aiezu.com
+aifabu.com
 aifaka.cc
 aifamu.com
 aifanfan.baidu.com
@@ -28080,6 +28081,7 @@ crumb.sobot.com
 crvic.org
 crviisws.cn
 crwan.applinzi.com
+crx.plus
 crx4.com
 cry33.com
 crym.cc
@@ -28602,6 +28604,7 @@ cupddns.com
 cupddns.net
 cupdns.com
 cupfox.com
+cupfox.love
 cupid.jebe.renren.com
 cupinn.com
 cuplayer.com
@@ -38189,7 +38192,6 @@ fhyx.com
 fhyx.hk
 fi-play.com
 fi0.cc
-fi11sp84.com
 fi1818.com
 fi94.com
 fibercrops.com
@@ -43287,6 +43289,7 @@ gyrsq.com
 gyrsy.com
 gyscw.com
 gysdzy.com
+gyshwl.online
 gysk.com
 gysou.com
 gysq.org
@@ -46182,6 +46185,7 @@ hispaceclt.hicloud.com
 hissq.com
 histarter.com
 history.sina.com.cn
+historychina.net
 hisugar.com
 hisupplier.com
 hiswd.jd.com
@@ -54945,7 +54949,6 @@ jinjingquan.com
 jinju8.com
 jinjunmei.net
 jinkan.org
-jinkaotong.com
 jinkejoy.com
 jinkeluo.com
 jinkex.com
@@ -57440,6 +57443,7 @@ kakalili.com
 kakamobi.cn
 kakamobi.com
 kakappt.com
+kakayuy.net
 kakucloud.com
 kala.love
 kalading.com
@@ -64772,7 +64776,6 @@ mapping.adsame.com
 mapping.yoyi.com.cn
 mappn.com
 maps.apple.com
-mapsence.com
 mapsnap0.bdimg.com
 mapsp0.bdimg.com
 mapsv0.bdimg.com
@@ -67633,6 +67636,7 @@ mqttx.app
 mquan.fun
 mquan.net
 mquanquan.com
+mqxs8.com
 mqxww.com
 mr-ping.com
 mr-z.me
@@ -69721,7 +69725,6 @@ nikanpian.com
 nike-inc.com.tw
 nikebiji.com
 nikeinc.com.cn
-nikenike2015.com.tw
 nikkisoft.com
 nikkiup2u2.com
 nilai.com
@@ -70136,7 +70139,6 @@ nntxw.com
 nnugxenl.slt.sched.tdnsv8.com
 nnwb.com
 nnxinfangxiang.cn
-nnykzy120.com
 nnynrc.com
 nnzgh.org
 nnzsxblaw.com
@@ -72667,6 +72669,7 @@ paceroom.net
 pacfc.com
 pacgatelaw.com
 pacificchinaaero.com
+pacilution.com
 package.box.xiaomi.com
 package.cdn.box.xiaomi.com
 package.dingtalk.com
@@ -79459,6 +79462,7 @@ rayjump.com
 rayli.adsame.com
 rayli.com
 rayli.com.cn
+raylink.live
 raymx-micro.com
 rayoptek.com
 rayp.com
@@ -79466,6 +79470,7 @@ rayps.com
 rayrjx.com
 rayseasc.com
 raysilicon.com
+raysync.cloud
 raythonsoft.com
 raytoon.net
 rayuu.com
@@ -86582,6 +86587,7 @@ souxw.com
 souya.com
 souyi.cc
 souyidai.com
+souyoutu.com
 souyue.mobi
 souyunku.com
 sov2ex.com
@@ -87720,6 +87726,7 @@ stc.iqiyipic.com
 stc2002.com
 stcaimcu.com
 stcash.com
+stcfile.com
 stcmcu.com
 stcmcudata.com
 stcn.com
@@ -88604,7 +88611,6 @@ swordofmorning.com
 swordtt.com
 swotbbs.com
 swothouse.com
-swq5t.com
 swsbw.com
 swsc.com.cn
 swscan-cdn.apple.com.akadns.net
@@ -89220,7 +89226,6 @@ szmctc.com
 szmengqukj.com
 szmg.qq.com
 szmhthb.com
-szmianfei.com
 szmil.com
 szmingbiao.com
 szminorshort.weixin.qq.com
@@ -103252,6 +103257,7 @@ wxsnsdy.wxs.qq.com
 wxsp.qpic.cn
 wxsteed.com
 wxsv.qpic.cn
+wxsy.net
 wxsywh.com
 wxt2020.com
 wxtbhb.51sole.com
@@ -103684,6 +103690,7 @@ xbiquge.la
 xbiquge.tw
 xbiqugew.com
 xbiqugu.info
+xbiqugu.net
 xbiqukan.com
 xbiquku.com
 xbiquwx.la
@@ -103882,6 +103889,7 @@ xdrig.com
 xdrtc.com
 xdrun.com
 xdsipo.com
+xdsp.mobi
 xdssp.mediav.com
 xdter.com
 xdtos.com
@@ -105639,7 +105647,6 @@ xixik.com
 xixik.net
 xixin123.com
 xixing168.com
-xixingyou.com
 xixinv.com
 xixipan.com
 xixiqipai.com
@@ -106442,6 +106449,7 @@ xsy.science
 xsycps.com
 xsyk021.com
 xsyouwei.cn
+xsyq.cc
 xsyqmztg.com
 xsyushan.com
 xsyx.xyz
@@ -106538,6 +106546,7 @@ xuanwonainiu.com
 xuanwu88.com
 xuanwumobile.com
 xuanwww.com
+xuanxiaodi.com
 xuanxiaozhuanjia.com
 xuanxuan.com
 xuanxuangame.com
@@ -106724,6 +106733,7 @@ xulilin.ltd
 xulizui6.com
 xulv.net
 xumenger.com
+xumengwang.com
 xuminggang.com
 xumingxiang.com
 xumurc.com
@@ -112616,6 +112626,7 @@ yipaogan.com
 yiparts.com
 yipemail.com
 yipeng888.com
+yipiaoyun.com
 yipihuo.com
 yipingmi.vip
 yipingsj.com
@@ -113155,6 +113166,7 @@ ymraaa.com
 ymrcw.vip
 yms.cool
 yms7.com
+ymsss.com
 ymsteam.com
 ymt.com
 ymt360.com
@@ -113998,6 +114010,7 @@ yqtxt.com
 yqtxzm.com
 yqw188.com
 yqwfpy.com
+yqwxw.cc
 yqwyx.xyz
 yqxhl.com
 yqxiuyoung.com
@@ -114873,6 +114886,7 @@ yuntuiweishang.com
 yuntuoguan.cc
 yuntuys.com
 yunuo.online
+yunverify.com
 yunvm.com
 yunvs.com
 yunwangke.com
