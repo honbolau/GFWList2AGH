@@ -1552,7 +1552,6 @@
 127.net
 1274cabf9fc86bb0e8416c08d7acd560.v.smtcdns.net
 1278721.com
-12799.com
 127tv.com
 127xx.com
 127z.com
@@ -6446,7 +6445,6 @@
 5599.com
 55a20a2b89510bc857653fcda3e10b20.safeframe.googlesyndication.com
 55a6ff3.cdnnodedns.cn
-55azt.com
 55bbs.com
 55bf3192575e4cdcfabcb63370211369.dlied1.cdntips.net
 55dai.com
@@ -11563,6 +11561,7 @@ adp.atm.youku.com
 adp.cnool.net
 adp1.cnool.net
 adpai.thepaper.cn
+adparticle.com
 adpchina.com
 adpic.chinadaily.com.cn
 adplusx.com
@@ -12067,7 +12066,6 @@ ahbzyy.com
 ahc.ink
 ahcaijing.com
 ahcaw.com
-ahchuangyebang.com
 ahcjhjj.com
 ahcnb.com
 ahcyfc.com
@@ -18468,6 +18466,7 @@ bingjo.com
 binglai.net
 binglanggu.com
 binglianhuajianzhan.com
+bingliekeji.com
 binglingtech.com
 binglixue.com
 bingo321.com
@@ -29141,7 +29140,6 @@ d11.baidupcs.com
 d163.net
 d17.cc
 d18611148826.51sole.com
-d1999.com
 d1a12f524a8e585b770a057d1ed89e12.safeframe.googlesyndication.com
 d1ad.com
 d1cm.com
@@ -32634,7 +32632,6 @@ docsou.com
 docteamapi.wps.cn
 doctor-network.com
 doctorcom.com
-doctormnq.com
 doctorscrap.com
 doctorxiong.club
 doctoryou.ai
@@ -35594,6 +35591,7 @@ efang.tv
 efangwang.com
 efapiao.com
 efashionchina.com
+efashioncloud.com
 efb2eacbcf3d4fabf366d149489760cd.dlied1.cdntips.net
 efe-h2.cdn.bcebos.com
 efe.cc
@@ -36693,6 +36691,7 @@ ew-wirestripping.com
 ew16d.package12.com
 ew52.com
 ew80.com
+ew80.net
 ew80yun.com
 ew9z.com
 ewaga.com
@@ -40828,6 +40827,7 @@ gengleyuan.com
 gengnie.com
 gengsan.com
 gengsang.me
+gengshangpin.com
 gengwen.net
 gengzhongbang.com
 geni4s.com
@@ -56850,7 +56850,6 @@ juxiao.mediav.com
 juxieyun.com
 juxilm.com
 juxin.tv
-juxinfu.com
 juxing-edu.com
 juxingyi.com
 juxinhuizhi.com
@@ -59492,7 +59491,6 @@ kzread.com
 kzt.cc
 kztpms.com
 kzwr.com
-kzynews.com
 kzyzz.com
 kzzs.shop
 l-kingmall.com
@@ -62299,6 +62297,7 @@ lnest.com
 lnfssy.com
 lnfzb.com
 lngche.com
+lnglwl.com
 lngqt.com
 lngwyw.com
 lnhygy.com
@@ -63168,7 +63167,6 @@ ludoworld.net
 ludu319.com
 lueasygi.com
 luedian.com
-luexiao.com
 luexpo.com
 lueyue.com
 luezhi.com
@@ -84984,6 +84982,7 @@ shuoshuokong.org
 shuowan.cc
 shuowan.com
 shuowan.net
+shupackaging.com
 shupaiyun.com
 shuq.net
 shuqi.com
@@ -88842,7 +88841,6 @@ sxljldh.top
 sxllzy.chinacourt.org
 sxls.com
 sxmaps.com
-sxmtdz.com
 sxmxwh.com
 sxmyh.com
 sxncb.com
@@ -95528,6 +95526,7 @@ useso.com
 ushaqi.com
 ushendu.com
 ushengame.com
+ushknews.com
 usidt.com
 using.club
 usingde.com
@@ -95581,6 +95580,7 @@ uthinks.com
 util.nphoto.net
 utility.baidu.com
 utility.mail.163.com
+utofairy.com
 utogame.com
 utoken.umeng.com
 utom.design
@@ -100769,7 +100769,6 @@ wodeshebao.com
 wodeshougong.com
 wodeshucheng.com
 wodeyt.com
-wodiancan.net
 wodidashi.com
 wodingche.com
 wodingwang.com
@@ -103733,7 +103732,6 @@ xajjk.com
 xajjn.com
 xajjwy.com
 xajob.com
-xajr.com
 xajx.com
 xajxcw.com
 xakrlab.com
@@ -104147,7 +104145,6 @@ xflimg.com
 xfliusheng.com
 xflstatic.com
 xflz.xyz
-xfmtcn.com
 xfnano.com
 xfocus.net
 xfocus.org
@@ -114047,6 +114044,7 @@ youziqk.com
 youziyundns.com
 youzonggw.com
 youzu.com
+youzuanmy.vip
 yovisun.com
 yovkr.xyz
 yovocloud.com
@@ -118319,7 +118317,6 @@ zjpjmy.com
 zjpost.com
 zjptcc.com
 zjpubservice.com
-zjqbj.com
 zjqichuang.com
 zjqimeng.com
 zjrc.com
