@@ -13317,6 +13317,7 @@ devpn.com
 devsitetest.how
 devsnotebook.free.fr
 devtools-paypal.com
+devv.ai
 dewarp.me
 dewitwithdurex.com
 dex582tcn7be8.cloudfront.net
@@ -29021,6 +29022,7 @@ netflix.ca
 netflix.com
 netflix.com.edgesuite.net
 netflix.net
+netflixdnstest0.com
 netflixdnstest1.com
 netflixdnstest10.com
 netflixdnstest2.com
