@@ -13534,7 +13534,6 @@ aligfwaf.com
 alighting.com
 alihd.net
 alihealth.com.cn
-alihealth.hk
 alihealth.taobao.com
 alihealth.taobao.com.w.alikunlun.com
 alihuahua.com
@@ -17105,6 +17104,7 @@ baidu521.com
 baidua1.cardbaobao.com
 baidua2.cardbaobao.com
 baiduads.com
+baiduapp.com
 baidubaidubaidu.com
 baidubaidubaidu.net
 baidubce.com
@@ -22560,13 +22560,11 @@ ccbfund.cn
 ccbfund.com
 ccbfutures.com
 ccbike.cc
-ccbintl.com.hk
 ccbiotech.co
 ccbleasing.com
 ccbookfair.com
 ccbpension.com
 ccbride.com
-ccbseoul.com
 ccbtrust.com.cn
 ccbxt.com
 ccc-x.jd.com
@@ -25378,8 +25376,6 @@ chinaun.net
 chinaunicom-a.com
 chinaunicom.com
 chinaunicom.com.cn
-chinaunicom.com.hk
-chinaunicomglobal.com
 chinaunicomvideo.cn
 chinauniforms.com
 chinaunionpay.com
@@ -26923,7 +26919,6 @@ cmbchina.biz
 cmbchina.com
 cmbchina.net
 cmbchinawm.com
-cmbi.com.hk
 cmbimg.com
 cmbt.cn
 cmbuat.com
@@ -29611,11 +29606,7 @@ ctdzsk.com
 cteaw.com
 ctecdcs.com
 ctex.org
-ctexcel.ca
-ctexcel.com
 ctexcel.com.hk
-ctexcel.fr
-ctexcel.us
 ctfhub.com
 ctfile.com
 ctfile.net
@@ -29674,9 +29665,7 @@ ctrip-ttd.hk
 ctrip.cn
 ctrip.co.id
 ctrip.co.kr
-ctrip.co.th
 ctrip.com
-ctrip.com.hk
 ctrip.my
 ctrip.sg
 ctripbiz.com
@@ -32926,12 +32915,10 @@ didapinche.com
 didatravel.com
 didctf.com
 diddgame.com
-didi-food.com
 didi.cn
 didialift.com
 didiao.cloud
 didiapp.com
-didiaustralia.blog
 didibear.com
 didichuxing.com
 didichuxing.net
@@ -32939,9 +32926,7 @@ dididadidi.com
 dididapiao.com
 dididawo.com
 dididi88.com
-didiglobal.com
 didiling.com
-didimobility.co.jp
 didipay.com
 didiqiche.com
 didishijie.com
@@ -35527,8 +35512,10 @@ duwenz.com
 duwenzhang.com
 dux.xiaowenweb.com
 dux.xiaowenweb.com.cname2238.yjs-cdn.com
+duxiaoman-int.com
 duxiaoman.com
 duxiaomanfintech.com
+duxiaomantech.com
 duxiaoshuo.com
 duxinjianli.com
 duxiu.com
@@ -35807,13 +35794,18 @@ dxlfile.com
 dxlvs.meituan.com
 dxm-baifubao.n.shifen.com
 dxm-bfb.n.shifen.com
+dxm-cdn.com
 dxm-fscene.n.shifen.com
+dxm-int.com
 dxm-yibai.com
 dxmicash.n.shifen.com
 dxmjinr.com
+dxmlcf.com
+dxmlcfintech.com
 dxmpay.com
 dxmpay.p.xianfae.com
 dxmstatic.com
+dxmyqh.com
 dxnky.com
 dxp.baidu.com
 dxp.e.shifen.com
@@ -37479,7 +37471,6 @@ ems.cp12.wasu.tv
 ems.cp31.ott.cibntv.net
 ems.youku.com
 ems517.com
-emsec.hk
 emshost.com
 emshua.com
 emsym.com
@@ -48160,7 +48151,6 @@ hhrdc.com
 hhrhl.vip
 hhrtu.com
 hhtravel.com
-hhtravel.com.tw
 hhup.com
 hhuus.com
 hhvv.com
@@ -56346,11 +56336,8 @@ jd-fm.com
 jd-mod-space.s3.cn-north-1.jdcloud-oss.com
 jd-zd.com
 jd.co
-jd.co.th
 jd.com
 jd.hk
-jd.id
-jd.ru
 jd.shop
 jd100.com
 jd120.com
@@ -59256,6 +59243,7 @@ juejinqifu.com
 juemei.com
 juemuren4449.com
 jueok.com
+juequling.com
 juesheng.com
 juewei.com
 juexiang.com
@@ -95366,7 +95354,6 @@ tenbilliongame.com
 tencdns.com
 tencdns.net
 tencent-blackboard.com
-tencent-cloud.cn
 tencent-cloud.com
 tencent-cloud.net
 tencent-dtv.m.cn.miaozhen.com
@@ -96320,6 +96307,7 @@ time.pptv.com
 time.ustc.edu.cn
 time.video.iqiyi.com
 time.video.ptqy.gitv.tv
+time.xtracloud.net
 time1.aliyun.com
 time1.cloud.tencent.com
 time2.aliyun.com
@@ -97743,7 +97731,6 @@ trickypen.com
 triggerdelivery.com
 trinitigame.com
 trioisobardev.com
-trip.com
 trip8080.com
 tripadvisor.cn
 tripartite.321mh.com
@@ -100086,7 +100073,6 @@ upnono.com
 upns.95516.com
 upns.95516.com.wscdns.com
 upoll.umengcloud.com
-upos-hz-mirrorakam.akamaized.net
 upos-sz-db302xl.bilivideo.com
 upos-sz-mirrorcos.bilivideo.com
 upos-sz-mirrorcos.bilivideo.com.b.p2.qcloudcdn.com

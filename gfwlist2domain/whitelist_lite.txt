@@ -10453,7 +10453,6 @@ aligaofang.com
 aligfwaf.com
 alighting.com
 alihd.net
-alihealth.hk
 alihuahua.com
 aliimg.com
 alijijinhui.org
@@ -12483,6 +12482,7 @@ baidu120.cc
 baidu123.com
 baidu521.com
 baiduads.com
+baiduapp.com
 baidubaidubaidu.com
 baidubaidubaidu.net
 baidubce.com
@@ -16832,7 +16832,6 @@ ccbleasing.com
 ccbookfair.com
 ccbpension.com
 ccbride.com
-ccbseoul.com
 ccbxt.com
 cccbs.net
 cccc-capital.com
@@ -19142,7 +19141,6 @@ chinaums.com
 chinaun.net
 chinaunicom-a.com
 chinaunicom.com
-chinaunicomglobal.com
 chinaunicomvideo.cn
 chinauniforms.com
 chinaunionpay.com
@@ -22301,10 +22299,6 @@ ctdzsk.com
 cteaw.com
 ctecdcs.com
 ctex.org
-ctexcel.ca
-ctexcel.com
-ctexcel.fr
-ctexcel.us
 ctfhub.com
 ctfile.com
 ctfile.net
@@ -24524,12 +24518,10 @@ didapinche.com
 didatravel.com
 didctf.com
 diddgame.com
-didi-food.com
 didi.cn
 didialift.com
 didiao.cloud
 didiapp.com
-didiaustralia.blog
 didibear.com
 didichuxing.com
 didichuxing.net
@@ -24537,7 +24529,6 @@ dididadidi.com
 dididapiao.com
 dididawo.com
 dididi88.com
-didiglobal.com
 didiling.com
 didipay.com
 didiqiche.com
@@ -26182,8 +26173,10 @@ duwenfei.com
 duwenxue.com
 duwenz.com
 duwenzhang.com
+duxiaoman-int.com
 duxiaoman.com
 duxiaomanfintech.com
+duxiaomantech.com
 duxiaoshuo.com
 duxinjianli.com
 duxiu.com
@@ -26270,10 +26263,15 @@ dxiazaicc.com
 dxjh.net
 dxjs.com
 dxlfile.com
+dxm-cdn.com
+dxm-int.com
 dxm-yibai.com
 dxmjinr.com
+dxmlcf.com
+dxmlcfintech.com
 dxmpay.com
 dxmstatic.com
+dxmyqh.com
 dxnky.com
 dxpei.com
 dxpmedia.com
@@ -27545,7 +27543,6 @@ emr-volces.com
 emrl0z.com
 ems-audio.com
 ems517.com
-emsec.hk
 emshost.com
 emshua.com
 emsym.com
@@ -42390,8 +42387,6 @@ jd-zd.com
 jd.co
 jd.com
 jd.hk
-jd.id
-jd.ru
 jd.shop
 jd100.com
 jd120.com
@@ -44964,6 +44959,7 @@ juejinqifu.com
 juemei.com
 juemuren4449.com
 jueok.com
+juequling.com
 juesheng.com
 juewei.com
 juexiang.com
@@ -70964,7 +70960,6 @@ tenbilliongame.com
 tencdns.com
 tencdns.net
 tencent-blackboard.com
-tencent-cloud.cn
 tencent-cloud.com
 tencent-cloud.net
 tencent-gcloud.com
@@ -72747,7 +72742,6 @@ trickypen.com
 triggerdelivery.com
 trinitigame.com
 trioisobardev.com
-trip.com
 trip8080.com
 tripadvisor.cn
 tripbaba.com

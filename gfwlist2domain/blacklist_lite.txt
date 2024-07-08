@@ -3796,6 +3796,7 @@ akamaitech.net
 akamaitechnologies.com
 akamaitechnologies.net
 akamaized-staging.net
+akamaized.net
 akamaizercentral.com
 akamak.com
 akamam.com
@@ -8763,6 +8764,7 @@ ccav69.me
 ccav691api.com
 ccavb.tv
 ccb-darmstadt.com
+ccbseoul.com
 ccc.moe
 ccc112.net
 ccc3285.com
@@ -9653,6 +9655,7 @@ co.cr
 co.de
 co.hu
 co.il
+co.in
 co.it
 co.ke
 co.ls
@@ -10348,6 +10351,8 @@ csweek.com
 ct186.com
 ctan.org
 ctao.org
+ctexcel.ca
+ctexcel.us
 ctfassets.net
 ctfmc.com
 ctfriend.net
@@ -10402,6 +10407,7 @@ cumswappingsis.com
 cumteenporn.com
 cunhua.mba
 cunhua.pics
+cuniq.com
 cuntempire.com
 cuntwars.com
 cuny.edu
@@ -11105,6 +11111,7 @@ dictatorwatch.org
 dictionary.com
 didce.com
 diddykongracing.com
+didiaustralia.blog
 didilist.com
 diedart2.com
 diedart5.com
@@ -11482,6 +11489,7 @@ dockerizer.com
 docleradn.com
 doclercdn.com
 docs.com
+docs.new
 docs.rs
 docstoc.com
 docstrans.com
@@ -12570,6 +12578,7 @@ empfs.com
 emporis.com
 empornium.site
 ems-ph.org
+emsec.hk
 emsuryadi.com
 emu486.net
 emule-ed2k.com
@@ -13540,12 +13549,14 @@ fapality.com
 fapcat.com
 fapdu.com
 fapdude.com
+fapello.com
 faperoni.com
 fapforfun.net
 faphdporn.com
 faphouse.com
 fapmovz.com
 fapnado.com
+fapomania.com
 fapopedia.net
 fappcelebs.com
 fappeningbook.com
@@ -19805,6 +19816,8 @@ jbvip01.com
 jcpenney.com
 jcs.tw
 jcw1919.com
+jd.id
+jd.ru
 jd111.net
 jd33533.com
 jd888.ws
@@ -21112,6 +21125,7 @@ leagueoflegendsscripts.com
 leaguesharp.info
 leaguoflegends.com
 leakedmeat.com
+leakedzone.com
 leaksmodels.com
 leakxxx.com
 leannecrowvideos.com
@@ -21371,6 +21385,7 @@ libgen.st
 libnull.com
 libo15.com
 liboggirls.net
+library.lol
 libraryinformationtechnology.com
 librarylovefest.com
 libraryofmoria.com
@@ -25239,6 +25254,7 @@ nudistsexvideos.com
 nudistvoyeurbeach.com
 nudity911.com
 nudography.com
+nudostar.tv
 nuespournous.com
 nuexpo.com
 nuget.org
@@ -28593,10 +28609,13 @@ redd.it
 reddit.com
 redditblog.com
 reddithelp.com
+redditinc.com
 redditlist.com
 redditmail.com
 redditmedia.com
+redditspace.com
 redditstatic.com
+redditstatus.com
 redeemercast.net
 redfaptube.com
 redgifs.com
@@ -29984,6 +30003,7 @@ shayunet.net
 shazam.com
 shdd.ink
 shdyyz.com
+sheets.new
 sheflix.com
 shegg.com
 shegods.com
@@ -30415,6 +30435,7 @@ sleazyneasy.com
 slheng.com
 sli.do
 slickvpn.com
+slides.new
 slideshare.com
 slideshare.net
 slidesharecdn.com
@@ -33099,6 +33120,7 @@ trimondi.de
 trinita.tv
 triokini.com
 trionworlds.com
+trip.com
 tripodadvisors.com
 trips-edu.nl
 tripwireinteractive.com
@@ -35713,6 +35735,7 @@ whatbrowser.org
 whatisairwatch.com
 whatisscientology.org
 whatisworkspaceone.com
+whats.new
 whatsapp-plus.info
 whatsapp-plus.me
 whatsapp-plus.net
