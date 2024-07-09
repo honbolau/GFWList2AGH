@@ -11723,6 +11723,11 @@ core.opentext.com
 core3.proxyswitcher.com
 coreduo.com
 coreextreme.com
+corel.com
+corel.net
+coreldraw.app
+coreldraw.com
+corelstore.com
 coreml.net
 coreoptics.net
 corepublishingsolutions.com
@@ -20958,6 +20963,7 @@ hometrack.com.au
 hometubeporn.com
 homeunix.org
 homewarranty.firstam.com
+hominis.media
 homo.xxx
 honawalaan.com
 hondamotorheads.com
@@ -24065,6 +24071,8 @@ js888002.com
 js888008.com
 js888100.com
 js9900vip.com
+jsati.com
+jsatmobile.com
 jsbridgestone.com
 jsdaodu16.jigsy.com
 jsdd15.jigsy.com
@@ -36102,6 +36110,8 @@ skype.net
 skype.pchome.com.tw
 skypeassets.com
 skypeassets.net
+skyperfectjsat.space
+skyperfectv.co.jp
 skyporn.online
 skypost.hk
 skypost.ulifestyle.com.hk
@@ -36601,6 +36611,7 @@ sparham.org.uk
 spark.adobe.com
 sparklabs.com
 spb.com
+spcc-sp.com
 spdh3.bar
 spdh6.xyz
 speakerdeck.com
@@ -36731,6 +36742,7 @@ sproutcore.com
 sproxy.info
 sproxy.net
 spsbbtr.com
+sptvbroadcast.com
 spyjinx.com
 spyno1.webnode.tw
 spyoff.com
