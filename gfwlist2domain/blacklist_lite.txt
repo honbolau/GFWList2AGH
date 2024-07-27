@@ -4132,7 +4132,11 @@ amazon.sg
 amazonalexavoxcon.com
 amazonauthorinsights.com
 amazonaws-china.com
+amazonaws.biz
 amazonaws.com
+amazonaws.info
+amazonaws.net
+amazonaws.org
 amazonaws.tv
 amazonbusiness.org
 amazonbusinessblog.com
@@ -9622,6 +9626,8 @@ cncrivals.com
 cncurrent.com
 cnd.org
 cnet.com
+cnet.de
+cnetfrance.fr
 cnfree.com
 cngun.net
 cnhelloavgirls.com
@@ -9669,6 +9675,7 @@ co.ke
 co.ls
 co.ma
 co.me
+co.mu
 co.mz
 co.na
 co.ni
@@ -9712,6 +9719,7 @@ code.org
 code1984.com
 code4.hk
 codeberg.org
+codeberg.page
 codeboxapp.com
 codeburst.io
 codecademy.com
@@ -14038,6 +14046,7 @@ fisac-irsf.org
 fishfortomorrow.org
 fishmpegs.com
 fistandgape.com
+fitbit.com
 fitfoodie.club
 fitgirl-repacks.site
 fithiro.club
@@ -14787,6 +14796,7 @@ fscked.org
 fsdn.com
 fse.tv
 fsebookstore.com
+fsmone.com
 fsrepo.cf
 fssta.com
 fstopimages.com
@@ -14980,6 +14990,7 @@ fundinginstitutional.com
 fundingrates.xyz
 fundpaypal.com
 fundraisingwithfacebook.com
+fundsupermart.com
 funf.tw
 funimation.com
 funimax.com
@@ -15044,6 +15055,7 @@ fxcm.co
 fxcm.com
 fxcmapac.com
 fxcmcn.com
+fxcorporate.com
 fxdd.com
 fxn.ws
 fxnetwork.com
@@ -17758,6 +17770,22 @@ hrweb.org
 hrwf.net
 hs.vc
 hs8881.com
+hsbc-alternatives.de
+hsbc-transactionservices.de
+hsbc-zertifikate.de
+hsbc.ae
+hsbc.am
+hsbc.bm
+hsbc.ca
+hsbc.de
+hsbc.fr
+hsbc.lk
+hsbc.net
+hsbc.uk
+hsbcinnovationbanking.com
+hsbcnet.com
+hsbcprivatebank.com
+hsbctrinkaus.de
 hsbpartners.com
 hsex.men
 hsex.tv
@@ -18257,6 +18285,11 @@ iepl.us
 iescentral.com
 ietf.org
 ifanqiang.com
+ifastcorp.com
+ifastgb.com
+ifastgp.com
+ifastnetwork.com
+ifasttv.com
 ifc.org
 ifcayouth.org
 ifconfig.me
@@ -20865,6 +20898,7 @@ kubeapps.com
 kubernetes.io
 kuckucktv.de
 kucoin.com
+kucoin.plus
 kuese.com
 kugadai.com
 kugo.cc
@@ -21741,12 +21775,17 @@ lonestarnaughtygirls.com
 long3158.com
 long8706.com
 longbl.com
+longbridge.cloud
+longbridge.global
+longbridge.hk
+longbridge.sg
 longhair.hk
 longhu99.com
 longjinglihua.com
 longjohnsilvers.com
 longman.ch
 longmusic.com
+longportapp.com
 longs1.vip
 longtailvideo.com
 longtermly.net
@@ -23701,6 +23740,7 @@ mpnevolution.com
 mponline.hk
 mpv.io
 mpweekly.com
+mql5.com
 mqxd.org
 mr-tireman.jp
 mr006.com
@@ -25273,6 +25313,7 @@ nudistlog.com
 nudistsexvideos.com
 nudistvoyeurbeach.com
 nudity911.com
+nudogram.com
 nudography.com
 nudostar.tv
 nuespournous.com
@@ -25291,6 +25332,7 @@ nuovomegavideo.com
 nuoyavpn.com
 nurgay.to
 nurgo-software.com
+nuro.jp
 nurofen.at
 nurofen.bg
 nurofen.com
@@ -27667,6 +27709,7 @@ pricelesssurprises.com
 pricelesssydney.com
 pricelesstoronto.ca
 pricelesstv.com
+priconne-redive.jp
 pride.google
 pridetube.com
 prigle.com
@@ -30684,10 +30727,12 @@ sony-latin.com
 sony-mea.com
 sony-olympus-medical.com
 sony-promotion.eu
+sony-semicon.com
 sony.at
 sony.ba
 sony.be
 sony.bg
+sony.biz
 sony.ca
 sony.ch
 sony.cl
@@ -33090,6 +33135,7 @@ trans500.com
 transangels.com
 transarmuito.com
 transcamslive.com
+transferwise.com
 translate.goog
 translatetheweb.com
 translatewiki.net
@@ -33538,6 +33584,7 @@ twgreatnews.com
 twhawk.tw
 twhentai.com
 twhirl.org
+twi-videos.net
 twibase.com
 twibble.de
 twibbon.com
@@ -33547,6 +33594,7 @@ twich.tv
 twicountry.org
 twicsy.com
 twidouga.net
+twidouga.tv
 twiends.com
 twifan.com
 twiffo.com
@@ -35391,6 +35439,7 @@ waisongcha.com
 waiwaier.com
 waiyou8.wang
 wakingmoon.com
+wakwak.com
 wal-mart.com
 wal.co
 walibee.com
@@ -35523,6 +35572,7 @@ wballiance.com
 wbd.ms
 wbdnbo.net
 wbet1111.com
+wbrks.com
 wbvm4s.com
 wby118.com
 wbyl058.com
@@ -35987,12 +36037,14 @@ wireshark.org
 wisalstudio.com
 wisdompubs.org
 wise-research.com
+wise.com
 wisecoin.com
 wiseid.com
 wisekey.com
 wisevid.com
 wish.com
 wistia.com
+wistia.net
 wit.im
 witandwoven.com
 withgoogle.com
