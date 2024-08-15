@@ -4339,9 +4339,11 @@ android-x86.org
 android.com
 androidapksfree.com
 androidappsapk.co
+androidauthority.com
 androidebook.org
 androidify.com
 androidplus.co
+androidpolice.com
 androidtablets.net
 androidtv.com
 androidworld.ch
@@ -11173,6 +11175,7 @@ digitalplayground.com
 digitalplaygroundnetwork.com
 digitalprototyping.com
 digitalsafe.ch
+digitaltrends.com
 digitalvajra.com
 digwebinterface.com
 diigo.com
@@ -28720,6 +28723,7 @@ redtube9.com
 redtubepremium.com
 redtude.com
 redtv.cc
+redvideo.io
 redwap-xxx.com
 redwap.me
 redwap.pro
@@ -31342,6 +31346,7 @@ stories.google
 storiesofyesterday.com
 storiesonline.net
 storify.com
+storj.io
 storm.mg
 stormmediagroup.com
 storyful.com
@@ -32059,6 +32064,7 @@ techliquidators.com
 technics.com
 technik-specials.de
 technologyandsociety.org
+techradar.com
 techrepublic.com
 techspot.com
 techstreet.com
@@ -32932,6 +32938,7 @@ tomatespodres.com
 tomonews.net
 tomorrowland.com
 tomp2p.net
+tomsguide.com
 tonalla.com
 tonalsoft.com
 tonec.com
@@ -34096,7 +34103,7 @@ usatodaynetworkservice.com
 usawebproxy.com
 usawebproxy.net
 usb3.gq
-usc.edu
+uscardforum.com
 uscellular.com
 uscirf.gov
 uscis.gov
