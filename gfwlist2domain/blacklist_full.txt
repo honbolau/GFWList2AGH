@@ -8050,7 +8050,6 @@ blog.pathtosharepoint.com
 blog.pentalogic.net
 blog.prototypr.io
 blog.pshrmn.com
-blog.qooza.hk
 blog.radi.ws
 blog.ranxiang.com
 blog.reimu.net
@@ -23334,6 +23333,7 @@ ivi.ru
 ivieasia.com
 ivintageporn.com
 iviviv.com
+ivonblog.com
 ivpn.50webs.com
 ivpn.net
 ivpncup.me
@@ -23471,6 +23471,7 @@ jamf.com
 jamlicious.com
 jamo.tv
 jamyangnorbu.com
+jan.ai
 jandyx.com
 janevim.cz
 janiese.com
@@ -31894,7 +31895,6 @@ pheonix.money
 philborges.com
 philenews.com
 philipmorrisusa.com
-philly.com
 phillydailynews.com
 phillytibetans.com
 philomedium.com
@@ -33557,7 +33557,6 @@ qombol.com
 qoo10.jp
 qooqlevideo.com
 qoos.com
-qooza.hk
 qorno.com
 qp991919.com
 qpby00.com
@@ -33827,7 +33826,6 @@ ramma.net
 randomazon.com
 randyblue.com
 rangwang.biz
-rangzen.com
 rangzen.net
 rangzen.org
 ranxiang.com
@@ -33836,7 +33834,6 @@ rapbull.net
 rapefilms.net
 rapetube.me
 rapgenius.com
-rapidgator.net
 rapidmoviez.com
 rapidprivacy.com
 rapidprototyping-cadcam.com
