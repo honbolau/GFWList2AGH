@@ -6714,9 +6714,7 @@ bild.de
 bili2.cc
 bili888.com
 bili999.com
-bilibili.tv
 bilifl.com
-biliintl.com
 biliplus.com
 biliworld.com
 bill-safe.com
@@ -19208,7 +19206,6 @@ ipsxtv.site
 iptvbin.com
 ipvanish.com
 ipvm.com
-iq.com
 iqiyiavlive.buzz
 iqlink1.us
 iqlinkus.com
@@ -23070,6 +23067,7 @@ minecraft.net
 minecraft.wiki
 minecraftnoob.com
 minecraftr.us
+minecraftservices.com
 minecraftshop.com
 mineirinhanalemanha.de
 minepi.com
