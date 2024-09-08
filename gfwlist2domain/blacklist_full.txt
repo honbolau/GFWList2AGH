@@ -7704,8 +7704,10 @@ bilet.intercity.pl
 bili2.cc
 bili888.com
 bili999.com
+bilibili.tv
 bilibiliba.weebly.com
 bilifl.com
+biliintl.com
 biliplus.com
 biliworld.com
 bill-safe.com
@@ -20465,6 +20467,7 @@ herrneckara.bhitest.com
 heryan.web.id
 hetzner.cloud
 hetzner.com
+hetzner.company
 hetzner.de
 heungkongdiscuss.com
 hex.pm
@@ -23065,6 +23068,7 @@ iptvbin.com
 ipv4.yunfei.cf
 ipvanish.com
 ipvm.com
+iq.com
 iqiyiavlive.buzz
 iqlink1.us
 iqlinkus.com
@@ -40504,6 +40508,7 @@ upnext.eu
 uporn.net
 upornia.com
 uporno.xxx
+upos-hz-mirrorakam.akamaized.net
 uproxy.org
 uproxysite.cloudfunctions.net
 upsc.co.uk
