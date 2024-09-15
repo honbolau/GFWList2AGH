@@ -12359,6 +12359,7 @@ d1fctm4x4lk1e2.cloudfront.net
 d1fkiayp9ijfhs.cloudfront.net
 d1fvf4htqulvuq.cloudfront.net
 d1g05qndfcscwb.cloudfront.net
+d1g1f25tn8m2e6.cloudfront.net
 d1g8tqrh6hs1u5.cloudfront.net
 d1gmqe1mlq4xp3.cloudfront.net
 d1gvju21bnqlk7.cloudfront.net
@@ -12379,7 +12380,9 @@ d1l56n4y7tmrdy.cloudfront.net
 d1ldnl69khq89z.cloudfront.net
 d1ltch2mfdfkfm.cloudfront.net
 d1m0a5s9pgearu.cloudfront.net
+d1m7jfoe9zdc1j.cloudfront.net
 d1mh7il84qxl6t.cloudfront.net
+d1mhjrowxxagfy.cloudfront.net
 d1mjc71lmzgj1n.cloudfront.net
 d1n7qfbcprvx1.cloudfront.net
 d1nfzinqpp07se.cloudfront.net
@@ -12389,6 +12392,7 @@ d1ns13b5v06dhs.cloudfront.net
 d1o0w9vg6wcyne.cloudfront.net
 d1o8fblspbo6zh.cloudfront.net
 d1oar7wgo49p2u.cloudfront.net
+d1oca24q5dwo6d.cloudfront.net
 d1or3zq9s4ius3.cloudfront.net
 d1ot4iop71k9iu.cloudfront.net
 d1ozc3oe40r60x.cloudfront.net
@@ -12421,6 +12425,7 @@ d1vlap2nxpiws4.cloudfront.net
 d1vt414593lcr7.cloudfront.net
 d1w0bzp1snsjyg.cloudfront.net
 d1w1ed5rjenh2.cloudfront.net
+d1w2poirtb3as9.cloudfront.net
 d1w4iksaa5wzjq.cloudfront.net
 d1w636m9x29hdr.cloudfront.net
 d1wcyl67re4p3e.cloudfront.net
@@ -12430,8 +12435,10 @@ d1wmozxt3u3xb6.cloudfront.net
 d1x0p3lmdequ0z.cloudfront.net
 d1x9ai1m90zg00.cloudfront.net
 d1xdpmm84fa9xh.cloudfront.net
+d1xhnb4ptk05mw.cloudfront.net
 d1xwtayb96febg.cloudfront.net
 d1xzlgv0kaseav.cloudfront.net
+d1ymi26ma8va5x.cloudfront.net
 d1ywq0sy6ac055.cloudfront.net
 d1z269x44ovtxp.cloudfront.net
 d1z871soab7j1m.cloudfront.net
@@ -12489,6 +12496,7 @@ d29i69ofk0x03f.cloudfront.net
 d29jekp4emy41a.cloudfront.net
 d29vzk4ow07wi7.cloudfront.net
 d29wm8dmhxnxqd.cloudfront.net
+d2aba1wr3818hz.cloudfront.net
 d2anahhhmp1ffz.cloudfront.net
 d2apx3fwniaev7.cloudfront.net
 d2b1gl7puillot.cloudfront.net
@@ -12503,7 +12511,9 @@ d2cu0gs939yg23.cloudfront.net
 d2cvld8j44ztkj.cloudfront.net
 d2cymee3oy9kh3.cloudfront.net
 d2d1zfqgifngbh.cloudfront.net
+d2dylwb3shzel1.cloudfront.net
 d2dz57s22kludp.cloudfront.net
+d2e2de1etea730.cloudfront.net
 d2e6hgycn2t9tz.cloudfront.net
 d2ect51b8smh2u.cloudfront.net
 d2ehbxnrtj7x3l.cloudfront.net
@@ -12551,6 +12561,7 @@ d2n48gg94hxqm.cloudfront.net
 d2nm3w2ltn97dw.cloudfront.net
 d2nnie5ujgntpx.cloudfront.net
 d2ntqoy263cfg5.cloudfront.net
+d2nvs31859zcd8.cloudfront.net
 d2o6gab9w1xdwf.cloudfront.net
 d2o8j61n9jvv5u.cloudfront.net
 d2olp5khgu59g3.cloudfront.net
@@ -12583,10 +12594,12 @@ d2u17gw7yvvb2k.cloudfront.net
 d2u1rdge9awnd8.cloudfront.net
 d2u9f8yrwlx5va.cloudfront.net
 d2ujbgixmqypkk.cloudfront.net
+d2um2qdswy1tb0.cloudfront.net
 d2usayt5upxf6i.cloudfront.net
 d2uzsrnmmf6tds.cloudfront.net
 d2v3zod1uvhp53.cloudfront.net
 d2v4451an2o2d1.cloudfront.net
+d2vjef5jvl6bfs.cloudfront.net
 d2w9qp2kn7udcg.cloudfront.net
 d2wcnv22o4lmnt.cloudfront.net
 d2wlijk77wx86m.cloudfront.net
@@ -12598,6 +12611,7 @@ d2x67mfj6bj3l1.cloudfront.net
 d2x9xuqj179vf8.cloudfront.net
 d2xg0kpm6z915y.cloudfront.net
 d2xgyu1v32z7j2.cloudfront.net
+d2xmjdvx03ij56.cloudfront.net
 d2xsio5v4myrvc.cloudfront.net
 d2xsp42qjlbe5v.cloudfront.net
 d2xwei62kcqq25.cloudfront.net
@@ -12648,6 +12662,7 @@ d3685.com
 d368ozj6xi7rhe.cloudfront.net
 d36cz9buwru1tt.cloudfront.net
 d36d3255o612ec.cloudfront.net
+d36nr0u3xmc4mm.cloudfront.net
 d37309rifb5wpc.cloudfront.net
 d377td6kcri7un.cloudfront.net
 d3787.com
@@ -12659,8 +12674,10 @@ d391rxfxl1sz8s.cloudfront.net
 d39l9va7udgle8.cloudfront.net
 d3a.spacetechnology.net
 d3aj00iefsmfgc.cloudfront.net
+d3aqoihi2n8ty8.cloudfront.net
 d3ax1ung5itt9v.cloudfront.net
 d3bwch01tq5j6t.cloudfront.net
+d3c27h4odz752x.cloudfront.net
 d3c33hcgiwev3.cloudfront.net
 d3c3to2hc70hvo.cloudfront.net
 d3cfzu4vlvtoqp.cloudfront.net
@@ -12725,6 +12742,7 @@ d3tk7p3j2qouin.cloudfront.net
 d3tyjw7xu8h60p.cloudfront.net
 d3u6a1seuyd3r3.cloudfront.net
 d3uj6xm91r4200.cloudfront.net
+d3vd9lfkzbru3h.cloudfront.net
 d3vmmtgdwgp8tk.cloudfront.net
 d3vv89cvqbrqlq.cloudfront.net
 d3w2o0gs4j96ib.cloudfront.net
@@ -12742,7 +12760,9 @@ d6396.com
 d6565.com
 d6767.com
 d6cswopzzvdu8.cloudfront.net
+d6d4ismr40iw.cloudfront.net
 d6odz201mu255.cloudfront.net
+d6tizftlrpuof.cloudfront.net
 d6w1gd3k8phsc.cloudfront.net
 d7203y8eitivv.cloudfront.net
 d7666.com
@@ -13094,6 +13114,7 @@ dd5278.loan
 dd57625.cq11.net
 dd935.net
 dd9871.com
+ddacn6pr5v0tl.cloudfront.net
 ddc.com.tw
 ddd-smart.net
 ddd.po888.net
@@ -13419,6 +13440,7 @@ dfp6rglgjqszk.cloudfront.net
 dfpt88.com
 dfw.ejdj12.com
 dgaqp.com
+dgeft87wbj63p.cloudfront.net
 dgg.gg
 dgreencommunications.com
 dgwav.com
@@ -14187,6 +14209,7 @@ dqmobile2.po888.net
 dqmobile3.po888.net
 dqmobile5.po888.net
 dqmobile6.po888.net
+dqrpb9wgowsf5.cloudfront.net
 dr-ming-xia.org
 draftjs.org
 draganovhouse.eu
@@ -14328,6 +14351,7 @@ drweb.kz
 drweb.uz
 ds-linear-abematv.akamaized.net
 ds-vod-abematv.akamaized.net
+ds0h3roq6wcgc.cloudfront.net
 ds2v8dhpuxcwv.cloudfront.net
 dscn.info
 dsd001.com
@@ -14589,6 +14613,7 @@ dyfl1.pw
 dyj.129676.com
 dyj168.b666888.com
 dyj2lt8qxc532.cloudfront.net
+dykkng5hnh52u.cloudfront.net
 dykycl.com
 dylangauthier.com
 dyn.mk
@@ -25755,6 +25780,7 @@ liuxiaobo.net
 liuxue.stellour.com
 liuzheyuan.com
 live-patreon-marketing.pantheonsite.io
+live-video.net
 live.coachella.com
 live.com
 live.com.au
@@ -28477,7 +28503,10 @@ mt0011.site
 mt1.google.cn
 mt2.google.cn
 mt3.google.cn
+mtalk-dev.google.com
+mtalk-staging.google.com
 mtalk.google.com
+mtalk4.google.com
 mtanos.com
 mtao.fun
 mtco.com
@@ -39517,6 +39546,7 @@ trinita.tv
 triokini.com
 trionworlds.com
 trip.com
+tripcdn.com
 tripodadvisors.com
 trips-edu.nl
 tripwireinteractive.com
