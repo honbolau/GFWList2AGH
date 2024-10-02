@@ -3214,6 +3214,7 @@
 21our.com
 21qa.net
 21qphr.com
+21qupu.com
 21rv.com
 21shhr.com
 21shipin.com
@@ -26908,7 +26909,6 @@ chuangkeup.com
 chuangkit.com
 chuangli.net
 chuanglian.net
-chuanglianhui.com
 chuanglinggame.com
 chuangluo.com
 chuangmei8.com
@@ -50069,7 +50069,6 @@ gzshujuhui.com
 gzsj.live
 gzsjyzx.com
 gzsjzx.com
-gzsmove.com
 gzspeedtest.com
 gzsrmyy.com
 gzsrunda.com
@@ -50635,6 +50634,7 @@ haitaotong.com
 haitaozu.org
 haitianhome.com
 haitl.com
+haitong.com
 haitongjiaoyu.com
 haitou.cc
 haitou360.com
@@ -52754,7 +52754,6 @@ hg2693.com
 hg3310.com
 hg5177.com
 hg56999.com
-hg6262.biz
 hg707.com
 hg87.com
 hg8880.org
@@ -54592,7 +54591,6 @@ hr-self.com
 hr-welink.com
 hr.sspu.edu.cn
 hr002.com
-hr029edu.com
 hr0571.com
 hr0715.com
 hr0915.com
@@ -61936,6 +61934,7 @@ jh3737.com
 jh3j.com
 jh3pin.com
 jh8k.com
+jhaoyou.com
 jhbst.com
 jhcb.net
 jhcfz.com
@@ -67648,7 +67647,6 @@ kuaizhang.com
 kuaizhe.com
 kuaizhihui.com
 kuaizhou123.com
-kuaizi.cc
 kuaizi.co
 kuaizip.com
 kuaizitech.com
@@ -69284,7 +69282,6 @@ leigod.com
 leihetg.com
 leihuo.net
 leihuo99.com
-leikeda.com
 leikeji.com
 leikw.com
 leilei3dprinter.com
@@ -78740,6 +78737,7 @@ namedq.com
 nameidi.com
 namejin.com
 namepre.com
+nameserver.fit
 namesilodns.com
 namesilopro.com
 namibox.com
@@ -79933,7 +79931,6 @@ nizhan888.com
 nizi88.com
 nizkeyboard.com
 nj-bl.com
-nj-cs.com
 nj-hust.com
 nj-js.cache.saaswaf.com
 nj-marathon.org
@@ -80064,7 +80061,6 @@ njzq.com.cn
 njzy99.com
 njzztyl.com
 nkasr.com
-nkf09.com
 nks1688.com
 nkscdn.com
 nkst5h3v.v1d.szbdyd.com
@@ -80224,7 +80220,6 @@ nn6yy.com
 nn6zx.com
 nn7yy.com
 nn8yy.com
-nn9.net
 nn9yy.com
 nnairport.com
 nnanyang.com
@@ -80544,7 +80539,6 @@ nnwtgs.com
 nnwtl.com
 nnwxtzgs.com
 nnwysc.com
-nnwysp.com
 nnwytl.com
 nnxchda.com
 nnxcx.com
@@ -85297,7 +85291,6 @@ plob.org
 plogin.m.jd.com
 plogin.m.jd.com.gslb.qianxun.com
 plop.pm
-plotsuz.com
 plottinglogistics.com
 plqdf.com
 plrsw.com
@@ -92120,7 +92113,6 @@ rootop.org
 rootopen.com
 rootzhushou.com
 roouoo.com
-roov.org
 ropefitting.com
 ropif.sbs
 ror-game.com
@@ -95859,6 +95851,7 @@ shenma.com
 shenma4480.cc
 shenmabaike.com
 shenmadsp.com
+shenmapay.com
 shenmayouxi.com
 shenmezhidexia.com
 shenmikj.com
@@ -97120,6 +97113,7 @@ shyywz.com
 shyz07.com
 shyzjsxh.com
 shyzsd.com
+shzaiguan.com
 shzbc.com
 shzbh.com
 shzbkj.com
@@ -97324,7 +97318,6 @@ simple-is-better.com
 simplecreator.net
 simpledatas.com
 simplexue.com
-simpo-data.com
 simpread.pro
 simsci.net
 simu800.com
@@ -105433,6 +105426,7 @@ toughcoder.net
 tougub.com
 touhou.casa
 touhou.cd
+touhou.market
 toujidao.com
 touker.com
 toumiao.com
@@ -116966,6 +116960,7 @@ wxsgf.com
 wxshake.com
 wxshare.yicai.com
 wxshiteng.com
+wxshuku.la
 wxsign.nie.netease.com
 wxsk.sandpay.com.cn
 wxsk.sandpay.com.cn.cdn30.com
@@ -117288,7 +117283,6 @@ x64go.com
 x64pro.com
 x66597.com
 x6d.com
-x6kj.com
 x6tuan.com
 x6x8.com
 x6z6.com
@@ -130877,6 +130871,7 @@ zaiyulin.com
 zaiyunli.cn
 zaiyunli.com
 zaizai8.com
+zajiebao.com
 zajilu.com
 zajourney.com
 zakdy.com
