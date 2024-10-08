@@ -9374,6 +9374,7 @@ aabooo.com
 aabux.com
 aad.tw
 aad5.com
+aadcloud.com
 aadongman.com
 aads-cng.net
 aafanke.cc
@@ -43203,6 +43204,7 @@ huaweiapaas.com
 huaweicloud-dns.com
 huaweicloud-dns.net
 huaweicloud-dns.org
+huaweicloud-idme.com
 huaweicloud-smn.com
 huaweicloud-smn.net
 huaweicloud.com
@@ -43952,6 +43954,7 @@ hwcpb.com
 hwcrazy.com
 hwehs.com
 hweimall.com
+hweventgrid.com
 hwfcw.com
 hwhidc.com
 hwht.com
@@ -45134,6 +45137,7 @@ idongdong.com
 idongmai.com
 idongniu.com
 idongte.com
+idonguapi.com
 idooshu.com
 idosend.com
 idotools.com
@@ -46043,6 +46047,7 @@ in955.com
 in9ni.com
 inabr.com
 inad.com
+inanguapi.com
 inanrenbang.com
 inbeijing.org
 inbeing.net
@@ -47236,6 +47241,7 @@ ixiaoyuanzhi.com
 ixiatxt.com
 ixigua.com
 ixiguan.com
+ixiguapi.com
 ixiguavideo.com
 iximo.com
 ixingfei.com
@@ -60301,6 +60307,7 @@ modao.io
 modashi.net
 modb.cc
 modb.pro
+modelarts-infer.com
 modelevel.com
 modelwhale.com
 modeng178.com
@@ -61346,6 +61353,9 @@ myhomeok.com
 myhongzuan.com
 myhostadmin.net
 myhscodes.com
+myhuaweicloud-custom.com
+myhuaweicloud-koodrive.com
+myhuaweicloud-obs.com
 myhuaweicloud.cn
 myhuaweicloud.com
 myhug.cn
@@ -83056,6 +83066,7 @@ uwan.com
 uwan5.com
 uweitui.com
 uwenku.com
+uwn.com
 uworter.com
 uwowo.com
 ux18.com

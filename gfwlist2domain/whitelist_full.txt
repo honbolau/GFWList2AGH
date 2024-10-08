@@ -11521,6 +11521,7 @@ aacttmbmdnlxpdvuzecxkqcexur2o888.node.ppio.cloud
 aacwzsiy2ksgdavzfdatkp7fitrec888.node.ppio.cloud
 aad.tw
 aad5.com
+aadcloud.com
 aadn6nkpbx7oasjkdha2vostkhzuq888.node.ppio.cloud
 aadongman.com
 aads-cng.net
@@ -55423,6 +55424,7 @@ huaweicard-drcn.wallet.dbankcloud.com
 huaweicloud-dns.com
 huaweicloud-dns.net
 huaweicloud-dns.org
+huaweicloud-idme.com
 huaweicloud-smn.com
 huaweicloud-smn.net
 huaweicloud.com
@@ -56269,6 +56271,7 @@ hwcpb.com
 hwcrazy.com
 hwehs.com
 hweimall.com
+hweventgrid.com
 hwfcw.com
 hwhidc.com
 hwhpo6ya.sched.v1.tdnsv5.com
@@ -57803,6 +57806,7 @@ idongdong.com
 idongmai.com
 idongniu.com
 idongte.com
+idonguapi.com
 idooshu.com
 idosend.com
 idotools.com
@@ -59535,6 +59539,7 @@ ina6f3w5tpepprk5rr4yanif72pjku9e.alicloudwaf.com
 inabr.com
 inad.com
 inadmin.convshop.com
+inanguapi.com
 inanrenbang.com
 inapp.1sapp.com
 inapp.1sapp.com.w.kunlunpi.com
@@ -61134,6 +61139,7 @@ ixiaoyuanzhi.com
 ixiatxt.com
 ixigua.com
 ixiguan.com
+ixiguapi.com
 ixiguavideo.com
 iximo.com
 ixingfei.com
@@ -76990,6 +76996,7 @@ modashi.net
 modb.cc
 modb.pro
 model.sspu.edu.cn
+modelarts-infer.com
 modelevel.com
 modelwhale.com
 modeng178.com
@@ -78383,6 +78390,9 @@ myhomeok.com
 myhongzuan.com
 myhostadmin.net
 myhscodes.com
+myhuaweicloud-custom.com
+myhuaweicloud-koodrive.com
+myhuaweicloud-obs.com
 myhuaweicloud.cn
 myhuaweicloud.com
 myhug.cn
@@ -108918,6 +108928,7 @@ uwan5.com
 uweb.umeng.com
 uweitui.com
 uwenku.com
+uwn.com
 uworter.com
 uwowo.com
 ux.21cn.com

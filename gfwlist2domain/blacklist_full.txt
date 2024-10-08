@@ -4084,6 +4084,7 @@ aetoscg.com
 aevpn.com
 aeweb.xyz
 aex88.com
+af-north-1.myhuaweicloud.com
 af-south-1.myhuaweicloud.com
 af.mil
 afantibbs.com
@@ -4997,6 +4998,7 @@ ampj60.com
 ampj662.com
 ampj665.com
 ampj90.com
+amplifi.com
 amplifyapp.com
 amplifyframework.com
 amplitude.com
@@ -12046,6 +12048,7 @@ classics.ac.uk
 classicscore.hut2.ru
 classymomsex.com
 claude.ai
+claudeusercontent.com
 clb.org.hk
 clc-london.ac.uk
 clco.cc
@@ -18315,8 +18318,10 @@ fastindianporn.com
 fastlane.ci
 fastlane.tools
 fastlanecommission.com
+fastly-edge.com
 fastly-terrarium.com
 fastly.com
+fastly.io
 fastly.net
 fastlylabs.com
 fastlylb.net
@@ -19692,6 +19697,7 @@ frontiersin.org
 frontiersofoncology.ac.uk
 frontlinedefenders.org
 frontpagemag.com
+frontrow.com
 frontzp.com
 froogle.com
 frootvpn.com
@@ -20817,6 +20823,7 @@ github.dev
 github.io
 githubapp.com
 githubassets.com
+githubcopilot.com
 githubhackathon.com
 githubnext.com
 githubpreview.dev
@@ -21177,6 +21184,7 @@ googl.com
 google-access.net
 google-ch.com
 google-melange.com
+google-ohttp-relay-safebrowsing.fastly-edge.com
 google-syndication.com
 google.ac
 google.ad
@@ -23756,6 +23764,7 @@ httpsfacebook.com
 httpwwwfacebook.com
 httwww.ossxtv.com
 htvncdn.net
+htx.com
 htyj-bj.com
 hu188.net
 hu1u.com
@@ -31858,6 +31867,7 @@ my-enema.com
 my-expat-network.com
 my-formosa.com
 my-free-mp3s.com
+my-kualalumpur-1.myhuaweicloud.com
 my-magazine.me
 my-private-network.co.uk
 my-proxy.com
@@ -38784,6 +38794,7 @@ rtm.tnt-ea.com
 rts.ch
 rtsinfo.ch
 rtycminnesota.org
+ru-moscow-1.myhuaweicloud.com
 ru-northwest-2.myhuaweicloud.com
 rua-project.ac.uk
 ruanf.com
@@ -40540,6 +40551,7 @@ signal.art
 signal.org
 signalbar.com
 signalprocessingsociety.org
+signalr.net
 signalusers.org
 signbucks.com
 signify.net
@@ -44347,6 +44359,7 @@ torrentz2.eu
 torrentz2.is
 torrindex.net
 torss.cf
+tortoisesvn.net
 torvpn.com
 tosh.comedycentral.com
 toshiba-medical.biz
@@ -45323,6 +45336,7 @@ ubistatic3-a.akamaihd.net
 ubktv.com
 ubl.com
 ubn.ac.uk
+ubncloud.com
 ubnw.net
 ubpop.com
 ubshe.com
@@ -45450,12 +45464,14 @@ uhr.ac.uk
 uhrp.org
 uhsl.ac.uk
 uhub.com
+ui.com
 ui138.fafafa3388.com
 uighur.narod.ru
 uighur.nl
 uighurbiz.net
 uinvest.com.ua
 uiporn.com
+uisp.com
 ujaen.es
 ujapanesesex.com
 ujiule.com
@@ -46884,6 +46900,7 @@ vk.design
 vk.link
 vk.me
 vk.nl
+vk.ru
 vkcache.com
 vkgo.app
 vklive.app
@@ -48298,6 +48315,7 @@ wifesharingpics.com
 wifevideos.net
 wifewantstoplay.com
 wifi-mx.com
+wifiman.com
 wigan-leigh.ac.uk
 wigs.ac.uk
 wigstoncollege.ac.uk
@@ -55991,6 +56009,7 @@ zendproxy.com
 zengjinyan.org
 zenguard.org
 zenguard.zendesk.com
+zenlesszonezero.com
 zenmate.com
 zenmate.com.ru
 zenmateuser.com
