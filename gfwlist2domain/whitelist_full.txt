@@ -16902,6 +16902,7 @@ autochips.com
 autodl.com
 autodmp.com
 autodwg.com
+autoengine.com
 autoesd.com
 autofull.net
 autogslb.com
@@ -32720,7 +32721,6 @@ daocloud.io
 daocloudapp.com
 daodao.com
 daodaojizhang.com
-daodaoliang.com
 daodaozz.com
 daodian.vip.meituan.com
 daodian100.com
@@ -41557,6 +41557,7 @@ feixiansoft.com
 feixiaoqiu.com
 feixiaoquan.com
 feixiong.tv
+feixue666.com
 feixuege.com
 feixueteam.net
 feixunvip.xyz
@@ -46497,7 +46498,6 @@ gowinxp.com
 gowithmi.com
 gowlc.net
 gowonganinn.com
-goyasha.com
 goyihu.com
 goyoo.com
 gozap.com
@@ -56788,7 +56788,6 @@ hyz86.com
 hyzcservice.com
 hyzeta.gallerycdn.azure.cn
 hyzhcdn.com
-hyzkjh.com
 hyznjs.com
 hyzqu.com
 hyzqxsb.com
@@ -56885,6 +56884,7 @@ hzcphotonics.com
 hzctxh.com
 hzcuizhai.com
 hzcy.ltd
+hzcybb.xyz
 hzdajiangdong.com
 hzddwk.com
 hzdgjc.com
@@ -73316,6 +73316,7 @@ lzhaoteng.com
 lzhdtk.com
 lzhean.com
 lzhf.com
+lzhg.xyz
 lzhhuinong.com
 lzhjuszs.com
 lzhl.online
@@ -79159,6 +79160,7 @@ nanhuangic.com
 nanhufund.com
 nanhuhr.com
 nanhutravel.com
+nanhuyt.com
 nani.online
 nanjiaosuo.com
 nanjing.anjuke.com
@@ -80175,7 +80177,6 @@ nim.qiyukf.com
 nimg.ws.126.net
 nimi-1251472089.cos.ap-guangzhou.myqcloud.com
 nimzx.com
-ninaparr.com
 nindeli.com
 ninebot.com
 ninebox.cn
@@ -80283,7 +80284,6 @@ niushe.com
 niutk.com
 niutoushe.com
 niutrans.com
-niutrip.com
 niutuku.com
 niuwatch.com
 niuwk.com
@@ -81499,6 +81499,7 @@ nupktsz.com
 nuqixi.com
 nuqk.com
 nur.hupu.com
+nuszar.xyz
 nutjs.com
 nutriease.com
 nutsbp.com
@@ -89588,7 +89589,6 @@ qqxy100.com
 qqxzb-img.com
 qqxzb.com
 qqy189.com
-qqycj.com
 qqyewu.com
 qqyjx.com
 qqymail.com
@@ -92407,7 +92407,6 @@ roadjava.com
 roadlady.com
 roadoor.com
 roadsignads.com
-roadsigngroup.com
 roaing.com
 roaming.wps.cn
 roamingroandro.com
@@ -98033,7 +98032,6 @@ sisigad.com
 sisijiyi.com
 sisijp.com
 sisiqiqrcficf.asia
-sisisi.net
 sisp-china.com
 siswin.com
 sit.gentags.net
@@ -109271,7 +109269,6 @@ uux79.com
 uuxn.com
 uuxs.info
 uuxs.tw
-uuyj100.com
 uuyoyo.com
 uuzham.com
 uuzhufu.com
@@ -118614,6 +118611,7 @@ xi5jie.com
 xi9p.com
 xia1ge.com
 xiaa.net
+xiabb.chat
 xiabingbao.com
 xiabor.com
 xiabu.com
@@ -131369,6 +131367,7 @@ yzzsoft.com
 yzzx-zk.com
 yzzy-online.com
 yzzy20-play.com
+yzzyimages.com
 yzzzn.com
 z-bank.com
 z-face.cn
@@ -134010,7 +134009,6 @@ ziboshenghai.com
 zibozhenneng.byf.com
 zichabaogao.com
 zichanzhihuan.com
-zichen.zone
 zichenit.com
 zicini.com
 zicp.fun
