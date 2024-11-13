@@ -9012,6 +9012,7 @@ charter.com
 charter08.com
 charticulator.com
 chase.com
+chat.com
 chatango.com
 chaterbate.com
 chatgpt.com
@@ -18200,6 +18201,7 @@ icilix.com
 icl-fi.org
 icloud-content.com
 icloud-isupport.com
+icloud-sandbox.com
 icloud.ch
 icloud.de
 icloud.ee

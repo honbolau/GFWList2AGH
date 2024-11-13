@@ -11406,6 +11406,7 @@ chase.ac.uk
 chase.com
 chasestudy.ac.uk
 chat-test-app.firebaseio.com
+chat.com
 chat.lmsys.org
 chat.stackexchange.com
 chatango.com
@@ -24242,6 +24243,7 @@ icit.ac.uk
 icl-fi.org
 icloud-content.com
 icloud-isupport.com
+icloud-sandbox.com
 icloud.ch
 icloud.de
 icloud.ee
