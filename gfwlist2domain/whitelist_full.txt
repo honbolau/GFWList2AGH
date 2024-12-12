@@ -4,7 +4,6 @@
 0.up.qingdaonews.com
 00.auto.sohu.com
 000.link
-0000g.com
 00042.com
 00058.com
 0006266.com
@@ -2896,6 +2895,7 @@
 1as1c36c.sltadapter.cdntip.com
 1auto.net
 1b17.com
+1b1tech.com
 1b23.com
 1b2816704407e70681fd2af21ab70f93.dlied1.cdntips.net
 1b3d0bc81e9d108d3514b2b10e12924a.dlied1.cdntips.net
@@ -5549,7 +5549,6 @@
 44983.com
 44api.com
 44c48dfbc00abf22971f5bf20622e816.dlied1.cdntips.net
-44dt.com
 44h.co
 44jj.com
 44vs.com
@@ -9856,7 +9855,6 @@
 87535353.com
 875887.p23.tc.cdntip.com
 8767.com
-876u.com
 876web.com
 8770000.com
 877311.com
@@ -11170,7 +11168,6 @@
 998jk.com
 998jx.com
 998law.com
-998movie.com
 9991.com
 999120.net
 999136.xyz
@@ -18715,6 +18712,7 @@ bamashenspring.com
 bamatea.com
 bamaying.com
 bamboo18.com
+bambooolab.com
 bambulab.com
 bamcsfm.com
 bamengame.com
@@ -22343,7 +22341,6 @@ boyicn.com
 boyikang.com
 boyingsj.com
 boyishu.me
-boyoline.com
 boyoucy.com
 boyouquan.com
 boyuan.com
@@ -23559,7 +23556,6 @@ c3.amap.com.w.alikunlun.com
 c3.pcs.baidu.com
 c3.pcs.n.shifen.com
 c30cacf8d7d6f06e7437c65429fc3bb6.dlied1.cdntips.net
-c31.fun
 c33f0aa1ecb7e77e853ed245e88d4539.dlied1.cdntips.net
 c34254e50da62a104e8afc05ca6100f7.dlied1.cdntips.net
 c355595c3.buzz
@@ -35268,7 +35264,6 @@ dfzmzyc.com
 dfzq.com.cn
 dfzxvip.com
 dg-360lhx.com
-dg-cbd.com
 dg-fd.zol-img.com.cn
 dg-fd.zol-img.com.cn.wswebpic.com
 dg-hanxin.com
@@ -42132,6 +42127,7 @@ fadianying.com
 fadior.cc
 fadoudou.com
 fadsc.com
+fadsfasd.asia
 fadui.com
 faec4fad2502f19c5419d695f3d9532c.safeframe.googlesyndication.com
 fafa9.com
@@ -53172,6 +53168,7 @@ haolexiang.com
 haolidayiliao.com
 haolietou.com
 haoliners.net
+haoling.cc
 haolints.com
 haoliv.com
 haolizi.net
@@ -53841,7 +53838,6 @@ hbztn.com
 hbzuojia.com
 hbzw56.com
 hbzywh.com
-hbzzedu.com
 hc-byq.com
 hc-cdn.com
 hc-ph.com
@@ -53928,7 +53924,6 @@ hcgtcxj.com
 hch518.com
 hchbblg.com
 hchbsb.com
-hchetao.com
 hchezhu.com
 hchlidc.com
 hchliot.com
@@ -60198,7 +60193,6 @@ idv1f7o.qiniudns.com
 idwzx.com
 idx.3g.yy.com
 idx.m.hub.sandai.net
-idy360.com
 idzcp.com
 idzmb.com
 idzoom.com
@@ -65541,6 +65535,7 @@ jingyu.com
 jingyuan.com
 jingyue.co
 jingyuelaw.com
+jingyuweike.com
 jingyuxiaoban.com
 jingyuyun.com
 jingzhengu.com
@@ -70705,7 +70700,6 @@ kunkkawu.com
 kunkundev.com
 kunkunyu.com
 kunlexf.com
-kunlun-cdn.com
 kunlunaq.com
 kunlunar.com
 kunlunca.com
@@ -78676,6 +78670,7 @@ metaluxuryagent.com
 metalyoung.com
 metaplanet3023.com
 metasecurities.com
+metastonecorp.com
 metastudioxr.com
 metastudy.vip
 metasyun.com
@@ -85663,6 +85658,7 @@ ontall.com
 ontheroadstore.com
 onthink.com
 ontvb.com
+onwear.net
 onwsw.com
 onyealink.com
 onyi.net
@@ -91924,7 +91920,6 @@ qifuip.com
 qifun.com
 qifuwang.com
 qifuyuan.com
-qiggg1101.com
 qigongworld.net
 qigousoft.com
 qiguagua.com
@@ -98147,7 +98142,6 @@ sdgude.com
 sdguguo.com
 sdgw.com
 sdgwy.org
-sdhangfengji.com
 sdhangmoguan.com
 sdhbcl.com
 sdhdssd.com
@@ -98395,7 +98389,6 @@ sdteleiptv.com
 sdtieta.com
 sdtlly.com
 sdtrxx.com
-sdtsmm.com
 sdtsrf.com
 sdtugongbucj.com
 sdtvjiankang.com
@@ -100078,7 +100071,6 @@ shenyd.com
 shenyecg.com
 shenyehd.com
 shenyeyunying.com
-shenyj.com
 shenyou.cn
 shenyou.tv
 shenyu.me
@@ -101111,6 +101103,7 @@ shuiyuwenquan.com
 shuizhifenxi.com
 shuizhiyuncaishui.com
 shuizilong.com
+shujiangweike.com
 shujike.com
 shuju.net
 shujuba.net
@@ -101413,6 +101406,7 @@ sias-sha.com
 sibfi.com
 sibida.net
 siboda-nb.com
+sibsiu.com
 sibuzyn.com
 sic.hk
 sicarrier.com
@@ -111852,7 +111846,6 @@ tzjufeng.com
 tzjwrml.com
 tzjxl.com
 tzjybeidou.58.com
-tzkameng.com
 tzkciz.com
 tzlib.net
 tzlmt.com
@@ -114455,7 +114448,6 @@ verifycode.58.com
 verisilicon.com
 verisyno.com
 veritas501.space
-vernonpratt.com
 verodillan.com
 verpay.talkyun.com.cn
 versa-ai.com
@@ -121785,7 +121777,6 @@ www53119cc.com
 www5929.com
 www6.ns1.name
 www662555.com
-www7546.com
 www8.xitek.com
 www8huoks.com
 www9.enet.com.cn
@@ -124176,7 +124167,6 @@ xinchaoss.com
 xinchaoyue.com
 xinchego.com
 xincheng.com
-xinchengcm.com
 xinchengyue.com
 xinchengzhongbang.com
 xincheping.com
@@ -130689,7 +130679,6 @@ xyhis.com
 xyhjd168.com
 xyhlcd.com
 xyhospital.com
-xyhpjy.com
 xyhqsh.com
 xyhtml5.com
 xyhust-meri.com
@@ -135816,7 +135805,6 @@ yuzhuagame.com
 yuzhuan.com
 yuzhulin.com
 yuzhuw.com
-yuzi.net
 yuzijiaoyu.com
 yuzmshanghai.org
 yuzone.net
@@ -136173,7 +136161,6 @@ yyouren.com
 yyp17.com
 yypbao.com
 yypcb.com
-yypm.com
 yypt.com
 yyq.com
 yyquan.vip
@@ -140211,7 +140198,6 @@ zpedu.org
 zpenr.com
 zpfdc.com
 zpgd.net
-zpgpt.com
 zphlkj.com
 zphuagong.com
 zpidc.com
