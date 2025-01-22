@@ -24828,7 +24828,6 @@ newsminer.com
 newsnetwork.tv
 newsnowfox.com
 newspaperdirect.com
-newspeak.cc
 newspicks.com
 newssyndication.com
 newstamago.com
@@ -28331,6 +28330,7 @@ qhj-isat.com
 qi-gong.me
 qianbai.tw
 qiandao.today
+qianglie.com
 qiangwaikan.com
 qiangyou.org
 qidian.ca
@@ -28638,8 +28638,6 @@ rarbgunblock.com
 rarbgunblock.org
 rarbgunblocked.org
 rarbgway.org
-raremovie.cc
-raremovie.net
 raspberrypi.org
 raspbian.org
 rat.xxx
@@ -28664,7 +28662,6 @@ razerofficial.com
 razersupport.com
 razerzone.jp
 razor947.com
-razyboard.com
 rb-crisis.com
 rb.com
 rb.gy
