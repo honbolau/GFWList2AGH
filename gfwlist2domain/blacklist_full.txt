@@ -21540,7 +21540,6 @@ googlephotos.com
 googleplay.com
 googleplus.com
 googlescholar.com
-googlescholar.comusa
 googlesciencefair.com
 googlesile.com
 googlesource.com
@@ -26060,7 +26059,6 @@ j9512.com
 j9513.com
 j9987.com
 ja.erocool.com
-ja.wikipedia.org
 jabcomix.com
 jable.one
 jable.org
