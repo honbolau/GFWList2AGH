@@ -7094,6 +7094,7 @@ bangkokstreetwhores.com
 bangor-university-london.ac.uk
 bangor.ac.uk
 bangumi.mcseekeri.club
+bangumi.tv
 bangyoulater.com
 bangyourwife.com
 banjuan.net
@@ -8032,6 +8033,7 @@ bg919.com
 bg9444.com
 bgabbin.com
 bgc.ac.uk
+bgm.tv
 bgov.com
 bgproxy.org
 bgr.in
@@ -11604,6 +11606,7 @@ chid.com.mm
 chiemtinhviet.com
 chigroup.ac.uk
 chihair-straightener.com
+chii.in
 chikiporn.com
 chilbolton.ac.uk
 childrenofthe90s.ac.uk
@@ -21792,6 +21795,7 @@ gronkh.de
 gronkh.tv
 grooby.com
 groovejob.com
+groq.com
 grotty-monday.com
 ground.news
 groundskeeper.us
@@ -44194,6 +44198,8 @@ tiktokcdn-us.com
 tiktokcdn.com
 tiktokd.net
 tiktokd.org
+tiktokeu-cdn.com
+tiktokrow-cdn.com
 tiktokv.com
 tiktokv.eu
 tiktokv.us
@@ -44968,6 +44974,7 @@ ttk.ru
 ttkacz.com
 ttlivecdn.com
 ttmeiju.com
+ttoverseaus.net
 ttrb.ac.uk
 ttt26.net
 ttt3285.com
@@ -47108,16 +47115,20 @@ vizvaz.com
 vjav.com
 vjet.co
 vjmedia.com.hk
+vk-apps.com
+vk-apps.ru
 vk-cdn.me
 vk-cdn.net
 vk-portal.net
 vk.cc
 vk.com
+vk.company
 vk.design
 vk.link
 vk.me
 vk.nl
 vk.ru
+vk.team
 vkcache.com
 vkgo.app
 vklive.app
@@ -47125,10 +47136,17 @@ vkmessenger.app
 vkmessenger.com
 vkontakte.com
 vkontakte.ru
+vkuser.net
 vkuseraudio.com
+vkuseraudio.net
+vkuseraudio.ru
+vkusercdn.ru
 vkuserlive.net
+vkuserphoto.ru
 vkuservideo.com
 vkuservideo.net
+vkuservideo.ru
+vkvideo.ru
 vl.no
 vl4x.net
 vlive.com
