@@ -11058,6 +11058,7 @@ ccdior.com
 ccdtr.org
 ccenter.cl
 ccesd.ac.uk
+ccfd.org.tw
 ccfe.ac.uk
 ccfellow.org
 cch.ac.uk
@@ -21718,6 +21719,7 @@ graylady.us
 grazie.ai
 grcb.ac.uk
 gre.ac.uk
+greasyfork.org
 great-firewall.com
 great-roc.org
 greatapedictionary.ac.uk
@@ -25502,6 +25504,7 @@ ipcc-wg3.ac.uk
 ipchameleon.com
 ipchanging.com
 ipconceal.com
+ipdefenseforum.com
 ipdisguiser.com
 ipem.ac.uk
 ipfire.org
@@ -33660,6 +33663,7 @@ nocs.ac.uk
 node2go.com
 nodejs.org
 nodes.ac.uk
+nodeseek.com
 nodesnoop.com
 nodesource.com
 nodobjetos.com
@@ -33852,7 +33856,6 @@ npmjs.com
 npmjs.org
 npnt.me
 npr.org
-nps.gov
 npsboost.com
 npsc.ac.uk
 nptc.ac.uk
@@ -35252,6 +35255,7 @@ packagist.org
 packer.io
 packetix.net
 pacloudflare.com
+pacom.mil
 pacopacomama.com
 pacspace.com
 pact.ac.uk
@@ -42102,7 +42106,6 @@ starwarstheoldrepublic.com
 starwebconnect.com
 starwoodhotels.com
 stat.gov.tw
-state.gov
 statebuilding.tw
 statefarm.com
 stateofthemap.com
@@ -46175,7 +46178,6 @@ ushare.ac.uk
 ushaw.ac.uk
 ushuarencity.com
 ushuarencity.echainhost.com
-usinfo.state.gov
 usingyoutube.com
 usma.edu
 usmagazine.com
@@ -49956,7 +49958,6 @@ www.amcs9.com
 www.amdgchinese.org
 www.america.gov
 www.americablog.org
-www.americorps.gov
 www.amisdutibet.be
 www.amnesty.ca
 www.amnesty.ch
