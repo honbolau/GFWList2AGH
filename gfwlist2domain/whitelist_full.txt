@@ -20142,6 +20142,8 @@ besttrav.com
 bestugali.com
 bestv6.com
 bestvapp.com
+bestvcdn.com
+bestvcdn.net
 bestvideocloud.com
 bestviewstock.com
 bestvist.com
@@ -32235,6 +32237,7 @@ cueber.com
 cuebzzy.com
 cuekit.com
 cuelog.com
+cueme-api.quark.cn
 cufeyk.com
 cufou.com
 cug2313.com
@@ -58792,6 +58795,7 @@ hzdledu.com
 hzdlrj.com
 hzdmacore.kejet.net
 hzdq.com
+hzdtv.tv
 hzdx.com
 hzecsemir.com
 hzefjs.com
@@ -91824,6 +91828,7 @@ qingnianlvxing.com
 qingnianwang.com
 qingpanduola.com
 qingpin.vip
+qingping.co
 qingqikeji.com
 qingqin.com
 qingqingmedia.com
@@ -93186,6 +93191,7 @@ quanzhifu.net
 quanzhou.lianjia.com
 quanziapp.com
 quark-api.uc.cn
+quark.cn
 quark.sm.cn
 quarkbook.com
 quarkers.com
@@ -99355,6 +99361,7 @@ sharegog.com
 shareinstall.com
 shareinstall.com.cn
 shareinstall.net
+shareintelli.com
 sharejs.com
 sharelogis.com
 sharemoon.club
@@ -103556,6 +103563,7 @@ startup-partner.com
 startup.oupeng.com
 starwarschina.com
 starway.net
+starworldgames.com
 starx-w.com
 starxiiient.com
 starxn.com
@@ -121777,6 +121785,7 @@ wzswsq.com
 wzsxj.net
 wztf121.com
 wztlink1013.com
+wztsy.com
 wztx.cdn.bcebos.com
 wzty.ltd
 wzu.com
@@ -123198,17 +123207,26 @@ xiaomi.net
 xiaomi.tw
 xiaomiaozai.com
 xiaomicp.com
+xiaomidns.com
+xiaomidns.net
 xiaomiev.com
 xiaomiflash.com
 xiaomifood.cn
+xiaomiinc.com
+xiaomiinc.net
 xiaomimobile.com
 xiaominet.com
 xiaominfo.com
 xiaoming.me
 xiaomingtaiji.com
+xiaominr.com
+xiaomiprint.com
 xiaomiqiu.com
 xiaomiquan.com
 xiaomirom.com
+xiaomisa.com
+xiaomisa.net
+xiaomisa.org
 xiaomishu.com
 xiaomiss.com
 xiaomitv.cc
