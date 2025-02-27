@@ -4314,6 +4314,9 @@ amytele.com
 amzn.asia
 amzn.com
 amzn.to
+amzndns.com
+amzndns.net
+amzndns.org
 amznl.com
 anacams.com
 anaconda.cloud
@@ -9862,6 +9865,7 @@ colliderporn.com
 collins.in
 colombianas.webcam
 colorado-photo.com
+colorado.edu
 coloradosprings.com
 colorfulpalette.org
 colorfulstage.com
@@ -25500,6 +25504,7 @@ ntdtvla.com
 ntdvn.com
 nthlink.com
 nthrtye.com
+ntp-servers.net
 ntp.se
 ntrfun.com
 ntrqq.com
@@ -32448,6 +32453,7 @@ tenacy-vpn.com
 tenacy.com
 tenacy.link
 tenbyfotolia.com
+tencentcos.cn
 tender88.com
 tengbo103.com
 tengbo3988.com
