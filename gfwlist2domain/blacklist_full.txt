@@ -11486,6 +11486,7 @@ chasestudy.ac.uk
 chat-test-app.firebaseio.com
 chat.com
 chat.lmsys.org
+chat.openai.com
 chat.stackexchange.com
 chatango.com
 chaterbate.com
