@@ -3306,7 +3306,6 @@ acousticbrainz.org
 acpica.com
 acproxy.com
 acrobat.com
-acs.org
 acss.red
 actalis.com
 actalis.it
@@ -5089,7 +5088,6 @@ asm.org
 asme.org
 asmhentai.com
 asminternational.org
-asmr.gay
 asmr8.org
 asmrbuluo.com
 asn-online.org
@@ -8021,7 +8019,6 @@ bullog.org
 bullogger.com
 bullogs.com
 bullvpn.com
-bululusexdoll.com
 bumingbai.net
 bumpshare.com
 bumptop.ca
@@ -9779,7 +9776,6 @@ cobatt.com
 cobinhood.com
 cobrasearch.com
 cochina.co
-cochina.org
 cochranelibrary.com
 cock4stepmom.com
 cockofhorse.com
@@ -10469,7 +10465,6 @@ ctotires.com
 ctowc.org
 ctunnel.com
 ctwant.com
-ctyun.online
 cuantarazon.com
 cuartosyparedes.com
 cubby.com
@@ -11768,6 +11763,7 @@ downloadsforipod.com
 downsx.com
 dpamcloud.com
 dphk.org
+dpool.top
 dpr.info
 dpreview.com
 dr-ming-xia.org
@@ -12024,7 +12020,6 @@ duoweiweek.com
 duping.net
 duplicati.com
 dupola.com
-dupola.net
 durex-shop.ch
 durex-shopline.com
 durex-slovenia.si
@@ -12509,7 +12504,6 @@ edisonnotes.com
 editorx.com
 edmontonchina.cn
 edmontonchina.com
-edmontonservice.com
 edmontonsun.com
 edninfo.com
 edns.biz
@@ -13989,7 +13983,6 @@ fhl.gr
 fhreports.net
 fhy123.org
 fhyuan.net
-fi11.com
 fi11av1.com
 fi11tv1.com
 fi22.cc
@@ -15920,7 +15913,6 @@ gmidkz5tgm.com
 gmilk.tv
 gmimarkets.com
 gmll.org
-gmnetworks.net
 gmodules.com
 gmoney.org
 gmx.com
@@ -18285,7 +18277,6 @@ ibytedtos.com
 ibyteimg.com
 icams.com
 icanstay.com
-icbc-cz.com
 icbc.de
 icbc.eu
 icbc.lu
@@ -20042,6 +20033,7 @@ jbo98.com
 jbtalks.cc
 jbtalks.com
 jbtalks.my
+jburl.top
 jbvip01.com
 jc11.tw
 jcpenney.com
@@ -20162,7 +20154,6 @@ jiduvpn.com
 jieav.com
 jiedaibao10g.com
 jiehua.cz
-jiepang.com
 jiezhi888.com
 jifangge.com
 jigglegifs.com
@@ -20646,7 +20637,6 @@ kangongyu.com
 kangye.org
 kanichi.jp
 kanjukumania.com
-kankan.today
 kannewyork.com
 kannilu.com
 kanporno.com
@@ -24783,7 +24773,6 @@ netacad.net
 netalert.me
 netarabic.com
 netbig.com
-netbirds.com
 netcolony.com
 netcup-news.de
 netcup-sonderangebote.de
@@ -26101,7 +26090,6 @@ openart.ai
 opencollective.com
 opencreate.org
 opendemocracy.net
-opendn.xyz
 opendns.com
 opendoorvpn.com
 opendroneid.org
@@ -26173,7 +26161,6 @@ opticalize.com
 opticore.com
 opticsforthecloud.net
 optimumssl.com
-opus-gaming.com
 or.id
 or.jp
 or.kr
@@ -26974,6 +26961,7 @@ pf266.com
 pfdc89.com
 pgafan.net
 pgyl88888.com
+pgyy67.top
 ph26.ga
 ph278.com
 phamhong.com
@@ -28436,8 +28424,10 @@ qabook.com
 qanote.com
 qatarescortsvip.com
 qattdh.cc
+qattdh.top
 qattdh1.cc
 qattdh2.cc
+qattdh6.top
 qbaby.tv
 qbittorrent.org
 qbmengmei6.mom
@@ -30925,7 +30915,6 @@ sneakerskick.com
 sneakme.net
 snfda.com
 snipurl.com
-snjulebu.com
 snkplaymore.info
 snl.no
 snopyta.org
@@ -32238,7 +32227,6 @@ taleofthenight.com
 talesofwisdom.com
 talgov.com
 talk2china.com
-talk853.com
 talk910.com
 talkaboutxinjiang.com
 talkboxapp.com
@@ -34545,7 +34533,6 @@ uu565.net
 uu656.net
 uu773.net
 uubqp.com
-uug22.com
 uug23.com
 uug25.com
 uug26.com
@@ -34783,7 +34770,6 @@ velkaepocha.cz
 velkaepocha.sk
 velocloud.com
 velostrata.com
-venbbs.com
 venchina.com
 vendu.com
 venetianmacao.com
@@ -35777,12 +35763,10 @@ vyprofficial.com
 vyprvpn.com
 vzw.com
 w-mt.co
-w-pool.com
 w.org
 w.wiki
 w0208.com
 w0368.com
-w0512.com
 w06966.com
 w123123.com
 w1887.com
@@ -37943,7 +37927,6 @@ yandex.ua
 yandex.uz
 yandexcloud.net
 yangca88.com
-yanghengjun.com
 yangjianli.com
 yangyangyang.me
 yao.cl
