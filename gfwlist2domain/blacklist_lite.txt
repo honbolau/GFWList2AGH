@@ -3306,6 +3306,7 @@ acousticbrainz.org
 acpica.com
 acproxy.com
 acrobat.com
+acs.org
 acss.red
 actalis.com
 actalis.it
@@ -9831,6 +9832,7 @@ coinalyze.net
 coinbase.com
 coinbaxa.com
 coinbene.com
+coincarp.com
 coincola.com
 coindesk.com
 coinegg.com
@@ -9980,6 +9982,7 @@ comedycentral.com
 comefreeloaders.com
 comefromchina.com
 cometotheduckside.com
+comffvpn.com
 comhealth.xyz
 comic-mega.me
 comicat.org
@@ -13828,7 +13831,6 @@ fc02.com
 fc2.com
 fc2blog.net
 fc2blog.us
-fc2china.com
 fc2cn.com
 fc2livecn.com
 fc2ppv.tv
@@ -13847,10 +13849,8 @@ fcwcp04.com
 fcww0.com
 fczdcf.com
 fdacebook.info
-fdbox.com
 fdc64.de
 fdc64.org
-fdc89.jp
 fdc89.org
 fdd.org
 fdiintelligence.com

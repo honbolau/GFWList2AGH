@@ -3777,6 +3777,7 @@ acpica.com
 acpme.ac.uk
 acproxy.com
 acrobat.com
+acs.org
 acsis.ac.uk
 acss.red
 actalis.com
@@ -3990,6 +3991,7 @@ adult-list.com
 adult-sex-games.com
 adult-web-site.net
 adult.com
+adult.contents.fc2.com
 adult.friendfinder.com
 adult.toonsearch.net
 adult168.com
@@ -12601,6 +12603,7 @@ coinalyze.net
 coinbase.com
 coinbaxa.com
 coinbene.com
+coincarp.com
 coincola.com
 coindesk.com
 coinegg.com
@@ -12792,6 +12795,7 @@ comefromchina.com
 comersalv.com.br
 comet-study.ac.uk
 cometotheduckside.com
+comffvpn.com
 comhealth.xyz
 comic-mega.me
 comicat.org
@@ -17091,7 +17095,6 @@ emwprep.ac.uk
 en-compass.ac.uk
 en.akinator.com
 en.altervista.org
-en.favotter.net
 en.hao123.com
 en.howbbs.com
 en.ishadowx.net
@@ -18310,6 +18313,7 @@ fanfictio.net
 fanfox.net
 fangbinxing.com
 fangeming.com
+fangeming.comffvpn.com
 fangeqiang.com
 fanglizhi.info
 fangmincn.org
@@ -18433,7 +18437,6 @@ fassinating.com
 fast-proxy.com.de
 fast-ssr.org
 fast.com
-fast.wistia.com
 fastech.ac.uk
 fastener.tw
 fastest-proxy.com.de
@@ -18535,7 +18538,6 @@ fc02.com
 fc2.com
 fc2blog.net
 fc2blog.us
-fc2china.com
 fc2cn.com
 fc2livecn.com
 fc2ppv.tv
@@ -18559,10 +18561,8 @@ fcww0.com
 fczdcf.com
 fda.gov.tw
 fdacebook.info
-fdbox.com
 fdc64.de
 fdc64.org
-fdc89.jp
 fdc89.org
 fdd.org
 fdf.ac.uk
@@ -34737,6 +34737,7 @@ onceuponacrimebooks.com
 ondemand.ecornell.com
 one.one
 one.one.one
+one.one.one.one
 one.ou.edu
 one.posco.net
 one889.app
@@ -46971,7 +46972,7 @@ video.aol.co.uk
 video.aol.com
 video.ap.org
 video.enlighten.org.tw
-video.fdbox.com
+video.fc2.com
 video.foxbusiness.com
 video.genyt.net
 video.google.nl
