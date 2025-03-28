@@ -850,6 +850,9 @@
 1mynews.com
 1mynews.net
 1mynews.tech
+1password.ca
+1password.com
+1password.eu
 1point3acres.com
 1pondo.tv
 1pornlist.com
@@ -3139,6 +3142,7 @@ aac91.com
 aacrjournals.org
 aad91.com
 aadmv.com
+aadrm.com
 aae91.com
 aaex.uk
 aaflalo.me
@@ -3606,6 +3610,7 @@ agfw00.org
 aggin.net
 aggressivebabes.com
 agi.com
+agilebits.com
 agin.cc
 agingames.com
 agkmg.com
@@ -11245,6 +11250,7 @@ digibet.com
 digicert-cn.com
 digicert-validation.com
 digicert.com
+digicert.eu
 digifinex.com
 digiket.com
 digiland.tw
@@ -12786,6 +12792,7 @@ entirelyorange.com
 entnt.com
 entreconsultas.cl
 entrepreneurshipaward.com
+entrust.com
 entrust.net
 entrustdatacard.com
 entrychat.com
@@ -19659,6 +19666,7 @@ ixquick-proxy.com
 ixquick.com
 ixquick.de
 ixquick.eu
+ixsystems.com
 ixxx.com
 ixxzp.com
 iyalc.com
@@ -23131,6 +23139,7 @@ microsoftadvertising.com
 microsoftadvertisingregionalawards.com
 microsoftaffiliates.com
 microsoftapp.net
+microsoftazuread-sso.com
 microsoftazuresponsorships.com
 microsoftcloud.com
 microsoftcloudsummit.com
@@ -26351,6 +26360,9 @@ ozdav.com
 ozeex.com
 ozodi.org
 ozodlik.org
+ozon.ru
+ozone.ru
+ozonusercontent.com
 ozosep.ro
 ozrurou.com
 ozsese.com
@@ -27281,6 +27293,8 @@ playcover.io
 player.fm
 playerjs.io
 playersdiner.com
+playfab.com
+playfabapi.com
 playforceone.com
 playframework.org
 playhearthstone.com
@@ -32096,6 +32110,7 @@ syinji4.xyz
 syjidh1.xyz
 sylfoundation.org
 symantec.com
+symauth.com
 symcb.com
 symcd.com
 sympl.tv
@@ -33599,6 +33614,7 @@ truebuddha.se
 truedepth3d.com
 truedwg.com
 truefi.io
+truenas.com
 trulyergonomic.com
 trunest.com
 trust-provider.com
@@ -35125,6 +35141,7 @@ visa.tc
 visabank.org
 visabg.com
 visabusinessinsights.com
+visaca.com
 visacarddesignlab.com
 visacards.com
 visacheckout.net
