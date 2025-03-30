@@ -38521,7 +38521,6 @@ redd.it
 reddawn.co.nz
 reddit.app.link
 reddit.com
-reddit.map.fastly.net
 redditblog.com
 reddithelp.com
 redditinc.com
