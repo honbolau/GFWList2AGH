@@ -3781,6 +3781,7 @@ acpica.com
 acpme.ac.uk
 acproxy.com
 acrobat.com
+acs.org
 acsis.ac.uk
 acss.red
 actalis.com
@@ -6400,6 +6401,7 @@ australia.kinokuniya.com
 australiachinarelations.org
 australiaplus.com
 auth.docker.io
+auth.openai.com
 auth0.com
 authorizeddns.net
 authorizeddns.org
@@ -34938,6 +34940,7 @@ openart.ai
 opencollective.com
 opencreate.org
 opendemocracy.net
+opendesktop.org
 opendns.com
 opendoorvpn.com
 opendroneid.org
