@@ -16809,6 +16809,7 @@ amazfit.com
 amazingsys.com
 amazon.cn
 amazon1688.com
+amazonaws.cn
 amazoni2.com
 ambassador-sh.com
 ambassadorchina.com
@@ -48188,6 +48189,7 @@ et-fine.com
 et.softidc.gaofangm.com
 et.tanx.com
 et.w.inmobi.cn
+et001.com
 et15-na61-na62.wagbridge.alibaba.taobao.com.gds.alibabadns.com
 et2-eu13.wagbridge.alibaba.com.gds.alibabadns.com
 et2-na61-na62.wagbridge.alibaba.tanx.com.gds.alibabadns.com
@@ -57143,6 +57145,7 @@ guahaowang.com
 guaiguai.com
 guaihou.com
 guaikemov.com
+guaiku.com
 guaileicp.com
 guaili.org
 guailuo.com
@@ -93619,6 +93622,7 @@ mingxigu.com
 mingxingbobbin.com
 mingxingku.com
 mingxinglai.com
+mingxuan.store
 mingxuanxz.com
 mingya.mobi
 mingyafeng.com
@@ -128697,6 +128701,7 @@ tim.qq.com
 timanetworks.com
 time-weekly.com
 time-year.com
+time.amazonaws.cn
 time.izatcloud.net
 time.pptv.com
 time.ustc.edu.cn
