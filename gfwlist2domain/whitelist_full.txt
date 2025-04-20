@@ -13591,6 +13591,7 @@ ac.cn
 ac.csdn.net
 ac.dun.163.com
 ac.dun.163yun.com
+ac.fun
 ac.jice.io
 ac.mmstat.com
 ac.o2.qq.com
@@ -13705,6 +13706,7 @@ acftu.org
 acftu.workercn.cn
 acfun.cn
 acfun.com
+acfun.net
 acfunchina.com
 acfunchina.net
 acg.178.com
@@ -15188,7 +15190,6 @@ ai.m.taobao.com
 ai.taobao.com
 ai.voiceads.cn
 ai.youdao.com
-ai.ytimg.com
 ai.zhaomi.cn
 ai012.com
 ai0513.com
@@ -18576,7 +18577,6 @@ appledownload.qtlcdn.com
 appledp.com
 applehunt.com
 appleid.cdn-apple.com
-applemdm.corp.google.com
 applemei.com
 applepay.teown.com
 applepopo.com
@@ -25255,7 +25255,6 @@ borain.com
 borderlessbd.com
 borenhospital.com
 borgheseonline.com
-borgmon.adz.google.com
 borlonclan.com
 born-tw.com
 born123.com
@@ -30480,6 +30479,8 @@ cheshijie.com
 cheshipin.com
 cheshirex.com
 cheshizh.com
+chesicc.com
+chesicc.net
 chesir.com
 chesir.net
 chestar.net
@@ -42221,9 +42222,6 @@ displink.com
 dissona.vip
 distantmeaning.com
 distinctclinic.com
-distribution.qatp1.net
-distribution.qcpp1.net
-distribution.qpdp1.net
 ditai.fun
 ditan.com
 ditan360.com
@@ -42984,7 +42982,6 @@ dns.alidns.com
 dns.chuzushijian.cn
 dns.com
 dns.console.aliyun.com
-dns.corp.google.com
 dns.jd.com
 dns.jd.com.gslb.qianxun.com
 dns.la
@@ -43868,9 +43865,7 @@ download.onedns.net
 download.pchome.net
 download.pinyin.sogou.com
 download.qatp1.net
-download.qcpp1.net
 download.qianka.com
-download.qpdp1.net
 download.sangfor.com.cn
 download.sdk.mob.com
 download.tensorflow.google.com
@@ -51381,13 +51376,11 @@ font.chinaz.com
 font.im
 font168.com
 font6.com
-fontfiles.googleadapis.com
 fontfiles.googleapis.com
 fontke.com
 fontong.com
 fontoohotels.com
 fonts.geekzu.org
-fonts.googleadapis.com
 fonts.googleapis.com
 fonts.gstatic.com
 fontstar.com.cn
@@ -52862,7 +52855,6 @@ g312.com
 g32365.com
 g3bocaitong.com
 g3d.org
-g3doc.corp.google.com
 g3img.com
 g3user.com
 g3voip.com
@@ -54534,6 +54526,8 @@ gf7979cn.com
 gfan.com
 gfanstore.com
 gfbk.net
+gfbzb.com
+gfbzb.net
 gfcdn.xyz
 gfcity.com
 gfcname.com
@@ -55645,7 +55639,6 @@ gmqd.com
 gmquickapp.com
 gmrmyy.com
 gmsec.net
-gmskiosk-ssl.corp.google.com
 gmsolid.com
 gmssl.org
 gmswl.com
@@ -56202,7 +56195,6 @@ gorebuy.com
 goregxa.com
 gorgon.youdao.com
 gorichox.com
-gorom.corp.google.com
 gorouter.info
 gorse.com
 gortune.com
@@ -56232,8 +56224,6 @@ gothe3.com
 goto-game.com
 goto-game.mobi
 goto-game.org
-goto.corp.google.com
-goto.google.com
 goto.sogou.com
 goto.www.iciba.com
 gotobath.com
@@ -67747,6 +67737,7 @@ huaweicloud-dns.com
 huaweicloud-dns.net
 huaweicloud-dns.org
 huaweicloud-idme.com
+huaweicloud-koophone.com
 huaweicloud-smn.com
 huaweicloud-smn.net
 huaweicloud.com
@@ -94453,6 +94444,7 @@ modb.cc
 modb.pro
 model.sspu.edu.cn
 modelarts-infer.com
+modelarts-maas.com
 modelevel.com
 modelltd.com
 modelones.com
@@ -94718,8 +94710,6 @@ monitor.yigao.com
 monitor2.tgp.qq.com
 monitorapim1g.mathpool.cn
 monitorapim2g.mathpool.cn
-monitoring.qatp1.net
-monitoring.qcpp1.net
 monitoring.qpdp1.net
 monknow.com
 monolink.net
@@ -104686,7 +104676,6 @@ play-china.itunes-apple.com.akadns.net
 play-dy.ulive.ugslb.com
 play-tx-recpub.douyucdn2.cn
 play-tx-ugcpub.douyucdn2.cn
-play.1ucrs.com
 play.baike.qq.com
 play.cn
 play.craft.moe
@@ -106787,8 +106776,6 @@ qaczzqwy.v1d.szbdyd.com
 qaczzsgh.v1d.szbdyd.com
 qaczzsgw.v1d.szbdyd.com
 qagpublic.qatp1.net
-qagpublic.qcpp1.net
-qagpublic.qpdp1.net
 qahzp.com
 qajung.xyz
 qajypx.com
@@ -107400,9 +107387,7 @@ qfyncdhj.v1d.szbdyd.com
 qfynnqjc.v1d.szbdyd.com
 qg.net
 qg108.com
-qgadmin.qatp1.net
 qgadmin.qcpp1.net
-qgadmin.qpdp1.net
 qgb2b.com
 qgbnzb.com
 qgbzyzl.com
@@ -107438,6 +107423,7 @@ qgxl.org
 qgyqshz.com
 qgysj.org
 qgyyzs.net
+qgzb.net
 qgzxx.com
 qgzzz.com
 qh-cdn.com
@@ -109789,10 +109775,6 @@ qualcomm.cn.cdn.cloudflare.net
 quality-cdn.shouji.sogou.com
 qualtekgz.com
 qualysapi.qatp1.net
-qualysapi.qcpp1.net
-qualysapi.qpdp1.net
-qualysguard.qatp1.net
-qualysguard.qcpp1.net
 qualysguard.qpdp1.net
 quan.mx
 quan.qq.com
@@ -111281,10 +111263,7 @@ rap.is.autonavi.com.gds.alibabadns.com
 rapidppt.com
 rapoo.com
 rapospectre.com
-rapture-autopush.corp.google.com
 rapture-prod.corp.google.com
-rapture-test.corp.google.com
-rapture.corp.google.com
 rarcbank.com
 rarelit.net
 rarone.com
@@ -114647,9 +114626,7 @@ scaffi.com
 scagz.com
 scan.call.f.360.cn
 scanfang.com
-scanservice1.qatp1.net
 scanservice1.qcpp1.net
-scanservice1.qpdp1.net
 scansmt.com
 scanv.com
 scapi.waimai.meituan.com
@@ -116246,7 +116223,6 @@ seteuid0.com
 setlightning.idc.dmall.com
 setshop.vip
 setting1.hicloud.com
-settings.xn--9trs65b.com
 seuic.com
 seven-meters.com
 seven7777.eu
@@ -122073,7 +122049,6 @@ ssggg.com
 ssgushi.com
 ssgxwq.com
 ssgz.com
-ssh-relay.corp.google.com
 sshce.com
 sshr.net
 sshzhuangshipin.com
@@ -122325,7 +122300,6 @@ stage3rd.com
 staginfo.com
 staging-controlbe.floonet.goog
 staging-databe.floonet.goog
-staging-regioninfo-pa.googleapis.com
 staging.databe.floonet.goog
 staidson.com
 stajy.com
@@ -123854,7 +123828,6 @@ supplywater.com
 support-chat.dji.com
 support-china.apple-support.akadns.net
 support-cn.samsung.com
-support.1ucrs.com
 support.amd.com
 support.apple.com
 support.dji.com
@@ -123866,7 +123839,6 @@ support.lenovo.com.cn
 support.qq.com
 support.weixin.qq.com
 support1.lenovo.com.cn
-supportcenter.corp.google.com
 supports.jiaju.sina.com.cn
 supreme-oe.com
 supuvalve.com
@@ -127198,7 +127170,6 @@ techqianmo.com
 techshidai.com
 techsir.com
 techsize.com
-techstop.corp.google.com
 techtmt.com
 techtop.com
 techuangyi.com
@@ -127568,7 +127539,6 @@ test-oss.xiaoheiban.cn
 test-relay-service.djicdn.com
 test.ad.xiaomi.com
 test.adsp.xunlei.com
-test.bugs-qa.chromium.org
 test.codata.lenovo.com
 test.e.ad.xiaomi.com
 test.entry.cp61msg.cibn.cc
@@ -132164,14 +132134,8 @@ ubc-bearing.com
 ubccn.com
 ubeethiesemo.com
 ubeihai.com
-uberproxy-debug.corp.google.com
 uberproxy-debug4.corp.google.com
-uberproxy-pen-redirect.corp.google.com
-uberproxy-with-cn.l.google.com
-uberproxy-with-cn4.l.google.com
-uberproxy-with-cn6.l.google.com
 uberproxy.corp.google.com
-uberproxy4.corp.google.com
 uberproxy6.corp.google.com
 ubersz.com
 ubesh.com
@@ -134833,7 +134797,6 @@ vevgec3y.v1d.szbdyd.com
 vevged8j.v1d.szbdyd.com
 vevlhotl.v1d.szbdyd.com
 vevor.net
-vext.corp.google.com
 vey1coha.v1d.szbdyd.com
 vey1coot.v1d.szbdyd.com
 vey1n1fb.v1d.szbdyd.com
@@ -142078,7 +142041,6 @@ www.gongwei.org.cn
 www.goodjob.cn
 www.google-analytics.com
 www.google.cn
-www.googleadapis.com
 www.googleadservices.com
 www.googleapis.cn
 www.googleoptimize.com
@@ -160028,6 +159990,7 @@ zbao56.com
 zbb.sh.gov.cn
 zbbar.net
 zbbm.chsi.com.cn
+zbbm.net
 zbbus.com
 zbc.pub
 zbc.wiki

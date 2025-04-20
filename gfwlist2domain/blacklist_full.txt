@@ -886,6 +886,7 @@
 1gct.iqi.asu.su
 1hjdc.com
 1inch.io
+1infra.net
 1jjdg2.vip
 1kan.com
 1lib.ch
@@ -912,8 +913,16 @@
 1mynews.net
 1mynews.tech
 1password.ca
+1password.co
 1password.com
+1password.community
+1password.drift.click
 1password.eu
+1password.io
+1passwordservices.com
+1passwordusercontent.ca
+1passwordusercontent.com
+1passwordusercontent.eu
 1point3acres.com
 1pondo.tv
 1pornlist.com
@@ -2993,6 +3002,7 @@
 899722.com
 8amxj.com
 8bodog.com
+8chan.moe
 8cp8778.com
 8cyber.com
 8cyber.net
@@ -9964,6 +9974,7 @@ btt904.com
 bttzyw.com
 bttzyw.net
 btunnel.com
+btwrdn.co
 btwrdn.com
 btxtv.com
 bu33.net
@@ -11397,6 +11408,7 @@ cf79.cc
 cf9444.com
 cfake.com
 cfan.xyz
+cfargotunnel.com
 cfas.ac.uk
 cfblob.com
 cfd-tv.com
@@ -15873,6 +15885,7 @@ dri.ac.uk
 driade.com
 driannini.com.br
 dribbble.com
+drift.click
 drindod.ac.uk
 dripsanddrains.com.au
 drive.my.shu.ac.uk
@@ -28353,6 +28366,7 @@ lejdd.fr
 lejsq.net
 leliao1.com
 lematin.ch
+lemmynsfw.com
 lemoncams.com
 lemonde.fr
 lemonparty.com
@@ -31985,6 +31999,7 @@ msgforex.com
 msguancha.com
 msha.gov
 mshome.net
+msidentity.com
 msinnovationchallenge.com
 msk.ilnk.info
 msk.kitazawa.me
@@ -35614,6 +35629,7 @@ pasionmujeres.com
 paskoocheh.com
 pass.fm
 pass.tdna.me
+passage.id
 passage.life
 passeporttibetain.org
 passion-hd.com
@@ -39292,6 +39308,7 @@ ryan-palmer.com
 ryokoyomiuri.co.jp
 ryukyushimpo.jp
 rzim.org
+rzr.to
 rztcapital.com
 s-bluemix.net
 s-books.com
@@ -41789,6 +41806,8 @@ sovpn.net
 sowers.org.hk
 sowiki.net
 soyinyj.top
+soyjak.party
+soyjak.st
 soylent.com
 soylentnews.org
 soytwitter.com
@@ -47926,6 +47945,7 @@ vpnreactorsupport.com
 vpnreindeer.com
 vpnreviewer.com
 vpnreviewz.com
+vpnrouter.homes
 vpnsecure.me
 vpnshazam.com
 vpnshieldapp.com

@@ -826,6 +826,7 @@
 1fan.asia
 1hjdc.com
 1inch.io
+1infra.net
 1jjdg2.vip
 1kan.com
 1lib.ch
@@ -852,13 +853,21 @@
 1mynews.net
 1mynews.tech
 1password.ca
+1password.co
 1password.com
+1password.community
 1password.eu
+1password.io
+1passwordservices.com
+1passwordusercontent.ca
+1passwordusercontent.com
+1passwordusercontent.eu
 1point3acres.com
 1pondo.tv
 1pornlist.com
 1soccer.com
 1thek.com
+1ucrs.com
 1uyu.cn
 1w1w-id.com
 1watchmygf.com
@@ -2662,6 +2671,7 @@
 899722.com
 8amxj.com
 8bodog.com
+8chan.moe
 8cp8778.com
 8cyber.com
 8cyber.net
@@ -7991,6 +8001,7 @@ btt904.com
 bttzyw.com
 bttzyw.net
 btunnel.com
+btwrdn.co
 btwrdn.com
 btxtv.com
 bu33.net
@@ -9001,6 +9012,7 @@ cf79.cc
 cf9444.com
 cfake.com
 cfan.xyz
+cfargotunnel.com
 cfblob.com
 cfd-tv.com
 cfdesign.com
@@ -11873,6 +11885,7 @@ dressinn.com
 drgan.net
 driade.com
 dribbble.com
+drift.click
 driverxxx.com
 drivevideo.xyz
 drkogyi.com
@@ -21464,6 +21477,7 @@ lejdd.fr
 lejsq.net
 leliao1.com
 lematin.ch
+lemmynsfw.com
 lemoncams.com
 lemonde.fr
 lemonparty.com
@@ -24100,6 +24114,7 @@ msgforex.com
 msguancha.com
 msha.gov
 mshome.net
+msidentity.com
 msinnovationchallenge.com
 mskolshuk.com
 msn.com
@@ -26613,6 +26628,7 @@ pasiahola.com
 pasionmujeres.com
 paskoocheh.com
 pass.fm
+passage.id
 passage.life
 passeporttibetain.org
 passion-hd.com
@@ -29499,6 +29515,7 @@ ry99.com
 ryan-palmer.com
 ryukyushimpo.jp
 rzim.org
+rzr.to
 rztcapital.com
 s-bluemix.net
 s-books.com
@@ -31226,6 +31243,8 @@ sovec.net
 sovpn.net
 sowiki.net
 soyinyj.top
+soyjak.party
+soyjak.st
 soylent.com
 soylentnews.org
 soytwitter.com
@@ -35676,6 +35695,7 @@ vpnreactorsupport.com
 vpnreindeer.com
 vpnreviewer.com
 vpnreviewz.com
+vpnrouter.homes
 vpnsecure.me
 vpnshazam.com
 vpnshieldapp.com
@@ -37383,6 +37403,7 @@ xn--7hv594h.com
 xn--8uq428d76d.tokyo
 xn--90wwvt03e.com
 xn--9pr62r24a.com
+xn--9trs65b.com
 xn--av-o44ep1d.com
 xn--cck4d8b3009a.com
 xn--czq75pvv1aj5c.org
@@ -38459,6 +38480,7 @@ yt.be
 yt1s.com
 ytchannelembed.com
 ytht.net
+ytimg.com
 ytixtv.site
 ytlinks.ml
 ytmp3.cc
