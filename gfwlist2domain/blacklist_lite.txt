@@ -840,6 +840,7 @@
 1lib.nl
 1lib.org
 1lib.pl
+1lib.sk
 1lib.to
 1lib.tw
 1lib.uk
@@ -2603,6 +2604,7 @@
 88866.com
 888666xh.com
 88868882.com
+8888.google
 888888xh.com
 88889.com
 8888boma365.com
@@ -5254,6 +5256,7 @@ audiobeatsau.com
 audiobeatsbydre.com
 audioboom.com
 audiobro.com
+audiomack.com
 audiomonsterbeatsonline.com
 audionow.com
 augustgermar.com
@@ -9860,6 +9863,7 @@ coinalyze.net
 coinbase.com
 coinbaxa.com
 coinbene.com
+coincarp.com
 coincola.com
 coindesk.com
 coinegg.com
@@ -10009,6 +10013,7 @@ comedycentral.com
 comefreeloaders.com
 comefromchina.com
 cometotheduckside.com
+comffvpn.com
 comhealth.xyz
 comic-mega.me
 comicat.org
@@ -13686,6 +13691,7 @@ fanhaodang.com
 fanhaodian.com
 fanhaolou.com
 fanhowab.buzz
+fani.com
 fanipa.com
 fank.ru
 fanleakstoday.com
@@ -13799,6 +13805,7 @@ fatbtc.com
 fatew.com
 fatrat.com
 fatstube.com
+favcomic.com
 favebook.com
 favelaporno.com
 favepornmovs.com
@@ -13864,7 +13871,6 @@ fc02.com
 fc2.com
 fc2blog.net
 fc2blog.us
-fc2china.com
 fc2cn.com
 fc2livecn.com
 fc2ppv.tv
@@ -13883,10 +13889,8 @@ fcwcp04.com
 fcww0.com
 fczdcf.com
 fdacebook.info
-fdbox.com
 fdc64.de
 fdc64.org
-fdc89.jp
 fdc89.org
 fdd.org
 fdiintelligence.com
@@ -15972,6 +15976,7 @@ go-lang.com
 go-lang.net
 go-lang.org
 go-pki.com
+go-to-library.sk
 go-to-zlibrary.se
 go.com
 go.dev
@@ -16334,7 +16339,6 @@ gothdporn.com
 gothub.com
 gotporn.com
 gotquestions.com
-gotquestions.org
 gotraffic.net
 gotrusted.com
 gotw.ca
@@ -16595,6 +16599,7 @@ gzroute53.com
 gzzt.org
 h-cdn.com
 h-china.org
+h-ciyuan.com
 h-doujinshi.xyz
 h-flash.com
 h-moe.com
@@ -18234,6 +18239,7 @@ hypnoporn.net
 hypnotube.com
 hypothes.is
 hyprsense.com
+hysteria.network
 hz8801.com
 hz8803.com
 hz8804.com
@@ -18423,7 +18429,6 @@ idm.host
 idnike.com
 idol-blog.com
 idol-sagasukun.com
-idope.se
 idouga.com
 idreamoflisa.com
 idreamx.com
@@ -19563,6 +19568,7 @@ itaiwan.club
 italia-film.com
 italiabeatsbydrdre.com
 italiacina.org
+italian-books.sk
 italiatibet.org
 italkbb.com
 itasoftware.com
@@ -22549,6 +22555,7 @@ mantochichi.com
 manualdousuario.net
 manurefetish.com
 manvip610.com
+manwa.me
 manxbridge.com
 manxwaplay.org
 manxyz5.com
@@ -26145,6 +26152,7 @@ openart.ai
 opencollective.com
 opencreate.org
 opendemocracy.net
+opendesktop.org
 opendns.com
 opendoorvpn.com
 opendroneid.org
@@ -31194,6 +31202,7 @@ sosreader.com
 sostibet.com
 sostibet.org
 sothathappened.tv
+sotwe.com
 sou-tong.org
 soubory.com
 sougouwiki.com
@@ -31455,6 +31464,7 @@ sslproxyserver.com
 sslsecureproxy.com
 ssltunnel.net
 sslxtv.com
+ssm.fun
 ssnode.co
 ssnode.com
 ssnode.me
@@ -31847,7 +31857,6 @@ styled-components.com
 sub147.com
 subekthi.com
 subhd.com
-subhd.tv
 sublimedirectory.com
 sublimetext.com
 submarin.online
@@ -32974,6 +32983,7 @@ thongdreams.com
 thotbook.tv
 thothub.ru
 thothub.to
+thotsbay.tv
 thottok.com
 thotvids.com
 thps.us
@@ -38597,9 +38607,13 @@ yzcbet.com
 yzld188.top
 yzys.tv
 yzzk.com
+z-lib.gd
+z-lib.gs
 z-lib.io
 z-lib.org
+z-lib.ps
 z-library.se
+z-library.sk
 z.com
 z00.world
 z100.com
