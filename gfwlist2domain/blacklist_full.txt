@@ -9836,6 +9836,7 @@ brnc.ac.uk
 brni.com
 broadbandreports.com
 broadbook.com
+broadcom.com
 broadpressinc.com
 broadstairscollege.ac.uk
 brocaproject.com
@@ -32004,6 +32005,8 @@ msgforex.com
 msguancha.com
 msha.gov
 mshome.net
+msi.cn
+msi.com
 msidentity.com
 msinnovationchallenge.com
 msk.ilnk.info
@@ -41055,6 +41058,7 @@ sindzingre.fr
 sineed.com
 sineplex.net
 sinet.ac.uk
+sing-box.app
 sing-box.sagernet.org
 sing4.lat
 sing68.com
@@ -54830,7 +54834,6 @@ xiaojiadianmovie.asia
 xiaolan.me
 xiaoma.org
 xiaomei8.dele88.com
-xiaomi.eu
 xiaomi8.dele77.com
 xiaomi8.dele88.com
 xiaomiyule666.com

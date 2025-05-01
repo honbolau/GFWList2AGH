@@ -7919,6 +7919,7 @@ brkmd.com
 brni.com
 broadbandreports.com
 broadbook.com
+broadcom.com
 broadpressinc.com
 brocaproject.com
 brockbbs.com
@@ -24119,6 +24120,7 @@ msgforex.com
 msguancha.com
 msha.gov
 mshome.net
+msi.cn
 msidentity.com
 msinnovationchallenge.com
 mskolshuk.com
@@ -30712,6 +30714,7 @@ sinchew.my
 sindzingre.fr
 sineed.com
 sineplex.net
+sing-box.app
 sing4.lat
 sing68.com
 singaporeair.com
@@ -37244,7 +37247,6 @@ xiaohouzi.club
 xiaojiadianmovie.asia
 xiaolan.me
 xiaoma.org
-xiaomi.eu
 xiaomiyule666.com
 xiaoou.io
 xiaoou.tv
