@@ -11497,7 +11497,6 @@ chasestudy.ac.uk
 chat-test-app.firebaseio.com
 chat.com
 chat.lmsys.org
-chat.openai.com
 chat.stackexchange.com
 chatango.com
 chaterbate.com
@@ -41017,6 +41016,7 @@ simplenote.com
 simpleproductivityblog.com
 simplesite.com
 simpleswap.io
+simplex.chat
 simplexsolutionsinc.com
 simplify.com
 simplifycommerce.com
