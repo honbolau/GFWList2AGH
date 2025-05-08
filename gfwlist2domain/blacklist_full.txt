@@ -31014,6 +31014,7 @@ mindrolling.org
 mine.bz
 mine.nu
 minecloud.in
+minecraft-services.net
 minecraft.com
 minecraft.net
 minecraft.wiki
@@ -41418,6 +41419,7 @@ sneakme.net
 snfda.com
 sni1dcb6gl.wpc.edgecastcdn.net
 snipurl.com
+snjulebu.com
 snk-corp.co.jp
 snkplaymore.info
 snl.no
@@ -41525,6 +41527,7 @@ softwareoutlook.ac.uk
 sofu.me
 sogclub.com
 sogeac.com
+sogoo.org
 sogrady.me
 soh.tw
 sohcradio.com
@@ -46405,6 +46408,7 @@ urextv.site
 urhtbooks.com
 urimbooks.com
 url.tw
+urlborg.com
 urlgalleries.net
 urlparser.com
 urukawa.com
