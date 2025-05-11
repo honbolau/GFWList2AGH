@@ -336,6 +336,7 @@
 1111modpo.info
 11150.com
 1115168.com
+111666.best
 1119702.com
 111cpk.com
 112.b0ne.com
@@ -900,6 +901,7 @@
 1lib.nl
 1lib.org
 1lib.pl
+1lib.sk
 1lib.to
 1lib.tw
 1lib.uk
@@ -4285,7 +4287,6 @@ ahxxx.club
 ai-kan.net
 ai-wen.net
 ai.binwang.me
-ai.google
 ai.google.dev
 ai3sd.ac.uk
 ai4t.com
@@ -21172,6 +21173,7 @@ gmms.ac.uk
 gmodules.com
 gmoney.org
 gmozomg.izihost.org
+gmp4.com
 gmsa.ac.uk
 gmx.com
 gmx.net
@@ -24266,6 +24268,7 @@ i-o-u.info
 i-part.com.tw
 i-scmp.com
 i-sux.com
+i.111666.best
 i.filmot.org
 i.ftimg.net
 i.guim.co.uk
@@ -34803,6 +34806,7 @@ onceuponacrimebooks.com
 ondemand.ecornell.com
 one.one
 one.one.one
+one.one.one.one
 one.ou.edu
 one.posco.net
 one889.app
@@ -36486,6 +36490,7 @@ play-edge.itunes.apple.com
 play.afreecatv.com
 play.baleship2.xyz
 play.bst218.com
+play.google
 play.spotify.com
 play4free.com
 playapex.com
@@ -37741,6 +37746,7 @@ pureapk.com
 purechat.com
 pureconcepts.net
 puredns.cn
+puredns.org
 puredrifter.com
 pureinsight.org
 pureland-buddhism.org
@@ -37927,6 +37933,7 @@ qml.ac.uk
 qmllt.com
 qmov.com
 qmov.net
+qmp4.com
 qmpgmc.ac.uk
 qmttqg3k.me
 qmu.ac.uk
@@ -56480,9 +56487,14 @@ yzcbet.com
 yzld188.top
 yzys.tv
 yzzk.com
+z-lib.fm
+z-lib.fo
+z-lib.gd
+z-lib.gl
 z-lib.io
 z-lib.org
 z-library.se
+z-library.sk
 z.com
 z00.world
 z02.01.dynamic-dns.net

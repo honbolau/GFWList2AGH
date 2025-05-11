@@ -308,6 +308,7 @@
 1111modpo.info
 11150.com
 1115168.com
+111666.best
 1119702.com
 111cpk.com
 112233a.com
@@ -840,6 +841,7 @@
 1lib.nl
 1lib.org
 1lib.pl
+1lib.sk
 1lib.to
 1lib.tw
 1lib.uk
@@ -3667,7 +3669,6 @@ ahvideosexe.com
 ahxxx.club
 ai-kan.net
 ai-wen.net
-ai.google
 ai4t.com
 ai7995.site
 ai91porn.cc
@@ -15950,6 +15951,7 @@ gmimarkets.com
 gmll.org
 gmodules.com
 gmoney.org
+gmp4.com
 gmx.com
 gmx.net
 gnai-dh.sbs
@@ -27320,6 +27322,7 @@ platinumlinks.org
 play-asia.com
 play-bmm.shop
 play-bmmer.buzz
+play.google
 play4free.com
 playapex.com
 playartifact.com
@@ -28395,6 +28398,7 @@ pureapk.com
 purechat.com
 pureconcepts.net
 puredns.cn
+puredns.org
 puredrifter.com
 pureinsight.org
 pureland-buddhism.org
@@ -28553,6 +28557,7 @@ qmap.pub
 qmllt.com
 qmov.com
 qmov.net
+qmp4.com
 qmttqg3k.me
 qmzdd.com
 qnap.com
@@ -38601,9 +38606,14 @@ yzcbet.com
 yzld188.top
 yzys.tv
 yzzk.com
+z-lib.fm
+z-lib.fo
+z-lib.gd
+z-lib.gl
 z-lib.io
 z-lib.org
 z-library.se
+z-library.sk
 z.com
 z00.world
 z100.com
