@@ -4287,6 +4287,7 @@ ahxxx.club
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+ai.google
 ai.google.dev
 ai3sd.ac.uk
 ai4t.com
@@ -23625,6 +23626,7 @@ hotbed.ac.uk
 hotbox.com
 hotcandyland.com
 hotclaudia.de
+hotcool.tw
 hotcuckoldwife.com
 hotcumporn.com
 hotdh.xyz
@@ -33657,6 +33659,7 @@ nikezoom.com
 nikkan-gendai.com
 nikkan-spa.jp
 nikkansports.com
+nikke.hotcool.tw
 nikkei-cnbc.co.jp
 nikkei.co.jp
 nikkei.com
@@ -33950,6 +33953,7 @@ notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 notary.net
 notblocked.telex.cc
+notebooklm.google
 notepad-plus-plus.org
 notheroes.com
 nothinghere.tk
@@ -34979,6 +34983,7 @@ openart.ai
 opencollective.com
 opencreate.org
 opendemocracy.net
+opendn.xyz
 opendns.com
 opendoorvpn.com
 opendroneid.org
@@ -46527,6 +46532,7 @@ ustibetcommittee.org
 ustinka.org
 ustream.tv
 ustv123.com
+usus.cc
 usvimosquito.com
 usvimosquitoproject.com
 usvpn.co
