@@ -7353,6 +7353,7 @@ bbs.lxty8.com
 bbs.mikocon.com
 bbs.morbell.com
 bbs.mychat.to
+bbs.naixi.net
 bbs.netbig.com
 bbs.nyinfor.com
 bbs.ozchinese.com
@@ -28160,6 +28161,7 @@ ldld6.me
 ldld8.me
 ldnmb.com
 ldoc-cdt.ac.uk
+ldplayer.tw
 ldschinese.com
 ldsp22.com
 ldsp33.com
