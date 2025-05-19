@@ -12604,6 +12604,7 @@ codepair.firebaseio.com
 codeplex.com
 codepunk.io
 codepush.azurewebsites.net
+coderabbit.ai
 codereddit.com
 codery.ga
 codeshare.io
@@ -15205,6 +15206,7 @@ dishworld.com
 disinhe.ac.uk
 disk.yandex.com
 disk.yandex.ru
+diskstation.me
 disney-asia.com
 disney-discount.com
 disney-plus.net
@@ -15540,9 +15542,12 @@ doc.new
 doc.trolltech.com
 docbox.fricke-g.de
 doceapower.com
+docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+docker-pinata-support.s3.amazonaws.com
 docker.com
 docker.io
 dockerizer.com
+dockerstatic.com
 docleradn.com
 doclercdn.com
 docs-examples.firebaseio.com
@@ -15940,6 +15945,9 @@ ds-vod-abematv.akamaized.net
 ds0h3roq6wcgc.cloudfront.net
 ds2v8dhpuxcwv.cloudfront.net
 dscis.ac.uk
+dscloud.biz
+dscloud.me
+dscloud.mobi
 dscn.info
 dsd001.com
 dsd002.com
@@ -15957,6 +15965,9 @@ dslady.com
 dslr.net
 dslreports.com
 dsmtp.com
+dsmynas.com
+dsmynas.net
+dsmynas.org
 dsn01.com
 dsn02.co
 dsn05.co
@@ -17543,7 +17554,6 @@ eso.ac.uk
 esopworld.com
 esp-scotland.ac.uk
 esp32.com
-esp8266.com
 espa-headlines.ac.uk
 espa.ac.uk
 espadoldettol.com.ar
@@ -17560,7 +17570,6 @@ espndotcom.tt.omtrdc.net
 espnqa.com
 esports.ggcarry888.com
 esposasymaridos.com
-espressif.com
 esrc.ac.uk
 esrcfestival.ac.uk
 esrcmanchesterfest.ac.uk
@@ -18314,6 +18323,9 @@ family-simulator.io
 family.acethon.com
 family.co.jp
 family.com.tw
+familyds.com
+familyds.net
+familyds.org
 familyfed.org
 familyhealth.xyz
 familylifestudy.ac.uk
@@ -24349,6 +24361,7 @@ ibit.am
 ibizababes.com
 ibkr.com
 iblist.com
+ibllc.com
 iblogs.com
 iblogserv-f.net
 ibm.com
@@ -32320,6 +32333,7 @@ myddns.com
 mydirectgroove.com
 mydirectvchannels.com
 mydirtyhobby.com
+myds.me
 myeasytv.com
 myebay.com
 myeclipseide.com
@@ -45121,7 +45135,6 @@ trinitysaintdavid.ac.uk
 triokini.com
 trionworlds.com
 trip.com
-tripcdn.com
 tripodadvisors.com
 trips-edu.nl
 tripwireinteractive.com
@@ -45182,6 +45195,7 @@ trustedpeach.com
 trustedreviews.com
 trustisfps.com
 trustsign.ch
+trustwallet.com
 trustwave.com
 truth-out.org
 truth.atspace.eu
@@ -48495,6 +48509,7 @@ webcams.tv
 webcamtubexxx.com
 webcarstory.com
 webcatt.com
+webchannel-alkalimakersuite-pa.clients6.google.com
 webcitation.org
 webdav.box.com
 webdisk.andong.org.tw
