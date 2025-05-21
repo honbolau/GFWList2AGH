@@ -7335,6 +7335,7 @@ bbs.9baka.com
 bbs.9gal.com
 bbs.acgrip.com
 bbs.bbsmo.com
+bbs.boingboing.net
 bbs.brockbbs.com
 bbs.cantonese.asia
 bbs.cdbook.org
@@ -9397,6 +9398,7 @@ bognor.ac.uk
 bogou188.com
 bogus.com
 bogusx.idv.tw
+boingboing.net
 boizoe.gq
 boizoe.ml
 bokefa888.com
@@ -28181,6 +28183,7 @@ ldsp33.com
 ldsp55.com
 ldsp6.com
 ldsp88.com
+ldstatic.com
 ldvip10.com
 ldvip14.com
 ldvip15.com
@@ -28798,6 +28801,7 @@ linpus.com
 linseysworld.com
 linst.ac.uk
 linux-it.cf
+linux.do
 linux.org
 linux.org.hk
 linuxfoundation.org
