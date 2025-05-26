@@ -9682,6 +9682,7 @@ cloupia.net
 clova.ai
 clsjet.com
 clsp.fun
+clstorage.net
 club.tw
 club1069.com
 clubhouse.com
@@ -18315,7 +18316,11 @@ ibeatsbydre.com
 ibiblio.org
 ibit.am
 ibizababes.com
+ibkr.ca
 ibkr.com
+ibkr.eu
+ibkr.ie
+ibkrguides.com
 iblist.com
 ibllc.com
 iblogs.com
@@ -24055,6 +24060,7 @@ mqxd.org
 mr-tireman.jp
 mr006.com
 mr7788.com
+mradx.net
 mratme.com
 mratyou.com
 mray.club
@@ -24772,7 +24778,6 @@ near.by
 neat-url.com
 nebay.net
 neborder.com
-nebula-emby.com
 ned.org
 nee4you.com
 needforspeed.com
@@ -29399,6 +29404,7 @@ roshy.tv
 rosinstrument.com
 rosiyy.com
 roskam.nl
+rostaxi.org
 rostones.com
 rotten.com
 rou.video
@@ -35302,6 +35308,7 @@ vixvids.to
 vizvaz.com
 vjav.com
 vjet.co
+vk-analytics.ru
 vk-apps.com
 vk-apps.ru
 vk-cdn.me
@@ -38017,6 +38024,7 @@ yammer.com
 yamoon.club
 yande.re
 yandere.moe
+yandex-bank.net
 yandex.aero
 yandex.az
 yandex.by
@@ -38042,7 +38050,10 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yandexadexchange.net
 yandexcloud.net
+yandexcom.net
+yandexwebcache.org
 yangca88.com
 yangjianli.com
 yangyangyang.me

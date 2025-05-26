@@ -5424,7 +5424,6 @@ api.jomego.com
 api.linksalpha.com
 api.lm1188.com
 api.m.afreecatv.com
-api.nebula-emby.com
 api.netlify.com
 api.news
 api.ott.pm
@@ -12340,6 +12339,7 @@ clp.ac.uk
 clrc.ac.uk
 clsjet.com
 clsp.fun
+clstorage.net
 club.tw
 club1069.com
 clubhouse.com
@@ -24370,7 +24370,16 @@ ibiblio.org
 ibis.ac.uk
 ibit.am
 ibizababes.com
+ibkr.ca
+ibkr.co.in
+ibkr.co.uk
 ibkr.com
+ibkr.com.au
+ibkr.com.hk
+ibkr.com.sg
+ibkr.eu
+ibkr.ie
+ibkrguides.com
 iblist.com
 ibllc.com
 iblogs.com
@@ -31939,6 +31948,7 @@ mr-tireman.jp
 mr.t28.net
 mr006.com
 mr7788.com
+mradx.net
 mratme.com
 mratyou.com
 mray.club
@@ -32930,7 +32940,6 @@ neat-url.com
 neath.ac.uk
 nebay.net
 neborder.com
-nebula-emby.com
 nec-arundel.ac.uk
 nec.ac.uk
 necah.ac.uk
@@ -34200,6 +34209,7 @@ ntp.se
 ntp.t.ring.gr.jp
 ntp.tohoku.ac.jp
 ntp.tut.ac.jp
+ntp.ubuntu.com
 ntp.ufe.cz
 ntp0.ntp-servers.net
 ntp0.ring.gr.jp
@@ -39110,6 +39120,7 @@ rosinstrument.com
 rosiyy.com
 roskam.nl
 roslin.ac.uk
+rostaxi.org
 rostones.com
 rothamsted.ac.uk
 rotherham-coll.ac.uk
@@ -44553,6 +44564,7 @@ time.google.com
 time.gov
 time.nist.gov
 time.nrc.ca
+time.windows.com
 time1.facebook.com
 time1.google.com
 time2.facebook.com
@@ -47490,6 +47502,7 @@ vizvaz.com
 vjav.com
 vjet.co
 vjmedia.com.hk
+vk-analytics.ru
 vk-apps.com
 vk-apps.ru
 vk-cdn.me
@@ -48493,7 +48506,6 @@ web.cec.gov.tw
 web.dev
 web.id
 web.manbetx36.bet
-web.nebula-emby.com
 web.pcc.gov.tw
 web.pts.org.tw
 web.telegram.im
@@ -55743,6 +55755,8 @@ yammer.com
 yamoon.club
 yande.re
 yandere.moe
+yandex-bank.net
+yandex-images.clstorage.net
 yandex.aero
 yandex.az
 yandex.by
@@ -55774,7 +55788,10 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yandexadexchange.net
 yandexcloud.net
+yandexcom.net
+yandexwebcache.org
 yangca88.com
 yanghengjun.spaces.live.com
 yangjianli.com
