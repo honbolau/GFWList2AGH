@@ -5146,6 +5146,7 @@ android-apk.org
 android-x86.org
 android.9p998.com
 android.com
+android.googlesource.com
 android.informer.com
 android.jlelse.eu
 android.mi9.com
@@ -20676,6 +20677,7 @@ gem.ac.uk
 gemfire.net
 gemfury.com
 gemini.com
+gemini.google
 gen.lib.rus.ec
 gen.tr
 gen2.ac.uk
