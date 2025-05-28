@@ -3211,7 +3211,6 @@ ablwang.com
 abna24.com
 aboluowang.com
 about.com
-about.google
 about.me
 aboutamazon.com
 aboutamazon.de
@@ -3670,7 +3669,6 @@ ahvideosexe.com
 ahxxx.club
 ai-kan.net
 ai-wen.net
-ai.google
 ai4t.com
 ai7995.site
 ai91porn.cc
@@ -7048,7 +7046,6 @@ blocktempo.com
 bloco.org
 blog.br
 blog.de
-blog.google
 blog.jp
 blog.me
 blog4ever.com
@@ -9381,7 +9378,6 @@ chrome.com
 chromeba.net
 chromebook.com
 chromecast.com
-chromeenterprise.google
 chromeexperiments.com
 chromegae.com
 chromeos.dev
@@ -9947,7 +9943,6 @@ com.fr
 com.ge
 com.gh
 com.gi
-com.google
 com.gr
 com.gt
 com.gy
@@ -10315,7 +10310,6 @@ crest.hk
 crete-crete.com
 crexyer.com
 cricketcountry.com
-crisisresponse.google
 cristyli.com
 crit-staging.com
 critiquebrainz.org
@@ -11118,7 +11112,6 @@ desertbmw.com
 desertfish.be
 design-ledrev.com
 design-ledrevolution.com
-design.google
 designandpeople.org
 designeriphonescases.com
 designledrevolution.com
@@ -11587,7 +11580,6 @@ dnes.bg
 dns-dns.com
 dns-over-https.com
 dns-stuff.com
-dns.google
 dns.sb
 dns04.com
 dns05.com
@@ -11699,7 +11691,6 @@ dom2.ru
 domai.com
 domain.name
 domain888.pw
-domains.google
 domaintest.soy
 dominionenergy.com
 domusblog.org
@@ -12834,7 +12825,6 @@ entrust.net
 entrustdatacard.com
 entrychat.com
 entunn.com
-environment.google
 envitreat.biz
 envitreat.net
 enwp.org
@@ -15564,7 +15554,6 @@ gelbooru.me
 gemfire.net
 gemfury.com
 gemini.com
-gemini.google
 gen.tr
 genashtim.com
 gendai.net
@@ -16484,7 +16473,6 @@ groupfun.com
 groupmax.hk
 groups.com
 groupsite.com
-grow.google
 grrrgraphics.com
 grss-ieee.org
 grupobmw.com
@@ -21525,7 +21513,6 @@ leporno.org
 lepornochaud.com
 lepornofrais.com
 lerosua.org
-lers.google
 lesbea.com
 lesbian8.com
 lesbianpics.org
@@ -25120,7 +25107,6 @@ nhtglobal.com
 niaadia.com
 nianticlabs.com
 nic.cz
-nic.google
 nic.gov
 niceanimegames.com
 niceporn.tv
@@ -25492,7 +25478,6 @@ northghost.com
 nos.nl
 notacom.ru
 notary.net
-notebooklm.google
 notepad-plus-plus.org
 notheroes.com
 nothinghere.tk
@@ -26204,7 +26189,6 @@ openobservatory.org
 openreality.com
 openrouter.ai
 opensea.io
-opensource.google
 opensource.guide
 opensourceinsight.dev
 opensourceinsights.dev
@@ -26667,7 +26651,6 @@ passion.com
 passionhdfan.com
 passiontimes.hk
 passport.net
-passwords.google
 pastahealth.com
 paste.ee
 pastebin.com
@@ -27352,7 +27335,6 @@ platinumlinks.org
 play-asia.com
 play-bmm.shop
 play-bmmer.buzz
-play.google
 play4free.com
 playapex.com
 playartifact.com
@@ -28089,7 +28071,6 @@ pricelesssydney.com
 pricelesstoronto.ca
 pricelesstv.com
 priconne-redive.jp
-pride.google
 pridetube.com
 prigle.com
 prime-video.com
@@ -29118,7 +29099,6 @@ regionalwifi.net
 regiongold.com
 registerhulu.com
 registeridm.com
-registry.google
 rehabforum.org
 reimu.net
 reindeervpn.com
@@ -29167,7 +29147,6 @@ repsneakermall.com
 repswing.com
 rerouted.org
 resao.com
-research.google
 researchandcare.org
 researchgate.net
 researchintel.com
@@ -29620,7 +29599,6 @@ safenetwork.io
 safervpn.cc
 safervpn.com
 safervpn.net
-safety.google
 safevpn.net
 saffrontech.com
 sagepub.com
@@ -31769,7 +31747,6 @@ storenvy.com
 storesense.com
 storetorrent.com
 storetorrent.org
-stories.google
 storiesofyesterday.com
 storiesonline.net
 storify.com
@@ -32068,7 +32045,6 @@ sushi.com
 sushi.ski
 susiewildin.com
 susjed.com
-sustainability.google
 sustainablebuildingstudio.com
 sustainabledesigncouncil.com
 sustainabledesigncouncil.net
@@ -32199,6 +32175,7 @@ syinji4.xyz
 syjidh1.xyz
 sylfoundation.org
 symantec.com
+symantecliveupdate.com
 symauth.com
 symcb.com
 symcd.com
@@ -33966,7 +33943,6 @@ tuxing.live
 tuzaijidi.com
 tv.br
 tv.com
-tv.google
 tv100.ga
 tv100.gq
 tv100.us
