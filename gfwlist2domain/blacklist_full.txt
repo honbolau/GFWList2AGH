@@ -3801,7 +3801,6 @@ acpica.com
 acpme.ac.uk
 acproxy.com
 acrobat.com
-acs.org
 acsis.ac.uk
 acss.red
 actalis.com
