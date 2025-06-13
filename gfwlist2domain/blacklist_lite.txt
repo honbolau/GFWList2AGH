@@ -10263,6 +10263,7 @@ cponline.pw
 cppa-dc.org
 cproxyer.com
 cptdb.ca
+cpu-monkey.com
 cpu500.com
 cpusa.org
 cpz.to
@@ -18225,7 +18226,6 @@ hwbridal.com
 hwcdn.net
 hwcp33.com
 hwgo.com
-hwinfo.com
 hwslabs.com
 hwtang.com
 hx-ss.cc
