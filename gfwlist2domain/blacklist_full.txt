@@ -22564,7 +22564,6 @@ hen9.fat.flnet.org
 henanprosper.com
 hendon.ac.uk
 hengcai88.com
-henghengmao.com
 hengssc88.com
 henley-cov.ac.uk
 henley.ac.uk
@@ -24808,6 +24807,7 @@ img-s-msn-com.akamaized.net
 img.ahri-plus.com
 img.bipics.net
 img.ly
+img.picgo.net
 img1.hdmbox.com
 imgasd.com
 imgbb.com
@@ -36026,6 +36026,7 @@ picasaweb.com
 picasaweb.net
 picasaweb.org
 picbucks.com
+picgo.net
 pichunter.com
 picidae.net
 picker.ac.uk
