@@ -3594,7 +3594,6 @@
 2012jh.com
 20130123.com
 201314520.net
-2013sh.com
 2014.mobi
 20150.net
 201551.com
@@ -28686,7 +28685,6 @@ cdnfile2.msstatic.com
 cdnfile2.msstatic.com.w.kunlunhuf.com
 cdnfileimg.115.com
 cdngia.com
-cdngogo.cc
 cdngogo2.cc
 cdngot.com
 cdngslb.com
@@ -35719,7 +35717,6 @@ convection.cn
 convergemob.com
 conversion.adpro.cn
 conversion.pro.cn
-convertermkv.com
 convertlab.com
 convshop.com
 conwos.com
@@ -43570,6 +43567,7 @@ doseeing.com
 doserv.com
 doservice.com
 doshome.com
+dosilicon.com
 dosk.win
 dosnap.com
 dospy.com
@@ -44623,7 +44621,6 @@ dtxlwfby.v1d.szbdyd.com
 dtxmw.com
 dtxn.net
 dtxww.com
-dtxxhh.com
 dtxxjq.com
 dtyhgj.com
 dtysky.moe
@@ -44737,7 +44734,6 @@ duanxb.com
 duanxiansen.com
 duanxianxia.com
 duanxin.com
-duanxin321.com
 duanxin520.com
 duanxindao.com
 duanyoutv.vip
@@ -45355,7 +45351,6 @@ dwtedx.com
 dwtracking.sdo.com
 dww11.com
 dwwin.com
-dwxw.net
 dwxyamaha.com
 dwyeuy.com
 dwywood.com
@@ -53258,7 +53253,6 @@ gamesh.com
 gameshr.com
 gamesifu.com
 gamesir.com
-gamestarfield.com
 gametanzi.com
 gametaptap.com
 gametdd.com
@@ -56214,6 +56208,7 @@ gongzuoshouji.net
 gongzuoyun.org
 gonsun.com
 gonvvama.net
+gonxt.com
 gonyn.com
 goo17.com
 gooagoo.com
@@ -61606,7 +61601,6 @@ halcyonz.com
 halead.com
 halfrost.com
 halfsug.com
-halidown.com
 haligame.com
 halihali9.com
 halixun.com
@@ -63982,7 +63976,6 @@ hengyan.com
 hengyang.anjuke.com
 hengyankeji.com
 hengyemould.com
-hengyi-optics.com
 hengyi.com
 hengyidai.com
 hengyigl.com
@@ -69449,7 +69442,6 @@ hz-winone.com
 hz-xiaofei.com
 hz-xin.com
 hz-zhuce.com
-hz-zjsh.com
 hz-zq.com
 hz.5i5j.com
 hz.adeaz.com
@@ -71525,7 +71517,6 @@ ihuisida.net
 ihuiu.com
 ihuman.com
 ihumand.com
-ihungyi.com
 ihuntto.com
 ihuoli.com
 ihuoqiu.com
@@ -80349,6 +80340,7 @@ juzhen.io
 juzhentech.com
 juzhenyun.org
 juzhi720.com
+juzhiliang.com
 juzhiyuan.com
 juzhongjoy.com
 juzi.cn
@@ -83993,7 +83985,6 @@ kwise-log.com
 kwkf.com
 kwkg.kuwo.cn
 kwm.com
-kwmachineworks.com
 kwmiosjump.kuwo.cn
 kwmsg.kuwo.cn
 kwniu.com
@@ -87720,7 +87711,6 @@ lizq.host
 lizuorl.cn
 lj-audio.com
 lj-bank.com
-lj-group.com
 lj.zu.anjuke.com
 lj168.com
 ljbao.net
@@ -89380,7 +89370,6 @@ lupic.cdn.bcebos.com
 lupic.cdn.bcebos.com.a.bdydns.com
 luping.com
 luqidong.com
-luqq.net
 lure123.com
 lurefans.com
 lurefq.com
@@ -91050,7 +91039,6 @@ mainlandip.com
 mainlandmed.com
 mainone.com
 mainshe.com
-mainstreethhi.com
 maintao.com
 mainwww.com
 mainwww.newsmth.net
@@ -96030,6 +96018,7 @@ mxhthw.com
 mxifund.com
 mxingkong.net
 mxitie.com
+mxitres.com
 mxivi.com
 mxj.cx
 mxjd.com
@@ -112061,7 +112050,6 @@ rejoiceblog.com
 reju-txy-ssl.a.88cdn.com
 rejushe.com
 rek8.com
-rekelead.com
 rekong.com
 rekonquer.com
 rekoo.com
@@ -112675,7 +112663,6 @@ rising-eo.com
 rising.cn
 risingauto.com
 risinggas.com
-risingpenny.com
 risk.autohome.com.cn
 risk.dun.mi.com
 riskbird.com
@@ -119783,7 +119770,6 @@ shyrcb.com
 shyrcw.com
 shyrcw.net
 shyrjt.com
-shysco.com
 shysjt.com
 shyuanting.com
 shyuanye.com
@@ -124845,7 +124831,6 @@ sxetcedu.com
 sxfblog.com
 sxfl.org
 sxfoundation.com
-sxfsw.com
 sxfu.org
 sxfyjzzs.com
 sxgbs.com
@@ -148578,7 +148563,6 @@ xsesc.com
 xsfaya.com
 xsfc.com
 xsfsp.com
-xsg100.com
 xsgame.net
 xsgame99.com
 xsgongju.com
@@ -153447,6 +153431,7 @@ xycdn.net
 xycgd.com
 xychyy.com
 xyclient.net
+xyclient.xyz
 xycloud.com
 xyclouds.com
 xycsq.com
@@ -157954,7 +157939,6 @@ youziqk.com
 youzonggw.com
 youzu.com
 youzuanmy.vip
-youzunkj.com
 yovisun.com
 yovkr.xyz
 yovocloud.com
@@ -161452,7 +161436,6 @@ zgps168.com
 zgpts.com
 zgpy168.com
 zgpyhst.com
-zgq.ink
 zgqbxh.com
 zgqbyp.com
 zgqcdt.com
