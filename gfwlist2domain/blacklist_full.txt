@@ -35212,6 +35212,7 @@ openart.ai
 opencollective.com
 opencreate.org
 opendemocracy.net
+opendesktop.org
 opendn.xyz
 opendns.com
 opendoorvpn.com
@@ -42698,7 +42699,6 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 statistics.ac.uk
 statkit.com
-stats.wp.com
 statsig.com
 statsmakemecry.com
 statstutor.ac.uk
