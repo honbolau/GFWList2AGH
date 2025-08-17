@@ -12594,6 +12594,7 @@ edninfo.com
 edns.biz
 edominations.com
 edoors.com
+edrdg.org
 edsby.com
 edu-research.org
 edu.ci
@@ -18824,7 +18825,6 @@ ilovexs.com
 iltk.org
 ilvpn.com
 ilyagram.org
-im.tv
 im099.com
 im2sports.com
 im88.tw
@@ -26732,6 +26732,7 @@ panagistics.com
 panasonic.biz
 panasonic.com
 panasonic.jp
+pancakeswap.finance
 pancolle-movie.jp
 panda30.shop
 pandafan.me
@@ -28279,6 +28280,7 @@ prismlive.com
 prisoneralert.com
 pritunl.com
 privacybox.de
+privacyguides.org
 privacyprotector.eu
 privacysandbox.com
 privacysimplified.com

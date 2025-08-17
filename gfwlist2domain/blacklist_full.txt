@@ -15057,7 +15057,6 @@ dictate.ms
 dictatorship.com
 dictatorwatch.org
 dictionary.com
-dictionary.goo.ne.jp
 didce.com
 diddykongracing.com
 didet.ac.uk
@@ -16874,6 +16873,7 @@ edninfo.com
 edns.biz
 edominations.com
 edoors.com
+edrdg.org
 edsby.com
 edshare.ac.uk
 edson.net.br
@@ -25039,7 +25039,6 @@ ilthe.ac.uk
 iltk.org
 ilvpn.com
 ilyagram.org
-im.tv
 im099.com
 im2sports.com
 im88.tw
@@ -35760,6 +35759,7 @@ panamapapers.sueddeutsche.de
 panasonic.biz
 panasonic.com
 panasonic.jp
+pancakeswap.finance
 pancolle-movie.jp
 panda.ac.uk
 panda30.shop
@@ -37610,6 +37610,7 @@ prismlive.com
 prisoneralert.com
 pritunl.com
 privacybox.de
+privacyguides.org
 privacyprotector.eu
 privacysandbox.com
 privacysimplified.com
