@@ -25582,7 +25582,6 @@ btaxwy.com
 btb8.com
 btbat.com
 btbctex.com
-btbtav.com
 btc-precisionmedical.com
 btc114.com
 btc123.com
@@ -33963,7 +33962,6 @@ cn.pcfreetime.com
 cn.pool.ntp.org
 cn.qzonestyle.gtimg.cn
 cn.razerzone.com
-cn.streetvoice.com
 cn.tencent.lb.metowolf.com
 cn.vc
 cn.version.battle.net
@@ -54341,7 +54339,6 @@ geekdive.com
 geekefu.com
 geekercloud.com
 geekerconsulting.com
-geekerhome.com
 geekerhua.com
 geekfans.com
 geekhub-storage.oss-cn-beijing.aliyuncs.com
@@ -56241,7 +56238,6 @@ google-analytics-cn.com
 google-analytics.com
 google-hub.com
 google-play.mobi
-google.cn
 google444.com
 googleadapis.com
 googleads.g.doubleclick.net
@@ -64592,7 +64588,6 @@ hicsharp.com
 hicss.net
 hiczp.com
 hidanhao.vip
-hidecloud.com
 hidery.com
 hidesigncloud.com
 hidist.com
@@ -111689,7 +111684,6 @@ react-china.org
 react.mobi
 reactor.xingye.work
 read.qidian.com
-read100.com
 read678.com
 read8.net
 readboy.com
@@ -145201,7 +145195,6 @@ xian.baixing.com
 xian.com
 xian.esf.fang.com
 xianayi.net
-xianba.net
 xianbao.fun
 xianbao.net
 xianbao5.com
@@ -163174,7 +163167,6 @@ zhuanstatic.com
 zhuanti.hebnews.cn
 zhuantilan.com
 zhuanwaifu.com
-zhuanxing.cn
 zhuanyehuabei.com
 zhuanyejun.com
 zhuanyepeixun.com
