@@ -14538,6 +14538,7 @@ afarway.com
 afc.parol-group.com
 afca-asia.org
 afcec.com
+afcs.dell.com
 afd.baidu.com
 afd.e.shifen.com
 afd6512f81b8b9d5da69eb81a0b844b1.dlied1.cdntips.net
@@ -33044,6 +33045,7 @@ clientlog.music.163.com
 clientlog3.music.163.com
 clientlog3.music.ntes53.netease.com
 clientmap.baidu.com
+clientperipherals.dell.com
 clientservices.googleapis.com
 clifford-hospital.org
 cliffordtrading.com
@@ -35825,7 +35827,6 @@ copcsc.org
 copl.com.hk
 copperalliance.asia
 copperhome.net
-copy-manga.com
 copycat.gitee.com
 copyedu.com
 copyfuture.com
@@ -37922,6 +37923,7 @@ cusdvs.com
 cusdvs.net
 custeel.com
 customer.lenovo.com
+customization-cdn.dell.com
 customizedfasteners.com
 customsapp.com
 customstat.video.51togic.com
@@ -40466,6 +40468,7 @@ ddplus.meituan.net
 ddpoc.com
 ddqayjr7.v1d.szbdyd.com
 ddqcw.com
+dds.dell.com
 ddsaas.com
 ddsiojf.xyz
 ddsk.la
@@ -40728,6 +40731,7 @@ delixi.com
 delixidrive.com
 deliyun.com
 dell-alw.com
+dell-brand.com
 dell027.com
 dellcnappgw.chinaeast2.cloudapp.chinacloudapi.cn
 dellcnappgw.chinanorth2.cloudapp.chinacloudapi.cn
@@ -42506,6 +42510,7 @@ dl.centanet.com
 dl.cm.ksmobile.com
 dl.coolapk.com
 dl.delivery.mp.microsoft.com
+dl.dell.com
 dl.discuz.chat
 dl.django.t.taobao.com
 dl.django.t.taobao.com.danuoyi.tbcache.com
@@ -46035,6 +46040,9 @@ ea-xing.com
 ea119.amdc.m.taobao.com
 ea119.wagbridge.alsc-prd.tanx.com.gds.alibabadns.com
 ea1d54b661cb73f3bf0cb2f8045c2b9d.dlied1.cdntips.net
+ea2cn-dev-outlet.dell.com
+ea2cn-prod-outlet.dell.com
+ea2cn-staging-outlet.dell.com
 ea360.com
 ea3w.com
 ea8e84235fff9e946d0beee9b2096c86.rdt.cfogc.com
@@ -49675,6 +49683,7 @@ fcpowerup.com
 fcqjc.com
 fcrc114.com
 fcrrg3o3.sched.sma.tdnsv5.com
+fcs.dell.com
 fcs1.com
 fcsc.cn
 fcsc.com
@@ -52037,7 +52046,11 @@ ft22.com
 ft3e.com
 ft77.com
 ft98.com
+fta.dell.com
+ftaapj.dell.com
+ftaemea.dell.com
 ftaro.com
+ftasitapj.dell.com
 ftbj.net
 ftcoaster.com
 ftd.nz
@@ -52246,6 +52259,7 @@ funcrea.com
 functionads.com
 functionaltextilesshanghai.com
 functioncool.com
+functiongraph.run
 fund.10jqka.com.cn
 fund.cnfol.com
 fund001.com
@@ -53577,6 +53591,8 @@ gbtranswins.com
 gbvh.com
 gbw114.com
 gbwbv6.a.vvipcdn.com
+gbxgateway-dev.dell.com
+gbxgateway.dell.com
 gc-repair.com
 gc-zb.com
 gc0771.com
@@ -91161,9 +91177,7 @@ manfen5.com
 manfred-auto.com
 manfrottoclub.com
 manga.bilibili.com
-mangacopy.com
 mangafuna.xyz
-mangafunb.fun
 mangake.com
 manganesenanhai.com
 mangege.com
@@ -104839,6 +104853,7 @@ plateno.com
 platenogroup.com
 platform-cn.com
 platform.adwep.com
+platform.dell.com
 platform.sina.cn
 platform.xiaoheiban.cn
 platinum-traveller.com
@@ -112747,6 +112762,7 @@ roay.cn
 robam.com
 robei.com
 roboeyeai.com
+robomaster.com
 roboo.com
 robook.com
 robooot.com
@@ -115016,6 +115032,7 @@ sceia.org
 scemrq.com
 scenario-drcn.things.dbankcloud.cn
 scene.vip.xunlei.com
+scene7-cdn.dell.com
 scengine.com
 scenictc.com
 scensmart.com
@@ -119724,6 +119741,7 @@ si-en.com
 si-era.com
 si-in.com
 si-win.com
+si.cdn.dell.com
 si.geilicdn.com
 si.ptqy.gitv.tv
 si0769.com
@@ -120921,6 +120939,7 @@ sm-mfk-com.sm-tc.cn
 sm-tc.cn
 sm.bdimg.com
 sm.cn
+sm.dell.com
 sm.domob.cn
 sm.domobcdn.com
 sm0.fun
@@ -121317,6 +121336,8 @@ snowflake.qq.com
 snowkey.com
 snowlotusgroup.com
 snowyimall.com
+snp.cdn.dell.com
+snpi.dell.com
 snpimg.gtimg.com
 snprv.hnhgmh.mobi
 snprv.mhqx.store
@@ -124301,6 +124322,7 @@ support.lenovo.com.cn
 support.qq.com
 support.weixin.qq.com
 support1.lenovo.com.cn
+supportassist.dell.com
 supports.jiaju.sina.com.cn
 supreme-oe.com
 supuvalve.com
@@ -142040,6 +142062,7 @@ www-cdn.educoder.net
 www-cdn.educoder.net.w.kunlunca.com
 www-cdn.icloud.com.akadns.net
 www-cdn.lizhi.io
+www-csb.dell.com
 www-ea2cn-p1-csb.dell.com
 www-ea2cn-p2-csb.dell.com
 www-google-analytics.l.google.com
