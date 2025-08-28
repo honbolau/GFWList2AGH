@@ -36,7 +36,6 @@
 007500w.com
 0077buyu.com
 008.cc
-008.com
 00899a.com
 00899b.com
 00899c.com
@@ -2099,6 +2098,7 @@
 5644321.com
 56555vip.com
 56563.com
+5657.com.tw
 566.biz
 56656ff.com
 5668223.com
@@ -4965,6 +4965,7 @@ amazonaws.org
 amazonaws.tv
 amazonbusiness.org
 amazonbusinessblog.com
+amazoncognito.com
 amazondevicesupport.com
 amazonfctours.com
 amazonianblog.com
@@ -6849,6 +6850,7 @@ aws-iot-hackathon.com
 aws.adana123.site
 aws.com
 aws.e8play.cc
+awsapprunner.com
 awsapps.com
 awsautopilot.com
 awsautoscaling.com
@@ -17088,6 +17090,7 @@ edlab.ac.uk
 edmimg.airasia.com
 edmontonchina.cn
 edmontonchina.com
+edmontonservice.com
 edmontonsun.com
 edninfo.com
 edns.biz
@@ -26740,6 +26743,7 @@ javbraze.com
 javbus.cc
 javbus.co
 javbus.com
+javbus.sbs
 javbus.work
 javbus2.com
 javbus2.pw
@@ -28176,6 +28180,7 @@ krishnaflashmobs.weebly.com
 kristenbjorn.com
 krosspictures.com
 krsnavision.com
+krtc.com.tw
 krtco.com.tw
 krux.com
 krymr.com
@@ -42644,7 +42649,6 @@ ss.gate-project.com
 ss.gfw.host
 ss.hkj.tech
 ss.ishadowx.com
-ss.levyhsu.com
 ss.life
 ss.pythonic.life
 ss.welsmann.com
@@ -56294,6 +56298,7 @@ yahooapis.com
 yahoodns.net
 yahoofinance.com
 yahoohealth.com
+yahooinc.com
 yahoomusic.com
 yahoosandbox.com
 yahoosportsbook.com
