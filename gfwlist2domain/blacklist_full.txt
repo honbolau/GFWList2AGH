@@ -9564,6 +9564,7 @@ bookinh.com.br
 booklive.jp
 bookmark.xxx
 bookmarkinghost.com
+bookmeter.com
 bookmybridgestonetyre.com
 bookoffonline.co.jp
 bookonsky.net
@@ -9583,6 +9584,7 @@ bookstagram.com
 bookstore.emome.net
 booktopia.com.au
 bookwalker.com.tw
+bookwalker.jp
 bookzone.cwgv.com.tw
 booloo.com
 boomba.club
@@ -28111,6 +28113,7 @@ ko-fi.com
 ko-re.com
 koalaporn.com
 kobbeatssbydredk.com
+kobe-np.co.jp
 kobe-pastel.com
 kobo.com
 kobobooks.com
@@ -34432,6 +34435,7 @@ notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
 notary.net
 notblocked.telex.cc
+note.com
 notepad-plus-plus.org
 notheroes.com
 nothinghere.tk
@@ -35180,6 +35184,7 @@ okfa88.c9998.com
 okfun.org
 okgo.xyz
 okinawabank.co.jp
+okinawatimes.co.jp
 okitrust.com
 okk.tw
 okkisokuho.com
@@ -44119,6 +44124,7 @@ tbr.tangbr.net
 tbrada.pw
 tbrc.org
 tbs-rainbow.org
+tbs.co.jp
 tbsec.org
 tbskkinabalu.page.tl
 tbsn.org
@@ -56604,6 +56610,7 @@ yobo66.com
 yobo88.com
 yobt.com
 yobt.tv
+yodobashi.com
 yogaalliance.in
 yogaallianceinternationalusa.org
 yogalayout.com
