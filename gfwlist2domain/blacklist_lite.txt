@@ -34687,7 +34687,6 @@ ucvtelevision.cl
 udacity.com
 udemy.com
 udemycdn.com
-uderzo.it
 udfs.com
 udn.com
 udnbkk.com
