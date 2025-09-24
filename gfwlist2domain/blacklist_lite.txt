@@ -26161,6 +26161,7 @@ ocsp-certum.com
 ocsp-responder.com
 octanevpn.com
 october-review.org
+octocaptcha.com
 octoteam.com
 ocul.us
 oculartechie.com
@@ -26880,6 +26881,7 @@ pallabs.com
 palmislife.com
 palpung.org
 paltalk.com
+palworldgame.com
 pampshare.com
 panagistics.com
 panasonic.biz

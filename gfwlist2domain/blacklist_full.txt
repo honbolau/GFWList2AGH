@@ -5495,6 +5495,7 @@ api.m.afreecatv.com
 api.netlify.com
 api.news
 api.ott.pm
+api.palworldgame.com
 api.phantom.avira-vpn.com
 api.pncle8.com
 api.proxlet.com
@@ -35066,6 +35067,7 @@ ocsp.int-x3.letsencrypt.org
 ocsp.microsoft.com
 octanevpn.com
 october-review.org
+octocaptcha.com
 octoteam.com
 octrev.mysrvnet.com
 ocul.us
@@ -36014,6 +36016,7 @@ palpung.org
 palpung.org.tw
 pals.ac.uk
 paltalk.com
+palworldgame.com
 pampshare.com
 panagistics.com
 panamapapers.sueddeutsche.de
