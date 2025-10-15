@@ -3652,6 +3652,7 @@ abna24.com
 aboluowang.com
 about.com
 about.gitlab.com
+about.google
 about.me
 aboutamazon.co.uk
 aboutamazon.com
@@ -4248,6 +4249,7 @@ agkmg.com
 agmbet.com
 agnesb.fr
 agnitio.com.ar
+agnss.goog
 agocg.ac.uk
 agoogleaday.com
 agos-ti.com.ar
@@ -4306,6 +4308,7 @@ ahxxx.club
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+ai.google
 ai.google.dev
 ai.ls
 ai3sd.ac.uk
@@ -6218,6 +6221,7 @@ asiancamly.com
 asianclassics.org
 asiancorrespondent.com
 asianews.it
+asianfanfics.com
 asianfreeporn.net
 asiangfvideos.com
 asiangirlsnextdoor.com
@@ -8163,6 +8167,10 @@ bfsh.hk
 bftv.ac.uk
 bfu999.com
 bfu999.net
+bg-call-donation-alpha.goog
+bg-call-donation-canary.goog
+bg-call-donation-dev.goog
+bg-call-donation.goog
 bg1235.com
 bg1238.com
 bg1239.com
@@ -8703,6 +8711,7 @@ blog.expofutures.com
 blog.feichangdao.com
 blog.fizzik.com
 blog.foolsmountain.com
+blog.google
 blog.hungching.com
 blog.idevr.com
 blog.imprezagt1031.idv.tw
@@ -10193,6 +10202,7 @@ businessinsider.my
 businessinsider.nl
 businessinsider.sg
 businessmart.com
+businessmessages.google
 businesssource.bokf.com
 businesstoday.com.tw
 businesswebwise.com
@@ -12019,6 +12029,7 @@ chromeba.net
 chromebook.com
 chromecast.com
 chromedriver.chromium.org
+chromeenterprise.google
 chromeexperiments.com
 chromegae.com
 chromeos.dev
@@ -12428,6 +12439,7 @@ cloudmedia.com
 cloudmosa.com
 cloudn.me
 cloudokyo.cloud
+cloudpartnerservices.goog
 cloudpn.top
 cloudproxy.app
 cloudrobotics.com
@@ -12872,6 +12884,7 @@ com.fr
 com.ge
 com.gh
 com.gi
+com.google
 com.gr
 com.gt
 com.gy
@@ -14813,6 +14826,7 @@ deepfreeze.tech
 deeping.ac.uk
 deepl.com
 deepmind.com
+deepmind.google
 deepspace.jpl.nasa.gov
 deepthroatfrenzy.com
 deeside.ac.uk
@@ -15091,6 +15105,7 @@ desertbmw.com
 desertfish.be
 design-ledrev.com
 design-ledrevolution.com
+design.google
 designandpeople.org
 designeriphonescases.com
 designledrevolution.com
@@ -15593,6 +15608,7 @@ dit-inc.us
 div17.com
 divas.com.uy
 diveinn.com
+diversity.google
 diversityuk.ac.uk
 divgearcmrfs2.cloudfront.net
 divine-interventions.com
@@ -15927,6 +15943,7 @@ domain.name
 domain888.pw
 domaindecyrpiton.mysecondarydns.com
 domainhelp.search.com
+domains.google
 domaintest.soy
 domaintoday.com.au
 dombosco.com.br
@@ -17552,6 +17569,9 @@ entermediadb.org
 enterprise.ac.uk
 enterprise.box.com
 enterprisebydesign.ac.uk
+enterprisedemo-google.com
+enterprisedemogoogle.org
+enterprisemarketingportal.google
 enterprisepaging.com
 enterpriseresearch.ac.uk
 enterprisessl.com
@@ -18614,6 +18634,7 @@ falunthai.org
 falunworld.net
 fameregistry.com
 famifun.com.tw
+families.google
 family-sex.me
 family-simulator.io
 family.acethon.com
@@ -22247,6 +22268,7 @@ groupmax.hk
 groups.com
 groups.yahoo.com
 groupsite.com
+grow.google
 grows.ac.uk
 growthy-release-growthywebcollector-80.gcld-line.com
 grpeng.ac.uk
@@ -24348,7 +24370,6 @@ hua95992.com
 huabansp.com
 huabansp7.club
 huaglad.com
-huaibinmall.com
 huaile.me
 huajiadi.spaces.live.com
 huancai66.com
@@ -25942,6 +25963,7 @@ inxporn.com
 inxxtv.com
 inyt.com
 io.freess.org
+io.google
 ioasgo.com.ar
 ioe.ac.uk
 ioe.com
@@ -28315,6 +28337,7 @@ labiennale.org
 labinacell.ac.uk
 labo.wovs.tk
 labour.org.hk
+labs.google
 labyc.com.ar
 lacaixa.es
 lachirigringa.org
@@ -35472,6 +35495,7 @@ opensciencelaboratory.ac.uk
 opensea.io
 openshift.redhat.com
 opensource.ac.uk
+opensource.google
 opensource.guide
 opensourceinsight.dev
 opensourceinsights.dev
@@ -38520,6 +38544,7 @@ quanben.io
 quannengshen.org
 quantic.ac.uk
 quantitativemethods.ac.uk
+quantumai.google
 quantumidiot.com
 quarantados.com
 quatrowireless.com
@@ -39146,6 +39171,7 @@ regiongold.com
 register.moex.gov.tw
 registerhulu.com
 registeridm.com
+registry.google
 rehabforum.org
 reid-kerr.ac.uk
 reidkerr.ac.uk
@@ -39220,6 +39246,7 @@ research-clinician.ac.uk
 research-councils.ac.uk
 research-scotland.ac.uk
 research-socialsciences.ac.uk
+research.google
 research4justice.ac.uk
 researchandcare.org
 researchconcordat.ac.uk
@@ -39956,6 +39983,7 @@ safepodnetwork.ac.uk
 safervpn.cc
 safervpn.com
 safervpn.net
+safety.google
 safevpn.net
 saffrontech.com
 sagabank.co.jp
@@ -41189,6 +41217,7 @@ share-videos.se
 share.acgnx.net
 share.acgnx.se
 share.america.gov
+share.google
 share.ovi.com
 share.playbabies.net
 share.wordshare.in
@@ -41562,6 +41591,7 @@ simplydivinebakery.com
 simplydivinebakery.org
 simplyipod.com
 simsquad.com
+simtransfer.goog
 simulationsquad.com
 simustation.com
 sin.fat.flnet.org
@@ -41730,6 +41760,7 @@ skillshare.com
 skillswestyorks.ac.uk
 skimtube.com
 skinstrip.net
+skintone.google
 skirt.com
 skk.moe
 skn.noip.me
@@ -42599,6 +42630,7 @@ sr.ht
 sr04.nflfan.org
 src.ac.uk
 srcf.ucam.org
+sre.google
 srebrenica360.com
 srf.ac.uk
 srf.ch
@@ -43129,6 +43161,7 @@ storenvy.com
 storesense.com
 storetorrent.com
 storetorrent.org
+stories.google
 storiesofchange.ac.uk
 storiesofyesterday.com
 storiesonline.net
@@ -43216,7 +43249,6 @@ strepsils.si
 strepsils.us
 strepsilsarabia.com
 streva.ac.uk
-striek.com
 striimit.tv
 strikewin.com
 strikinglycdn.com
@@ -43771,6 +43803,7 @@ sync2it.com
 syncback.com
 syncbak.com
 syncroweb.com
+syndicatedsearch.goog
 syndication-o.twimg.com
 syndtrak.com
 synergo.gr
@@ -46043,6 +46076,7 @@ tv.com
 tv.domain888.pw
 tv.endlessmovie.com
 tv.freepac.pw
+tv.google
 tv.itver.cc
 tv.jtbc.joins.com
 tv.spacetechnology.net
@@ -57174,6 +57208,7 @@ zdassets.com
 zdnet.com
 zdnet.com.tw
 zdnet.redvideo.io
+zdns.google
 zdqp11.com
 zds-agency.net
 zdusercontent.com
