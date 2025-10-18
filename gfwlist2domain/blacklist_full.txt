@@ -6082,6 +6082,7 @@ arizona-friends-of-tibet.org
 ark-genomics.ac.uk
 ark.ac.uk
 ark.to
+arkoselabs.com
 arkpay.site
 arlen.io
 arlingtoncemetery.mil
@@ -11494,6 +11495,7 @@ cepacol.com
 ceramics-cadcam.com
 cercia.ac.uk
 cerdas.com
+cerebras.ai
 ceredigion.ac.uk
 ceri.ac.uk
 cerlim.ac.uk
@@ -12293,6 +12295,8 @@ classics.ac.uk
 classicscore.hut2.ru
 classymomsex.com
 claude.ai
+claude.com
+claudemcpclient.com
 claudeusercontent.com
 clb.org.hk
 clc-london.ac.uk
@@ -21341,6 +21345,7 @@ gitbook.com
 gitbook.io
 gitbooks.io
 githack.com
+github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
 github.ai
 github.blog
@@ -26684,6 +26689,7 @@ jav-angel.net
 jav-onlines.com
 jav-subtitles.com
 jav-vr.net
+jav.app
 jav.com
 jav.dog
 jav.gallery
@@ -30499,6 +30505,7 @@ marmotastudio.com
 marplecollege.ac.uk
 marranazas.com
 marsbar.org.uk
+marscode.com
 marshal.com
 martau.com
 martincartoons.com
@@ -33881,6 +33888,7 @@ nfsc.global
 nfscdict.com
 nfscofficial.com
 nfsworld.com
+nftstatic.com
 nftstorage.link
 ng.mil
 nga.mil
@@ -43017,6 +43025,7 @@ steam.ru.qtlglb.com
 steam.tv
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
+steamcloudsweden.blob.core.windows.net
 steamcommunity-a.akamaihd.net
 steamcommunity-a.akamaihd.net.edgesuite.net
 steamcommunity.com
@@ -45593,6 +45602,7 @@ tradewithjacky.com
 tradiio.com
 trading212.com
 tradingview.com
+trae.ai
 traeumtgerade.de
 traffcoll.ac.uk
 traffichaus.com
@@ -56999,6 +57009,7 @@ ysulondon.ac.uk
 ysx-mm.com
 yt.be
 yt1s.com
+yt3.googleusercontent.com
 ytchannelembed.com
 ytht.net
 ytimg.com
