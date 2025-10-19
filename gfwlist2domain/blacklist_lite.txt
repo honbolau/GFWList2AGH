@@ -5296,6 +5296,7 @@ atube.sex
 atube.xxx
 atubex.com
 atv98.com
+atvnewsonline.com
 atwiki.jp
 atypi.org
 au1.ca
@@ -7787,6 +7788,7 @@ boomss.cc
 boomssr.com
 booru.org
 boostmobile.com
+boosty.to
 booth.pm
 bootstrapcdn.com
 bootyliciousmag.com
@@ -9009,6 +9011,7 @@ cdlib.org
 cdmatech.com
 cdn-telegram.org
 cdn-terapeak.com
+cdn-vk.ru
 cdn22.xyz
 cdn77.com
 cdn77.org
@@ -10961,6 +10964,7 @@ dastrassi.org
 dat.foundation
 data-vocabulary.org
 data.com
+data.taipei
 datadefiner.com
 datafilehost.com
 dataframeworks.com
@@ -11432,6 +11436,7 @@ dharmawheel.net
 dhcp.biz
 diablo3.com
 diabloimmortal.com
+diabrowser.com
 diaconadovalpo.cl
 diafilme.ro
 dialga.com
@@ -11907,6 +11912,7 @@ domywife.com
 donaldseher.com
 donatecarsoh.org
 donateforislam.com
+donationalerts.com
 donbaird.com
 donga.com
 dongbei731.com
@@ -16775,6 +16781,7 @@ guangming.org
 guanliyuan.org
 guanyincitta.com
 guaranitermal.com
+guardarian.com
 guardianapis.com
 guardiannews.com
 guardianproject.info
@@ -16934,6 +16941,7 @@ haitangbook.com
 haitbook.com
 haitenjp.com
 haiwaikan.com
+haiwaiwai.com
 half.com
 half.tv
 halfcanada.com
@@ -18670,6 +18678,7 @@ icsin.org
 icu-project.org
 icuminside.com
 id.au
+id.taipei
 idaili.club
 idaiwan.com
 idarkdoll.com
@@ -21399,6 +21408,7 @@ ku77.xyz
 ku7711.com
 ku988.net
 ku9888.net
+kuai.media
 kuai500.com
 kuaichedao.co
 kuaichedao.org
@@ -23276,6 +23286,7 @@ meltingsource.com
 meltoday.com
 memcpy.io
 meme111.com
+memealerts.com
 memehk.com
 memes.com
 memes.tw
@@ -26249,6 +26260,7 @@ okay.cf
 okayfreedom.com
 okazudouga.tokyo
 okb.com
+okcdn.ru
 okcili.com
 okcoin.com
 okex.com
@@ -29050,6 +29062,7 @@ qwqshow.com
 qx.net
 qxbbs.org
 qy521.vip
+qycz.org
 qysg.cc
 qysg7.buzz
 qysg8.buzz
@@ -30002,10 +30015,14 @@ samkoeh.com
 sammyboyforum.com
 samskritabharati.org
 samsungcloud.com
+samsungconsent.com
 samsungdm.com
 samsunggalaxyfriends.com
+samsunghealth.com
+samsungiotcloud.com
 samsungknox.com
 samsungqbe.com
+samsungrs.com
 samuel-lab.ml
 samuelkong.com
 samuelponce.cl
@@ -30449,6 +30466,7 @@ servervpn.net
 serveuser.com
 serveusers.com
 service-now.com
+service.taipei
 services-apple.net
 services-exchange.com
 servicescoalition.org
@@ -32042,6 +32060,7 @@ stc-server.com
 stcroixmosquito.com
 stcroixmosquitoproject.com
 stcroixsource.com
+stealthex.io
 stealthvisitor.com
 stealthy.co
 stealthygeek.com
@@ -35303,6 +35322,7 @@ vercel-dns.com
 vercel-status.com
 vercel.app
 vercel.blog
+vercel.dev
 vercel.events
 vercel.live
 vercel.pub
@@ -35714,6 +35734,7 @@ vk.nl
 vk.ru
 vk.team
 vkcache.com
+vkcloud-static.ru
 vkgo.app
 vklive.app
 vkmessenger.app

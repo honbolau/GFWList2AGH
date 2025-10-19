@@ -6444,6 +6444,7 @@ atubex.com
 atv-ext.amazon.com
 atv-ps.amazon.com
 atv98.com
+atvnewsonline.com
 atwiki.jp
 atx.snfda.com
 atypi.org
@@ -9609,6 +9610,7 @@ boomss.cc
 boomssr.com
 booru.org
 boostmobile.com
+boosty.to
 booth.pm
 bootstrapcdn.com
 bootyliciousmag.com
@@ -11344,6 +11346,7 @@ cdn-osawaris.nutaku.net
 cdn-spotify-experiments.conductrics.com
 cdn-telegram.org
 cdn-terapeak.com
+cdn-vk.ru
 cdn.ac.uk
 cdn.arstechnica.net
 cdn.assets.lfpcontent.com
@@ -11596,6 +11599,7 @@ chapm25.com
 chapman.edu
 chara-ani.com
 character.ai
+chardb.iis.sinica.edu.tw
 charentelibre.fr
 chargenow.com
 chargenowusa.com
@@ -12289,6 +12293,7 @@ clashroyale.com
 clashroyaleapp.com
 clasporno.org
 class.ruten.com.tw
+class.tn.edu.tw
 classicalguitarblog.net
 classicnike.com
 classics.ac.uk
@@ -13042,6 +13047,7 @@ conel.ac.uk
 confetti.ac.uk
 config.getiantem.org
 config.getsync.com
+configuration-lb.ls-apple.com.akadns.net
 conform.ac.uk
 confuciusinstitute.ac.uk
 congressrental.asia
@@ -13224,7 +13230,6 @@ coup.ac.uk
 coupang.com
 coupangcdn.com
 couplecam.co.uk
-courier-push-apple.com.akadns.net
 couriermail.com.au
 courrierinternational.com
 coursehero.com
@@ -14586,6 +14591,7 @@ data.gov.tw
 data.hugoboss.com
 data.leafwind.tw
 data.org.tr
+data.taipei
 databank.worldbank.org
 database.asahi.com
 datadefiner.com
@@ -15275,6 +15281,7 @@ di1cx2shgigsi.cloudfront.net
 diabetes-healthnet.ac.uk
 diablo3.com
 diabloimmortal.com
+diabrowser.com
 diaconadovalpo.cl
 diafilme.ro
 dialga.com
@@ -15960,6 +15967,7 @@ don.ac.uk
 donaldseher.com
 donatecarsoh.org
 donateforislam.com
+donationalerts.com
 donbaird.com
 doncaster.ac.uk
 donga.com
@@ -22348,6 +22356,7 @@ guangming.org
 guanliyuan.org
 guanyincitta.com
 guaranitermal.com
+guardarian.com
 guardian.co.uk
 guardianapis.com
 guardianapps.co.uk
@@ -22612,6 +22621,7 @@ haitangbook.com
 haitbook.com
 haitenjp.com
 haiwaikan.com
+haiwaiwai.com
 hakkatv.org.tw
 halcyon.ac.uk
 halesowen.ac.uk
@@ -24893,6 +24903,7 @@ id.heroku.com
 id.oculus.com
 id.rlcdn.com
 id.t28.net
+id.taipei
 idaili.club
 idaiwan.com
 idarkdoll.com
@@ -27733,6 +27744,7 @@ kb.monitorware.com
 kba-tx.org
 kbc.be
 kbplus.ac.uk
+kbs.co.kr
 kbzbank.com
 kbzpay.com
 kc3000.shop
@@ -28239,6 +28251,7 @@ ku77.xyz
 ku7711.com
 ku988.net
 ku9888.net
+kuai.media
 kuai500.com
 kuaichedao.co
 kuaichedao.org
@@ -31032,6 +31045,7 @@ members.common.org
 memcpy.io
 meme.yahoo.com
 meme111.com
+memealerts.com
 memedia.cn
 memehk.com
 memes.com
@@ -35174,6 +35188,7 @@ okay.cf
 okayfreedom.com
 okazudouga.tokyo
 okb.com
+okcdn.ru
 okcili.com
 okcoin.com
 okex.com
@@ -38634,6 +38649,7 @@ qwqshow.com
 qx.net
 qxbbs.org
 qy521.vip
+qycz.org
 qysg.cc
 qysg7.buzz
 qysg8.buzz
@@ -40073,10 +40089,14 @@ samskritabharati.org
 samsung.com
 samsungapps.com
 samsungcloud.com
+samsungconsent.com
 samsungdm.com
 samsunggalaxyfriends.com
+samsunghealth.com
+samsungiotcloud.com
 samsungknox.com
 samsungqbe.com
+samsungrs.com
 samuel-lab.ml
 samuelkong.com
 samuelponce.cl
@@ -40839,6 +40859,7 @@ serveuser.com
 serveusers.com
 service-now.com
 service.kvbgc.com
+service.taipei
 service001.net84.net
 services-apple.net
 services-exchange.com
@@ -43008,6 +43029,7 @@ stcroixsource.com
 stdavidscollege.ac.uk
 stdavidsdaygroup.ac.uk
 stdoms.ac.uk
+stealthex.io
 stealthproxy.co.uk
 stealthvisitor.com
 stealthy.co
@@ -47533,6 +47555,7 @@ vercel-dns.com
 vercel-status.com
 vercel.app
 vercel.blog
+vercel.dev
 vercel.events
 vercel.live
 vercel.pub
@@ -48095,6 +48118,7 @@ vk.nl
 vk.ru
 vk.team
 vkcache.com
+vkcloud-static.ru
 vkgo.app
 vklive.app
 vkmessenger.app
@@ -55476,6 +55500,7 @@ xiaoshuomm.com
 xiaowei11.com
 xiaowei3.com
 xiaoxiaose.com
+xiaoxue.iis.sinica.edu.tw
 xiaoyaoge.xyz
 xiasi.net
 xiaxiaoqiang.net
