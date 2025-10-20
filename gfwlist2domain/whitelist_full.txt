@@ -94202,8 +94202,6 @@ msgacs.youku.com
 msgamego.com
 msgcarry.com
 msgcenter.wps.cn
-msgr.dlservice.microsoft.com
-msgruser.dlservice.microsoft.com
 msgstatic.douyu.com
 msgstatic.douyu.com.w.cdngslb.com
 msgstatic.douyucdn.cn
@@ -106270,7 +106268,6 @@ qh-cdn.com
 qh-dl.com
 qh-hospital.org
 qh-lb.com
-qh.dlservice.microsoft.com
 qh.gsxt.gov.cn
 qh.la
 qh24.com
@@ -118453,7 +118450,6 @@ siluke.info
 silukex.com
 silusheji.com
 siluwu.com
-silverlight.dlservice.microsoft.com
 sim.djicdn.com
 sim.lenovo.com
 sim800.com
@@ -119427,7 +119423,6 @@ sltint.adv.ott.cibntv.net
 sltopnews.com
 sltv.net
 sltxantonline.com
-slupdate.dlservice.microsoft.com
 sluyu.com
 slwh-dfh.com
 slwwedding.com
@@ -138764,7 +138759,6 @@ wkzk.com
 wkzq.com.cn
 wkzuche.com
 wkzw.me
-wl.dlservice.microsoft.com
 wl.hd.sohu.com
 wl.houyi.baofeng.net
 wl.jd.com
@@ -142799,7 +142793,6 @@ xazzg.com
 xazzp.com
 xazzs.com
 xb.app
-xb.dlservice.microsoft.com
 xb0.cc
 xb100.net
 xb2s.com
