@@ -4780,6 +4780,7 @@ alphabetfinance.net
 alphafinancial.ca
 alphaporno.com
 alphasigmaphi.org
+alphaxiv.org
 alphera-finance.co.in
 alphera-finance.com.hk
 alphera-finance.in
@@ -5228,6 +5229,10 @@ andygod.com
 andyjenkinsblog.com
 andysparis.com
 aneisa.com
+anexia-engine.com
+anexia-it.com
+anexia.at
+anexia.com
 anfutong.com
 angel-gto.com
 angel.ac.uk
@@ -6705,6 +6710,7 @@ av991.sex888.cc
 avaaz.com
 avaaz.org
 avant.ac.uk
+avast.com
 avatara.com
 avatargarenanow-a.akamaihd.net
 avatarify.ai
@@ -8513,6 +8519,7 @@ bitcoinheaven.pw
 bitcoint-id.xyz
 bitcointalk.org
 bitcoinworld.com
+bitdefender.com
 bite.ac.uk
 bitfinex.com
 bitflyer.com
@@ -12283,6 +12290,7 @@ clackmannan-college.ac.uk
 clacks.ac.uk
 clacton.ac.uk
 clad.ac.uk
+clamwin.com
 clannad-movie.jp
 clapaftis.com
 claravenger.com
@@ -16668,6 +16676,7 @@ e37555.com
 e3998.d.akamaiedge.net
 e3an.ac.uk
 e4a62.azurewebsites.net
+e5.sk
 e621.net
 e6396.com
 e76.opengtspro.com
@@ -17619,6 +17628,7 @@ eogli.org
 epac.to
 epaper.heeact.edu.tw
 epaper.wsj-asia.com
+epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 epc.ac.uk
 epic.ac.uk
 epic.com.tw
@@ -17865,6 +17875,12 @@ esds.ac.uk
 ese.ac.uk
 eselondon.ac.uk
 eservice.nhi.gov.tw
+eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+eset.com
+eset.eu
+eset.sk
+eset.systems
+esetsoftware.com
 esg.ac.uk
 esg.t91y.com
 eshcru.ac.uk
@@ -19133,6 +19149,7 @@ fifastreet.com
 fifastreet3.com
 fife.ac.uk
 fifeglen.ac.uk
+fifthns.com
 fightforux.com
 figma.com
 figprayer.com
@@ -19346,6 +19363,7 @@ firstbusinessnews.com
 firstchancesfife.ac.uk
 firstfivefollowers.com
 firstgynexam.com
+firstns.cc
 firstory.me
 firstpelvicexam.com
 firstpost.com
@@ -19660,6 +19678,7 @@ fountmedia.io
 fourface.nodesnoop.com
 fourgiven.org
 fourthinternational.org
+fourthns.systems
 fox-corporation.com
 fox-news.com
 fox.com
@@ -24025,6 +24044,7 @@ hotbox.com
 hotcandyland.com
 hotclaudia.de
 hotcool.tw
+hotcrp.com
 hotcuckoldwife.com
 hotcumporn.com
 hotdh.xyz
@@ -27739,6 +27759,8 @@ kaskus.co.id
 kaskus.com
 kaskus.us
 kaspars.lv
+kaspersky-labs.com
+kaspersky.com
 kastatic.org
 kat.cr
 kat.rip
@@ -30826,6 +30848,7 @@ mc6.ac.uk
 mca.ac.uk
 mcadforums.com
 mcaf.ee
+mcafee.com
 mcat58.com
 mcb.com.mm
 mcc.ac.uk
@@ -34459,6 +34482,7 @@ northtrafford.ac.uk
 northumberland-acl.ac.uk
 northumberland.ac.uk
 northumbria.ac.uk
+norton.com
 norwichresearchpark.ac.uk
 nos.nl
 notacom.ru
@@ -35534,6 +35558,7 @@ openmine.cl
 openobservatory.org
 openproxy.co.uk
 openreality.com
+openreview.net
 openrouter.ai
 opensciencelab.ac.uk
 opensciencelaboratory.ac.uk
@@ -40696,6 +40721,7 @@ secom.co.jp
 secomtrust.net
 second-ns.com
 second-ns.de
+secondns.at
 secret-flirt-hub.com
 secretbabes.co.uk
 secretbrowser.net
@@ -41578,6 +41604,7 @@ sierrafriendsoftibet.org
 sifa.ac.uk
 sifangcai.com
 sifangtv.club
+sigcomm.org
 sigen.pro
 sigma-cetl.ac.uk
 sigma-network.ac.uk
@@ -41597,6 +41624,7 @@ signalusers.org
 signbucks.com
 signify.net
 signupv2.popmediainc.com
+sigops.org
 sigupdates.marshal.com
 sihe.ac.uk
 sijie.wang
@@ -44900,6 +44928,7 @@ thinkwales.ac.uk
 thinkwithgoogle.com
 thirdmill.org
 thirdmovies.com
+thirdns.de
 thisav.com
 thisav.tw
 thisischen.com
@@ -47171,6 +47200,7 @@ usejournal.com
 usejump.com
 uselessjunk.com
 usembassy.gov
+usenix.org
 useplannr.com
 user.jojoex.com
 userapi.com

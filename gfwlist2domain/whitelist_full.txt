@@ -33536,6 +33536,7 @@ cn.bing.com
 cn.bing.net
 cn.club.vmall.com
 cn.download.nvidia.com
+cn.eset.com
 cn.hao123.n.shifen.com
 cn.huijucn.com
 cn.i.gtimg.cn
