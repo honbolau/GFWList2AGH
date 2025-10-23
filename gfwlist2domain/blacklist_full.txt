@@ -14330,6 +14330,7 @@ d3q09pice8p5g1.cloudfront.net
 d3q2rmcjrnnvi2.cloudfront.net
 d3qyvwl7jxpx3t.cloudfront.net
 d3r45cet3usdyi.cloudfront.net
+d3r7nsslvs6aaf.cloudfront.net
 d3rkfw22xppori.cloudfront.net
 d3rnjxpkwf3le1.cloudfront.net
 d3rt8kdbxi1g81.cloudfront.net
@@ -14620,6 +14621,7 @@ datalak3.ml
 dataliberation.org
 datalore.io
 dataprivacyproject.org
+datarouter.apps.netherrealm.com
 datasegura.com
 datasheets360.com
 datashield.ac.uk
@@ -15228,6 +15230,7 @@ deviantart.net
 deviantclip.com
 device-manager.us
 devilsfilm.com
+devin.ai
 devio.us
 devm2m.com
 devolution.ac.uk
@@ -15875,6 +15878,7 @@ docker.com
 docker.io
 dockerizer.com
 dockerstatic.com
+dockerstatus.com
 docleradn.com
 doclercdn.com
 docs-examples.firebaseio.com
@@ -20180,6 +20184,7 @@ freindfeed.com
 frenchcreek.ca
 frenchhistorysociety.ac.uk
 frescolib.org
+freshchat.com
 freshfaces.com.my
 freshlive.tv
 freshnano.com
@@ -28040,6 +28045,7 @@ kinkypeepz.com
 kinmen.org.tw
 kinmen.travel
 kinokuniya.com
+kinopoisk.ru
 kipferinformatik.ch
 kir.jp
 kir2kos.net
@@ -33611,6 +33617,7 @@ netflixdnstest8.com
 netflixdnstest9.com
 netflixinvestor.com
 netflixtechblog.com
+netherrealm.com
 netignition.com
 netlab.ac.uk
 netlify.app
@@ -43274,6 +43281,8 @@ straightouttasomewhere.com
 straightpornstuds.com
 straitstimes.com
 straitstimes.com.sg
+straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+straitsx.com
 stran.ac.uk
 stranabg.com
 strangled.net
@@ -44803,6 +44812,7 @@ thepiratebay.ee
 thepiratebay.org
 thepiratebay.org.es
 theplatform.com
+thepoizon.ru
 thepolicy.us
 theporn.cc
 thepornarea.com
@@ -49047,6 +49057,7 @@ warddogs.com
 wariolandshakeit.com
 wariowarediy.com
 warkscol.ac.uk
+warnerbrosgames.com
 warnermediacdn.com
 warnermusic.com.hk
 warontherocks.com
@@ -49122,13 +49133,17 @@ waybackmachine.org
 waybig.com
 waymo.com
 waze.com
+wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 wb.aeweb.xyz
 wb.graylady.us
 wb888.net
+wbagora.com
 wballiance.com
 wbd.ms
 wbdnbo.net
 wbet1111.com
+wbgames.com
+wbinsights.com
 wbs.ac.uk
 wbvm4s.com
 wby118.com
