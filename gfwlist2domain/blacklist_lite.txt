@@ -16886,6 +16886,7 @@ gzone-anime.info
 gzroute53.com
 gzzt.org
 h-cdn.com
+h-chan.me
 h-china.org
 h-comic.com
 h-doujinshi.xyz
@@ -17285,6 +17286,8 @@ henry.wang
 hentai-ani.me
 hentai-archive.com
 hentai-books.com
+hentai-chan.com
+hentai-chan.live
 hentai-cosplays.com
 hentai-covers.site
 hentai-eroanime.net
@@ -17333,6 +17336,8 @@ hentaibaka.one
 hentaibar.com
 hentaiblue.com
 hentaibros.com
+hentaichan.live
+hentaichan.me
 hentaicity.com
 hentaicloud.com
 hentaiclub.net
@@ -19059,6 +19064,7 @@ imgflip.com
 imgix.com
 imgix.net
 imgmega.com
+imgschan.xyz
 imgscloud.win
 imgsmail.ru
 imgspice.com
@@ -35978,6 +35984,7 @@ voicettank.org
 voicetube.com
 voipfone.net
 vokevr.com
+vol.moe
 volafile.io
 volafile.org
 volaris.com
@@ -36406,6 +36413,7 @@ w.org
 w.wiki
 w0208.com
 w0368.com
+w0512.com
 w06966.com
 w123123.com
 w1887.com
