@@ -39774,8 +39774,14 @@ dcldshlupt.alicdn.com
 dcloud.io
 dcloud.xin
 dcloudlive.com
+dcloudlive.net
 dclouds.cloud
+dcloudsp.com
+dcloudsp.net
 dcloudstc.com
+dcloudstc.net
+dcloudvod.com
+dcloudvod.net
 dclygroup.com
 dcmagcn.com
 dcmap.deploy.akamai.com
@@ -63102,11 +63108,14 @@ hermes.jd.com
 hermes.jd.com.gslb.qianxun.com
 hermod1.com
 hero-geek.com
+hero.com
 heroad-data.com
 heroclick.cn
 herocoming.com
 heroes.nos.netease.com
+heroesports.com
 heroestactics.com
+herogame.com
 herohr.net
 heroic-ltd.com
 heroje.com
@@ -118143,6 +118152,7 @@ shyuwl.com
 shyuzhai.com
 shywly.com
 shyx-bio.com
+shyxhy.com
 shyxi5.com
 shyxwz.com
 shyy6688.com
