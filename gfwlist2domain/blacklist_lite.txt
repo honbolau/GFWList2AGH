@@ -3180,6 +3180,7 @@ aarberg-bierwanderung.ch
 aaronmix.net
 aaronnieh.com
 aast.edu
+aastocks.com
 aave.com
 aavideo.live
 aavs.xyz
@@ -9480,6 +9481,7 @@ chromeenterprise.google
 chromeexperiments.com
 chromegae.com
 chromeos.dev
+chromeos.google
 chromercise.com
 chromes.cn
 chromestatus.com
@@ -15826,6 +15828,7 @@ gelbooru.me
 gemfire.net
 gemfury.com
 gemini.com
+gemini.google
 gen.tr
 genashtim.com
 gendai.net
@@ -16380,6 +16383,7 @@ goodssh.com
 goodthaigirl.com
 goodtv.org
 goodtv.tv
+goody25.com
 goofind.com
 googel.com
 googel.de
@@ -17197,6 +17201,7 @@ headphonezip.com
 headproxy.com
 headrambles.com
 headset987.com
+health.google
 health.gov
 health026.click
 health2.cc
@@ -17805,6 +17810,7 @@ hkjp.org
 hkkk6.com
 hklft.com
 hkmap.live
+hkong.hk
 hkopentv.com
 hkpc.org
 hkpeanut.com
@@ -25863,6 +25869,7 @@ nos.nl
 notacom.ru
 notary.net
 note.com
+notebooklm.google
 notepad-plus-plus.org
 notheroes.com
 nothinghere.tk
@@ -27746,6 +27753,7 @@ platinumlinks.org
 play-asia.com
 play-bmm.shop
 play-bmmer.buzz
+play.google
 play4free.com
 playapex.com
 playartifact.com
@@ -31096,6 +31104,7 @@ siddharthasintent.org
 siddiqlar.com
 sidelinesnews.com
 sidelinessportseatery.com
+sidewalklabs.com
 siebert.cl
 siedner.com
 siege-amazon.com

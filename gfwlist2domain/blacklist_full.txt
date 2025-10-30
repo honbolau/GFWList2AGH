@@ -3578,6 +3578,7 @@ aaronmix.net
 aaronnieh.com
 aaschool.ac.uk
 aast.edu
+aastocks.com
 aau.ac.uk
 aave.com
 aavideo.live
@@ -12045,6 +12046,7 @@ chromeenterprise.google
 chromeexperiments.com
 chromegae.com
 chromeos.dev
+chromeos.google
 chromercise.com
 chromes.cn
 chromestatus.com
@@ -21048,6 +21050,7 @@ gem.ac.uk
 gemfire.net
 gemfury.com
 gemini.com
+gemini.google
 gen.lib.rus.ec
 gen.tr
 gen2.ac.uk
@@ -21769,6 +21772,7 @@ goodthaigirl.com
 goodtv.com.tw
 goodtv.org
 goodtv.tv
+goody25.com
 goofind.com
 googel.com
 googel.de
@@ -22979,6 +22983,7 @@ headset987.com
 headteachers.ac.uk
 health.ac.uk
 health.businessweekly.com.tw
+health.google
 health.gov
 health026.click
 health2.cc
@@ -23770,6 +23775,7 @@ hkkk6.com
 hklft.com
 hklts.org.hk
 hkmap.live
+hkong.hk
 hkopentv.com
 hkpc.org
 hkpeanut.com
@@ -34522,6 +34528,7 @@ notary-submissions-prod.s3.us-west-2.amazonaws.com
 notary.net
 notblocked.telex.cc
 note.com
+notebooklm.google
 notepad-plus-plus.org
 notheroes.com
 nothinghere.tk
@@ -37092,6 +37099,7 @@ play-edge.itunes.apple.com
 play.afreecatv.com
 play.baleship2.xyz
 play.bst218.com
+play.google
 play.spotify.com
 play4free.com
 playapex.com
@@ -41637,6 +41645,7 @@ siddiqlar.com
 side.ac.uk
 sidelinesnews.com
 sidelinessportseatery.com
+sidewalklabs.com
 sie.ac.uk
 siebert.cl
 siedner.com
@@ -43836,6 +43845,7 @@ sweltec.ac.uk
 sweltering-inferno-6276.firebaseio.com
 swganh.com
 swi16.com
+swiffy.co.za
 swift.ac.uk
 swift.org
 swiftbank.info
