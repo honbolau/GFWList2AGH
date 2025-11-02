@@ -71688,7 +71688,6 @@ imlong-sa-p03-drcn.platform.dbankcloud.cn
 imlong-sa-p04-drcn.platform.dbankcloud.cn
 imlp-static.cdn.bcebos.com
 immeee.com
-immersivetranslate.com
 immf.me
 immfast.com
 immi520.com
