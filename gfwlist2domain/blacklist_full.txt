@@ -21620,7 +21620,6 @@ go.nesnode.com
 go.nordvpn.net
 go.sfu.ca
 go.slyip.net
-go.sony.com
 go.ss-get.com
 go141.com
 go2av.com
@@ -22907,7 +22906,6 @@ hd-wheels.com
 hd.club.tw
 hd.cssyz.xyz
 hd.port0.org
-hd.stheadline.com
 hd.tv100.us
 hd1565.com
 hd21.com
@@ -49598,6 +49596,7 @@ whatscotlandthinks.ac.uk
 whatsonweibo.com
 whatthefox.com
 whatworksscotland.ac.uk
+whcdn.net
 whcgroup.ac.uk
 wheatseeds.org
 wheb.ac.uk
