@@ -25376,6 +25376,7 @@ images-ext-1.discordapp.net
 images-ext-2.discordapp.net
 images-gaytube.com
 images.chesscomfiles.com
+images.prismic.io
 images.ptt.cc
 imageshack.com
 imageshack.us
