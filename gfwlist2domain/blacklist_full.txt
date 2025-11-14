@@ -14029,6 +14029,7 @@ d1ul2gmffx4xs7.cloudfront.net
 d1uomndotjm500.cloudfront.net
 d1uvehqt9n5kbe.cloudfront.net
 d1v2ylre1hanhh.cloudfront.net
+d1v5ir2lpwr8os.cloudfront.net
 d1vbs98g5pc2bl.cloudfront.net
 d1vlap2nxpiws4.cloudfront.net
 d1vt414593lcr7.cloudfront.net
@@ -14073,6 +14074,7 @@ d22973nbsok3dd.cloudfront.net
 d22cny1051ekp2.cloudfront.net
 d22efbrj6bww9a.cloudfront.net
 d22if0ngl5too8.cloudfront.net
+d22qjgkvxw22r6.cloudfront.net
 d22weoaxwadxjh.cloudfront.net
 d23hlq7yv8w2zs.cloudfront.net
 d23hlwijd437bo.cloudfront.net
@@ -14091,10 +14093,12 @@ d25a42c2b7y7jt.cloudfront.net
 d25am4jn3jtwv.cloudfront.net
 d25q7jt91m0aw8.cloudfront.net
 d25sjojy31mnh6.cloudfront.net
+d25xi40x97liuc.cloudfront.net
 d26f07zpczl4rx.cloudfront.net
 d26lpscf8ih2bz.cloudfront.net
 d27ummd12gi9ja.cloudfront.net
 d27vzj7laf5lcl.cloudfront.net
+d27xxe7juh1us6.cloudfront.net
 d27yacd48fd8pu.cloudfront.net
 d28ftqgm7njw2a.cloudfront.net
 d28g4cvl4xumtr.cloudfront.net
@@ -15764,6 +15768,7 @@ dmmapis.com
 dmmbus.cam
 dmmbus.com
 dmmrex.com
+dmqdd6hw24ucf.cloudfront.net
 dmu.ac.uk
 dmuk.ac.uk
 dmyoutube.com
@@ -25380,9 +25385,12 @@ imagemodeler.com
 imagepost.com
 imagepower.com
 images-amazon.com
+images-eu.ssl-images-amazon.com
 images-ext-1.discordapp.net
 images-ext-2.discordapp.net
+images-fe.ssl-images-amazon.com
 images-gaytube.com
+images-na.ssl-images-amazon.com
 images.chesscomfiles.com
 images.prismic.io
 images.ptt.cc
@@ -32610,6 +32618,7 @@ msgamesresearch.com
 msgamestudios.com
 msgforex.com
 msguancha.com
+msh.amazon.co.uk
 msha.gov
 mshome.net
 msi.cn
@@ -43178,6 +43187,7 @@ static.iwincdn.com
 static.palgrave.com
 static.pubu.tw
 static.shemalez.com
+static.siege-amazon.com
 static01.nyt.com
 static9.net.au
 statically.io
