@@ -3078,6 +3078,7 @@
 91avv.cc
 91beiyong.com
 91cdn.cc
+91cg1.com
 91cqmm.com
 91dasai.com
 91dizhi.com
@@ -5432,6 +5433,7 @@ aopshc.com
 aorus.com
 aosintegrity.com
 aouwe.com
+aoxvpn.com
 aoxx69.net
 aozorabank.co.jp
 ap-bangkok.myqcloud.com
@@ -6887,6 +6889,7 @@ awstrack.me
 awstrust.com
 awwcn.buzz
 awwcn.xyz
+awxcdn.com
 ax.lt
 ax1x.com
 axashop.ro
@@ -8124,6 +8127,7 @@ bethsoft.com
 betslip.hkjcfootball.com
 betterbim.com
 betterexplained.com
+bettergpt.chat
 betterhash.net
 betterhdporn.com
 betternet.co
@@ -11255,6 +11259,7 @@ ccfe.ac.uk
 ccfellow.org
 cch.ac.uk
 cchere.com
+cchostvps.xyz
 cchsr.ac.uk
 cci.ac.uk
 cciernslabs.com
@@ -11647,6 +11652,7 @@ chatgpt.livekit.cloud
 chatgptvideo.xyz
 chatgptvideob.buzz
 chatnook.com
+chatpdf.com
 chatroom.dsn02.co
 chatroom.dsn05.co
 chatroom.dsn201.co
@@ -14579,6 +14585,7 @@ darktoy.net
 darktruth.tk
 darlington.ac.uk
 darlingtonlearningandskills.ac.uk
+darmau.co
 darpa.mil
 darrenliuwei.com
 dart.dev
@@ -17608,6 +17615,7 @@ enorf.ac.uk
 enos.ac.uk
 enotes.com
 enoughschool.com
+enpass.io
 enpirion.com
 enq.nzhantec.com
 ensa.ac.uk
@@ -19188,6 +19196,7 @@ fileforum.com
 filelist.ro
 filepoodles.com
 filerio.in
+files.oaiusercontent.com
 files2me.com
 filesdownloader.com
 filesend.jp
@@ -19505,6 +19514,7 @@ flowerofchange.de
 flowerofhappiness.spaces.live.com
 flowfront.com
 flowfront.net
+flowgpt.com
 flowhongkong.net
 flowtype.org
 flowvpn.com
@@ -19608,6 +19618,7 @@ force-mos.com
 force.com
 fordays.com.au
 forduck.cyou
+forefront.ai
 foreignaffairs.com
 foreignpolicy.com
 forestracker.net
@@ -23469,6 +23480,7 @@ hiapphere.com
 hibank24.com
 hibdontire.com
 hibet.com
+hicairo.com
 hicam.net
 hiccears.com
 hichannel.hinet.net
@@ -24710,6 +24722,7 @@ hymzw.net
 hyp.ac.uk
 hyper.co
 hyper.is
+hyperbeam.com
 hyperbolea.substack.com
 hyperdreams.com
 hyperrate.com
@@ -27179,7 +27192,6 @@ jibemobile.com
 jibunbank.co.jp
 jic.ac.uk
 jica88.com
-jichangtj.com
 jicloud.site
 jiduvpn.com
 jie.idv.tw
@@ -27914,6 +27926,9 @@ keele.ac.uk
 keemail.me
 keenow.com
 keepandshare.com
+keepass.info
+keeper.io
+keepersecurity.com
 keepital.com
 keepmovingwithmovefree.com
 keepsolid.com
@@ -28622,6 +28637,8 @@ last.fm
 lastcombat.com
 lastfm.es
 lastfm.freetls.fastly.net
+lastpass.com
+lastpass.eu
 lastweektonight.com
 lasvegasbmw.com
 lasvegaschinesedailynews.com
@@ -29076,6 +29093,7 @@ lewisham.ac.uk
 lewishamsouthwarkcollege.ac.uk
 lewrockwell.com
 lex.idv.tw
+lexica.art
 lexisnexis.com
 lexpress.fr
 lexuemei.com
@@ -29802,6 +29820,7 @@ lp99.pw
 lpc.ac.uk
 lpmde.ac.uk
 lpsg.com
+lputil.com
 lpxtv.com
 lqpjw.cyou
 lr.giantrobotfactory.com
@@ -29873,6 +29892,7 @@ lstmed.ac.uk
 lstmliverpool.ac.uk
 lstonline.ac.uk
 lsxszzg.com
+lt.sntp.uk
 lt003.com
 lt012.com
 lt028.com
@@ -39415,6 +39435,7 @@ renrenyum.com
 rentaride.com
 rentaride.de
 rentmen.com
+rentry.co
 renu.ac.uk
 renweb.com
 renyurenquan.org
@@ -39703,6 +39724,7 @@ roboforex.com
 roboforex.tw
 roboforexchina.com
 roboforexcn.com
+roboform.com
 roborecall.com
 robotics.jpl.nasa.gov
 robotoffice.com
@@ -42234,6 +42256,7 @@ snowinn.com
 snowlionpub.com
 snowmiku.com
 snowpick.co.il
+sntp.uk
 snug.ac.uk
 so-ga.net
 so-net.ne.jp
@@ -43504,6 +43527,7 @@ strode-coll.ac.uk
 strode-college.ac.uk
 strodes.ac.uk
 strodeslanguages.ac.uk
+strongboxsafe.com
 stronggames.com
 strongswan.org
 strongvpn.asia
@@ -44605,6 +44629,7 @@ termius.com
 termux.com
 termux.dev
 termux.org
+terobox.com
 terocket.com
 terra-x-shop.de
 terraform.io
