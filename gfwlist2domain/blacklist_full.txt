@@ -22461,6 +22461,7 @@ i.guim.co.uk
 i.jeded.com
 i.kamigami.org
 i.lithium.com
+i.mij.rip
 i.org
 i.pximg.net
 i.ssvpn.me
@@ -28495,6 +28496,7 @@ mihr.com
 mihua.org
 miitomo.com
 miiverse.com
+mij.rip
 mikanani.me
 mikandi.com
 mike.cz.cc
@@ -28954,6 +28956,8 @@ mizuhobank.co.jp
 mizzmona.com
 mjfuentes.com
 mjib.gov.tw
+mjj.rip
+mjj.today
 mjlsh.usc.cuhk.edu.hk
 mjpservices.us
 mjs-122.com
