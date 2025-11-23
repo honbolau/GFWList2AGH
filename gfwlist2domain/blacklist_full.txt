@@ -3828,6 +3828,7 @@ adelaidebbs.com
 adelaidenow.com.au
 adepoju.org
 adevar.net
+adfox.ru
 adgoogle.net
 adguard-dns.com
 adguard-dns.io
@@ -3866,6 +3867,7 @@ adipascu.ro
 adityabhushan.com
 adkongjian.com
 admeld.com
+admetrica.ru
 admin-newyork1.bloxcms.com
 admin.recaptcha.net
 admissionadviser.com
@@ -21230,6 +21232,7 @@ heywire.com
 heyzo.com
 hf-iphone.com
 hf.co
+hf.space
 hf2619.com
 hg.cool
 hg0088.com
@@ -25606,6 +25609,7 @@ kinkypeepz.com
 kinmen.org.tw
 kinmen.travel
 kinokuniya.com
+kinopoisk-ru.clstorage.net
 kinopoisk.ru
 kipferinformatik.ch
 kir.jp
@@ -33187,6 +33191,7 @@ picpost.com
 pics.ee
 pics.mu
 pics.vc
+picsart.com
 picsee.co
 picsee.pro
 pictame.com
@@ -44221,6 +44226,8 @@ webtunnel.org
 webtype.com
 webuda.com
 webunion.com
+webvisor.com
+webvisor.org
 webwarper.net
 webwash.net
 webworkerdaily.com
@@ -51010,6 +51017,7 @@ yacy.net
 yaddal.tv
 yadi.sk
 yadori.club
+yads.tech
 yaeby.info
 yaeby.pro
 yahaha.xyz
@@ -51189,6 +51197,7 @@ yande.re
 yandere.moe
 yandex-bank.net
 yandex-images.clstorage.net
+yandex-team.ru
 yandex.aero
 yandex.az
 yandex.by
@@ -51224,6 +51233,7 @@ yandex.uz
 yandexadexchange.net
 yandexcloud.net
 yandexcom.net
+yandexmetrica.com
 yandexwebcache.org
 yangca88.com
 yanghengjun.spaces.live.com
@@ -51247,6 +51257,7 @@ yarracommunitymusic.net
 yasarang.net
 yasegg.com
 yasni.co.uk
+yastat.net
 yastatic.net
 yasukuni.or.jp
 yavtube.com
