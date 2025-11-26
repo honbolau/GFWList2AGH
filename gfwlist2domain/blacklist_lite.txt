@@ -6933,7 +6933,6 @@ binary.com
 bind2.com
 bine.me
 bing.cn
-bingads.com
 bingagencyawards.com
 bingapis.com
 bingapistatistics.com
@@ -13673,7 +13672,6 @@ facebook30.com
 facebook30.net
 facebook30.org
 facebook4business.com
-facebookads.com
 facebookadvertisingsecrets.com
 facebookappcenter.info
 facebookappcenter.net
@@ -23654,7 +23652,6 @@ microsoft.vn
 microsoft365.com
 microsoftaccountguard.com
 microsoftadc.com
-microsoftads.com
 microsoftadvertising.com
 microsoftadvertisingregionalawards.com
 microsoftaffiliates.com
@@ -24592,7 +24589,6 @@ ms52.ga
 ms569.com
 ms6588.com
 msa-it.org
-msads.net
 msauth.net
 mschallenge2018.com
 msdn.com
@@ -30644,6 +30640,7 @@ sensorynetworks.com
 sensualgirls.org
 sensualmothers.com
 sensueel.net
+sentry-cdn.com
 sentry.io
 senvpn.com
 senzacodice.com
