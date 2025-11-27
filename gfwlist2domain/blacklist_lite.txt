@@ -3897,6 +3897,7 @@ akiyama.ca
 aklist.xyz
 akow.org
 akriluss.cl
+akstat.io
 akthelp.com
 aktifhaber.com
 akusa.org
@@ -38760,6 +38761,7 @@ yandex.st
 yandex.sx
 yandex.tj
 yandex.tm
+yandex.tr
 yandex.ua
 yandex.uz
 yandexadexchange.net
