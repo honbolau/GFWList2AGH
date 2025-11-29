@@ -31300,6 +31300,8 @@ ntd.tv
 ntdca.com
 ntdcantonese.com
 ntdimg.com
+ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreevcpc-tgc.cdn.hinet.net
 ntdsf.tv
 ntdtv-dc.com
 ntdtv.ca
@@ -31733,6 +31735,7 @@ offrezdesipods.com
 offworldindustries.com
 offworldindustries.net
 offxtv.com
+ofiii.com
 ofile.org
 ofmchina.com
 ofmdirect.com
