@@ -2727,6 +2727,8 @@
 7psolutions.biz
 7sea.ch
 7tb.cc
+7tv.app
+7tv.io
 7x24hrs.com
 7xx8.com
 8-d.com
@@ -10207,6 +10209,7 @@ cantonese.asia
 canva.com
 canvasflip.com
 canvasopedia.org
+canvastatus.com
 canview.com
 canyu.org
 cao.im
@@ -20619,7 +20622,9 @@ habaidu.com
 haber365.com
 haberturk.com
 habits.sijie.wang
+habr.com
 habrahabr.ru
+habrastorage.org
 hacg.club
 hacg.in
 hacg.li
@@ -28286,6 +28291,7 @@ metabrainz.org
 metacafe.com
 metacloud.com
 metacpan.org
+metacritic.com
 metacubex.one
 metafilter.com
 metalpha.finance
@@ -35861,6 +35867,7 @@ rsz6ms.lotcai.com
 rt.com
 rt6.1906999.com
 rtalabel.org
+rtbcdn.ru
 rthk.hk
 rthk.org.hk
 rthklive1-lh.akamaihd.net
@@ -35945,6 +35952,7 @@ rutracker.org
 rutrecker.net
 rutrk.org
 rutube.ru
+rutubelist.ru
 ruvideos.net
 ruvpn.top
 ruyiseek.com
@@ -39797,6 +39805,7 @@ tellapart.com
 tellme.pw
 tellmewhygame.com
 temetube.xyz
+temp-mail.org
 temp.al
 templeinstitute.org
 temu.com
@@ -42515,6 +42524,8 @@ vaultify.com
 vaultify.info
 vaultify.net
 vaultproject.io
+vbcdn.com
+vbcdn.net
 vbejeyv.shop
 vbet.com
 vbsf2.n56b.com
@@ -42761,7 +42772,9 @@ viacomcbs.com
 viacomcbspressexpress.com
 viamusik.com
 viatemperley.com.ar
+viber.co
 viber.com
+viber.me
 vibiznews.com
 vica.info
 vicbaszt.cl
