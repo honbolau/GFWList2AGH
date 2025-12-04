@@ -21273,7 +21273,6 @@ bbs.uc.cn
 bbs.ucdns.uc.cn
 bbs.xbiao.com
 bbs.xiuno.com.aocdn.com
-bbs.ztedevices.com
 bbs0415.com
 bbs0551.com
 bbs1x.net
@@ -141934,7 +141933,6 @@ www.zndata.com
 www.zol.com.cn
 www.zquan.cc
 www.zsgyfilm.com
-www.ztedevices.com
 www.zxbblog.com
 www.zxvi.com
 www.zybang.com
