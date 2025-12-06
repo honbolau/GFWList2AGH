@@ -33903,6 +33903,7 @@ tigerchicken.com
 tigerdirect.com
 tigerpvp.ga
 tigervpn.com
+tiktok-row.net
 tiktok.com
 tiktokcdn-eu.com
 tiktokcdn-us.com
@@ -33910,6 +33911,8 @@ tiktokcdn.com
 tiktokd.net
 tiktokd.org
 tiktokeu-cdn.com
+tiktokglobalshopv.com
+tiktokminis.us
 tiktokv.com
 tiktokv.eu
 tiktokv.us
@@ -39724,6 +39727,7 @@ zopim.com
 zorglist.com
 zorpia.com
 zorrovpn.com
+zotero.org
 zozotown.com
 zpn.im
 zqqpwz.com
