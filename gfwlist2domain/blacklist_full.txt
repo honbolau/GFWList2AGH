@@ -5856,6 +5856,7 @@ archives.gov.tw
 archivx.to
 archlinux.org
 archlinuxarm.org
+arcraiders.com
 arctosia.com
 ard.de
 ardencho.com
@@ -15854,6 +15855,8 @@ email.collegeplanning.com
 email.umich.edu
 emanna.com
 emaw.com.br
+embark-studios.com
+embark.games
 embase.com
 embed-cdn.com
 embed.culturalspot.org
@@ -16831,6 +16834,8 @@ facegroup.com
 faceid99.com
 faceid99.net
 faceidglobal.com
+faceit-cdn.net
+faceit.com
 faceless.me
 faceobk.com
 faceobok.com
@@ -35266,6 +35271,7 @@ rea.io
 rea.tech
 reabble.com
 reachporn.com
+reachthefinals.com
 reachtheworldonfacebook.com
 react.com
 reactjs.com
