@@ -6595,6 +6595,7 @@ awn1.icu
 aws-iot-hackathon.com
 aws.adana123.site
 aws.com
+aws.dev
 aws.e8play.cc
 awsapprunner.com
 awsapps.com
