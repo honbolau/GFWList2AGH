@@ -11526,6 +11526,7 @@ cmi.org.tw
 cmi.vpncompany.com
 cmmedia.com.tw
 cmoinc.org
+cmoney.tw
 cmp.hku.hk
 cmpaas.com
 cmrepairs.com.au
@@ -31408,8 +31409,14 @@ ntd.com
 ntd.tv
 ntdca.com
 ntdcantonese.com
+ntdfreemobile-tgc.cdn.hinet.net
+ntdfreepc-tgc.cdn.hinet.net
+ntdfreetv-tgc.cdn.hinet.net
+ntdfreevcpc-tgc.cdn.hinet.net
 ntdimg.com
+ntdofifreemobile-tgc.cdn.hinet.net
 ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreetv-tgc.cdn.hinet.net
 ntdofifreevcpc-tgc.cdn.hinet.net
 ntdsf.tv
 ntdtv-dc.com
@@ -32750,6 +32757,7 @@ parstream.net
 parstream.org
 partizy.com
 partmaker.com
+partnerstack.xyz
 partycasino.com
 partylikeits1986.org
 partypoker.com
@@ -33006,6 +33014,7 @@ pcstore.com.tw
 pct.org.tw
 pctlwm.com
 pcworld.co.uk
+pdetails.com
 pdf.new
 pdncommunity.com
 pdproxy.com
@@ -50899,6 +50908,7 @@ xvdada.com
 xvds.tv
 xvedo.net
 xvideo-jp.com
+xvideo.cc
 xvideo.com
 xvideo.org
 xvideo.run
