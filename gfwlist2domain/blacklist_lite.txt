@@ -11860,6 +11860,8 @@ dmesg.app
 dmgbet.com
 dmhk.net
 dmhy.org
+dmit.io
+dmit.sh
 dmixtv.com
 dmixtv.site
 dml-lang.org
@@ -12485,6 +12487,7 @@ dyvip888.com
 dzb086.com
 dzb088.com
 dzbapp.com
+dzcdn.net
 dzcp3555.com
 dzcp8999.com
 dzen.ru
@@ -13155,6 +13158,7 @@ envitreat.net
 enwp.org
 enya.com
 eogli.org
+eotarchive.org
 epac.to
 epic.network
 epicbrowser.com
@@ -16144,6 +16148,7 @@ ghbi.ir
 ghcr.io
 ghettotube.com
 ghidra-sre.org
+ghostarchive.org
 ghostery.com
 ghostgames.com
 ghostme.org
@@ -23553,6 +23558,7 @@ memcpy.io
 meme111.com
 memealerts.com
 memehk.com
+mementoweb.org
 memes.com
 memes.tw
 memeyou.net

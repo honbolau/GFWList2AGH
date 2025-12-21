@@ -14424,6 +14424,8 @@ dmgbet.com
 dmgmediaprivacy.co.uk
 dmhk.net
 dmhy.org
+dmit.io
+dmit.sh
 dmixtv.com
 dmixtv.site
 dmkp4o0o0bc6a.cloudfront.net
@@ -15261,6 +15263,7 @@ dz6cptgoro33r.cloudfront.net
 dzb086.com
 dzb088.com
 dzbapp.com
+dzcdn.net
 dzcp3555.com
 dzcp8999.com
 dzen.ru
@@ -16069,6 +16072,7 @@ enwp.org
 enya.com
 eo.demerzel.org
 eogli.org
+eotarchive.org
 epac.to
 epaper.heeact.edu.tw
 epaper.wsj-asia.com
@@ -19492,6 +19496,7 @@ ghcr.io
 ghettotube.com
 ghidra-sre.org
 ghost-18763825.firebaseio.com
+ghostarchive.org
 ghostery.com
 ghostgames.com
 ghostme.org
@@ -28307,6 +28312,7 @@ meme111.com
 memealerts.com
 memedia.cn
 memehk.com
+mementoweb.org
 memes.com
 memes.tw
 memeyou.net
