@@ -2157,7 +2157,6 @@
 148com.com
 148la.com
 14944.net
-1495c8.com
 14a417717147fec7593007265cd0dd60.safeframe.googlesyndication.com
 14e9171248b89c81158fa57479aec5d0.safeframe.googlesyndication.com
 14febc4b4c44577cf31224c86a506cd0.safeframe.googlesyndication.com
@@ -8767,7 +8766,6 @@
 626china.org
 626x.com
 628.com
-628536nyv.com
 62923.vip
 629961.shop.258.com
 629973.com
@@ -16893,7 +16891,6 @@ antutu.net
 antvr.com
 antwork.link
 antzk.com
-anviettek.com
 anw.red
 anw8.com
 anweilan.com
@@ -74006,6 +74003,7 @@ jamalube.net
 jamcz.com
 jameschan.info
 jamidol.com
+jamms.org
 jammyfm.com
 jampotgames.com
 janbao.net
@@ -77900,7 +77898,6 @@ js96777.com
 js99cf.com
 jsadkg.com
 jsadsdisplay.cn-beijing.log.aliyuncs.com
-jsadt.com
 jsaeit.com
 jsaes.com
 jsafc.net

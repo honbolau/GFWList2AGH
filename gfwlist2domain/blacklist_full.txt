@@ -38843,6 +38843,7 @@ static.fun
 static.googleusercontent.com
 static.iwincdn.com
 static.palgrave.com
+static.pocketcasts.com
 static.pubu.tw
 static.shemalez.com
 static.siege-amazon.com
