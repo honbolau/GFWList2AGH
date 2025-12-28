@@ -16104,6 +16104,7 @@ gfw.press
 gfw.report
 gfw.wtf
 gfwatch.org
+gfwbao.com
 gfwvpn.com
 gfx.ms
 gfx47.com
@@ -32493,6 +32494,7 @@ steamdb.info
 steamdeck.com
 steamedfish.org
 steamgames.com
+steamladder.com
 steamoe.com
 steamofporn.com
 steampowered.com

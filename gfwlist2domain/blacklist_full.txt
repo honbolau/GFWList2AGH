@@ -14568,7 +14568,6 @@ docleradn.com
 doclercdn.com
 docs-examples.firebaseio.com
 docs.com
-docs.deno.com
 docs.kali.org
 docs.new
 docs.rs
@@ -19447,6 +19446,7 @@ gfw.press
 gfw.report
 gfw.wtf
 gfwatch.org
+gfwbao.com
 gfwvpn.com
 gfx.ms
 gfx47.com
@@ -38907,6 +38907,7 @@ steamdb.info
 steamdeck.com
 steamedfish.org
 steamgames.com
+steamladder.com
 steammobile.akamaized.net
 steamoe.com
 steamofporn.com
