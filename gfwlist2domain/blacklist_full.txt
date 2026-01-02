@@ -5881,6 +5881,7 @@ arewereadyyet.com
 arexv.com
 areyouawesome.net84.net
 areyoucreditwise.com
+argo-bdp.com
 argotunnel.com
 aria.ms
 arieltorres.com.ar
@@ -6922,6 +6923,7 @@ bandcamp.com
 bandgirlz.com
 bandpage.com
 bandwagonhost.com
+bang-dream.com
 bang-movies.com
 bangbros.com
 bangbrosfreetrial.com
@@ -9547,6 +9549,17 @@ burstly.net
 burstlyrewards.com
 burubudur.com
 busayari.com
+bushi-navi.com
+bushimo.jp
+bushiroad-creative.com
+bushiroad-global-online-store.com
+bushiroad-move.com
+bushiroad-music.com
+bushiroad-store.com
+bushiroad-works.com
+bushiroad.co.jp
+bushiroad.com
+bushiroadgames.com
 business-humanrights.org
 business-i.jp
 business-standard.com
@@ -10677,6 +10690,7 @@ cetsedu.org
 cevin.me
 cex.io
 cf-ipfs.com
+cf-vanguard.com
 cf.gs
 cf0009.com
 cf5.herokuapp.com
@@ -11788,6 +11802,7 @@ coinexchange.io
 coinf.com.mx
 coingecko.com
 coingi.com
+coinglass.com
 coinic.com
 coinmap.org
 coinmarketcap.com
@@ -11947,9 +11962,11 @@ comfy.org
 comfyci.org
 comfyregistry.org
 comhealth.xyz
+comic-growl.com
 comic-mega.me
 comicat.org
 comicbox.xyz
+comicbushi-web.com
 comiccb.com
 comicscartoonporn.com
 comicsporno.es
@@ -13136,6 +13153,7 @@ d3zww.com
 d42i.r5.cr.rs
 d4508d6vomz2p.cloudfront.net
 d4b2zqvgah5lo.cloudfront.net
+d4dj-pj.com
 d50vnmvifp2bs.cloudfront.net
 d5355.com
 d5522.com
@@ -14846,6 +14864,7 @@ dreamhost.com
 dreamland.im
 dreammovies.com
 dreamofsky.com
+dreamorder.com
 dreamround.com
 dreamteamfc.com
 dreamtoplay.com
@@ -17266,6 +17285,7 @@ fburl.com
 fbvpn.com
 fbwat.ch
 fbworkmail.com
+fc-buddyfight.com
 fc.iwant-in.net
 fc00.io
 fc02.com
@@ -19255,6 +19275,7 @@ geilegratisporno.com
 geileomas.com
 geinoueroch.com
 gekikame.com
+gekkan-bushi.com
 gelbooru.com
 gelbooru.me
 gelbooru.wjcodes.com
@@ -21368,6 +21389,7 @@ hiapphere.com
 hibank24.com
 hibdontire.com
 hibet.com
+hibiki-cast.jp
 hicairo.com
 hicam.net
 hiccears.com
@@ -21438,6 +21460,7 @@ hihistory.net
 hiitch.com
 hijabilicious.com
 hikinggfw.org
+hikosen.co.jp
 hilive.tv
 hiload.com
 hilostripper.com
@@ -22940,6 +22963,7 @@ ihsd-mp4.pics
 ihsdav.cc
 iht.com
 ihteam.net
+ihush.com
 ii-i.org
 ii36.net
 ii383.net
@@ -25193,6 +25217,7 @@ jugendratlyss.ch
 juggsjoy.com
 jugu-test2.firebaseio.com
 juhachibank.co.jp
+juhuaren.com
 juiceced.xyz
 juicestore.tw
 juicyads.com
@@ -31176,6 +31201,8 @@ njactb.org
 njal.la
 njav.tv
 njavtv.com
+njpw.co.jp
+njpw1972.com
 njuice.com
 nke6.com
 nknews.com
@@ -33041,6 +33068,7 @@ pdf.new
 pdncommunity.com
 pdproxy.com
 pds.nasa.gov
+pdst.fm
 pdxbmw.com
 peace.ca
 peacech.hopto.org
@@ -35492,6 +35520,7 @@ reastatic.net
 reaxys.com
 rebates.jp
 rebatesrule.net
+rebirth-fy.com
 reborn.fi
 reboyc.com
 rebrandly.com
@@ -35727,6 +35756,7 @@ revocationcheck.com
 revolution-news.com
 revolutionradiomiami.com
 revolv.com
+revuestarlight.com
 revver.com
 reward.ggcarry888.com
 rewrite-anime.tv
@@ -37305,6 +37335,7 @@ shadowsocks.se
 shadowsocks.to
 shadowsocksr.hk
 shadowsocksr.vip
+shadowverse-evolve.com
 shadowvpn.org
 shadowx.win
 shafaqna.com
@@ -42298,6 +42329,7 @@ uo.com
 uocn.groupsite.com
 uocn.org
 uoherald.com
+up.audio
 up.live
 up01.cc
 upbit.com
@@ -45136,6 +45168,8 @@ writelonger.com
 writer.zoho.com
 writesonic.com
 wrn.org
+ws-blau.com
+ws-tcg.com
 ws.dnsmail.xyz
 ws.dnsserv.xyz
 ws.domain888.pw
@@ -45400,6 +45434,7 @@ wwis-dubc1-vip97.adobe.com
 wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 wwitv.com
+wwr-stardom.com
 wwtbam.com
 www-19119.com
 www-70911a.com
