@@ -4280,6 +4280,7 @@ ai.dev
 ai.google
 ai.google.dev
 ai.ls
+ai.studio
 ai4t.com
 ai7995.site
 ai91porn.cc
@@ -32311,6 +32312,7 @@ oogate.com
 ooguy.com
 oojj.de
 ookangzheng.com
+ooni.io
 ooni.org
 ooo-sex.com
 ooo16.net
@@ -36264,6 +36266,7 @@ rustup.rs
 rusvpn.com
 ruten.com.tw
 rutnerspazzacamino.ch
+rutor.info
 rutor.org
 rutracker.cc
 rutracker.cr
@@ -36271,7 +36274,6 @@ rutracker.me
 rutracker.net
 rutracker.nl
 rutracker.org
-rutrecker.net
 rutrk.org
 rutube.ru
 rutubelist.ru
@@ -50546,6 +50548,7 @@ xcafe.com
 xcafe.in
 xcams.com
 xcams4u.com
+xcancel.com
 xcegwjimj.com
 xcg123.com
 xchina.co
