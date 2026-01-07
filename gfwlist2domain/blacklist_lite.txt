@@ -25832,6 +25832,15 @@ ngeo.com
 nginx.com
 nginx.org
 nginxconfig.io
+ngrok-free.app
+ngrok-free.dev
+ngrok-free.pizza
+ngrok.app
+ngrok.com
+ngrok.dev
+ngrok.io
+ngrok.pizza
+ngrok.pro
 nguyentandung.org
 nhance.com
 nhentai.com
@@ -27954,6 +27963,8 @@ ping.fm
 ping.pe
 ping.sx
 pingguotv.xyz
+pinggy.io
+pinggy.link
 pingproxy.com
 pingsky.ir
 pingxiangpuer.com
