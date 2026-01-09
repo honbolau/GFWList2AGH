@@ -5422,6 +5422,7 @@ auth0.com
 authorizeddns.net
 authorizeddns.org
 authorxml.com
+authpass.app
 authy.com
 auto-aufladen.de
 auto0391.com
@@ -7012,6 +7013,7 @@ bingparachute.com
 bingsandbox.com
 bingvisualsearch.com
 bingworld.com
+bingx.com
 binoculus.com
 bintray.com
 binux.me
@@ -16029,6 +16031,7 @@ genshinlab.com
 gentoo.org
 genyt.net
 geo.tv
+geobasket.ru
 geocen.org
 geocities.com
 geocities.jp
@@ -22267,6 +22270,7 @@ letsencrypt.com
 letsencrypt.org
 letsfuckme.net
 letsjerk.cc
+letsmoveforabetterworld.com
 lettherebeporn.com
 letv311.net
 letwatch.us
@@ -25592,6 +25596,7 @@ netcup.net
 netdna-cdn.com
 netdna-ssl.com
 netfapx.com
+netfilter.org
 netfirms.com
 netflav.com
 netflav1.com
@@ -25821,12 +25826,14 @@ nfsc.global
 nfscdict.com
 nfscofficial.com
 nfsworld.com
+nftables.org
 nftstatic.com
 nftstorage.link
 ng.mil
 nga.mil
 ngan.ml
 ngdproject.com
+ngenix.net
 ngensis.com
 ngeo.com
 nginx.com
@@ -27617,6 +27624,7 @@ payppal.com
 payroll.com
 payserve.com
 paysitesreviews.net
+paywb.com
 payypal.com
 payza.org
 pbabes.com
@@ -30023,6 +30031,7 @@ restauranticos.com
 restofworld.org
 restoreprivacy.com
 restorerpvision.com
+restream-media.net
 resumebear.com
 resumerighters.com
 rethink.fr
@@ -30408,6 +30417,7 @@ ruvpn.top
 ruyiseek.com
 rv55.com
 rwaitkus.com
+rwb.ru
 rwdxtv.com
 rwin88.com
 rwsentosa.com
@@ -33468,6 +33478,11 @@ techhub.ms
 techliquidators.com
 technics.com
 technik-specials.de
+technogym.bg
+technogym.ch
+technogym.com
+technogym.ru
+technogym.su
 technologyandsociety.org
 technorati.com
 techradar.com
@@ -37116,14 +37131,18 @@ waybackmachine.org
 waybig.com
 waymo.com
 waze.com
+wb-basket.ru
+wb.ru
 wb888.net
 wbagora.com
 wballiance.com
+wbbasket.ru
 wbd.ms
 wbdnbo.net
 wbet1111.com
 wbgames.com
 wbinsights.com
+wbpay.ru
 wbvm4s.com
 wby118.com
 wbyl058.com
@@ -37295,6 +37314,7 @@ welcometopurgatory.ca
 welcomix.com
 wellfuckedwife.com
 wellmaturetube.com
+wellnessinstitute.com
 wellplacedpixels.com
 welovecock.com
 welsmann.com
@@ -37445,6 +37465,7 @@ whyx.org
 wi-fi.org
 wi55.gq
 wi55.tk
+wibes.ru
 wicked.com
 wickedin.it
 wickedpictures.com
@@ -37573,6 +37594,7 @@ wingamestore.com
 wingy.site
 winhec.com
 winhec.net
+wink.ru
 winndixie.com
 winner-bet.net
 winning11.com
