@@ -8112,6 +8112,7 @@ brourou.com
 brovpn.io
 browse007.com
 browsec.com
+browser.run
 browsercam.com
 browserleaks.com
 brsbox.com
@@ -9236,6 +9237,7 @@ cfan.xyz
 cfargotunnel.com
 cfblob.com
 cfd-tv.com
+cfdata.org
 cfdesign.com
 cff888.com
 cfl.re
@@ -9863,25 +9865,33 @@ cloudflare-esni.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
+cloudflare-terms-of-service-abuse.com
 cloudflare.com
+cloudflare.dev
 cloudflare.tv
 cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
+cloudflarebrowser.com
+cloudflarechallenge.com
 cloudflareclient.com
+cloudflarecp.com
 cloudflareinsights.com
 cloudflareok.com
 cloudflarepartners.com
 cloudflareportal.com
 cloudflarepreview.com
 cloudflareregistrar.com
+cloudflareresearch.com
 cloudflareresolve.com
 cloudflaressl.com
 cloudflarestatus.com
 cloudflarestorage.com
 cloudflarestream.com
+cloudflaresupport.com
 cloudflaretest.com
 cloudflarewarp.com
+cloudflareworkers.com
 cloudfoundry.com
 cloudfront.com
 cloudfront.net
@@ -13161,6 +13171,7 @@ enbank.ir
 enca.com
 encoretvb.com
 encrypt.me
+encryptedsni.com
 encuentroscasualesoecuador.com
 encyclopedia.com
 encyclopedia.tw
@@ -13429,6 +13440,7 @@ espn.com
 espn.net
 espncdn.com
 espnqa.com
+esports.gg
 esposasymaridos.com
 esri.com
 est-a-la-masion.com
@@ -15780,6 +15792,7 @@ game456.net
 game735.com
 game88city.com
 game88city.net
+gameapps.hk
 gamebeforethegame.com
 gamebiz.jp
 gamebreak.com
@@ -19094,6 +19107,7 @@ ig.com
 ig.me
 igaychat.com
 igayporn.tv
+igcc.jp
 igcd.net
 igcdn.com
 ige.es
@@ -23115,6 +23129,7 @@ maiahoje.pt
 maicloud.io
 maicloud.me
 maicloud.vip
+maidonanews.jp
 maiio.net
 maikou.com
 mail-archive.com
@@ -24474,6 +24489,7 @@ moe-li.com
 moe2.ga
 moeacg.cc
 moebox.moe
+moedigi.com
 moeero-library.com
 moeerolibrary.com
 moefuns.co
@@ -25202,6 +25218,7 @@ mymmode.com
 mymoe.moe
 mymom.info
 mymusclevideo.com
+mynavi.jp
 mynetav.net
 mynetav.org
 mynetname.net
@@ -30008,6 +30025,7 @@ repaik.com
 repe21.com
 repo.new
 reporter.bz
+repotama.com
 repsils.no
 repsneakermall.com
 repswing.com
@@ -32373,6 +32391,7 @@ spys.ru
 sqlite.org
 sqlserveronlinux.com
 sqlspace.com
+sqool.net
 squ1.com
 squadbusters.com
 squarecapital.com
@@ -33324,6 +33343,7 @@ tamiaode.tk
 tamilsexvideos.cc
 tammieszkam.pl
 tampabay.com
+tampermonkey.net
 tamtam.chat
 tanc.org
 tandberg-china.com
@@ -34556,6 +34576,7 @@ townofsins.com
 toxin-up.sbs
 toxinzoo.sbs
 toy-cadcam.com
+toy-people.com
 toycadcam.com
 toypark.in
 toythieves.com

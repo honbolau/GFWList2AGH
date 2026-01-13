@@ -9459,6 +9459,7 @@ brovpn.io
 browse007.com
 browsec.com
 browser.kagi.com
+browser.run
 browsercam.com
 browserleaks.com
 brsbox.com
@@ -10770,6 +10771,7 @@ cfan.xyz
 cfargotunnel.com
 cfblob.com
 cfd-tv.com
+cfdata.org
 cfdesign.com
 cff888.com
 cfhks.org.hk
@@ -11527,26 +11529,34 @@ cloudflare-esni.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
+cloudflare-terms-of-service-abuse.com
 cloudflare.com
+cloudflare.dev
 cloudflare.net
 cloudflare.tv
 cloudflareaccess.com
 cloudflareapps.com
 cloudflarebolt.com
+cloudflarebrowser.com
+cloudflarechallenge.com
 cloudflareclient.com
+cloudflarecp.com
 cloudflareinsights.com
 cloudflareok.com
 cloudflarepartners.com
 cloudflareportal.com
 cloudflarepreview.com
 cloudflareregistrar.com
+cloudflareresearch.com
 cloudflareresolve.com
 cloudflaressl.com
 cloudflarestatus.com
 cloudflarestorage.com
 cloudflarestream.com
+cloudflaresupport.com
 cloudflaretest.com
 cloudflarewarp.com
+cloudflareworkers.com
 cloudfoundry.com
 cloudfront.com
 cloudfront.glb.cellopoint.com
@@ -16062,6 +16072,7 @@ enbank.ir
 enca.com
 encoretvb.com
 encrypt.me
+encryptedsni.com
 encuentroscasualesoecuador.com
 encyclopedia.com
 encyclopedia.thefreedictionary.com
@@ -16408,6 +16419,7 @@ espn.net
 espncdn.com
 espndotcom.tt.omtrdc.net
 espnqa.com
+esports.gg
 esports.ggcarry888.com
 esposasymaridos.com
 esri.com
@@ -19046,6 +19058,7 @@ game456.net
 game735.com
 game88city.com
 game88city.net
+gameapps.hk
 gamebase.com.tw
 gamebeforethegame.com
 gamebiz.jp
@@ -19056,6 +19069,7 @@ gameclient.ebacc777.com
 gamecopyworld.com
 gamedownloads-rockstargames-com.akamaized.net
 gamedun.github.io
+gamefocus.co.kr
 gameguardian.net
 gamejolt.com
 gamelore.fun
@@ -23029,6 +23043,7 @@ ig.com
 ig.me
 igaychat.com
 igayporn.tv
+igcc.jp
 igcd.net
 igcdn.com
 ige.es
@@ -27725,6 +27740,7 @@ maiahoje.pt
 maicloud.io
 maicloud.me
 maicloud.vip
+maidonanews.jp
 maiio.net
 maikou.com
 mail-archive.com
@@ -29371,6 +29387,7 @@ moe2.ga
 moeacg.cc
 moeaic.gov.tw
 moebox.moe
+moedigi.com
 moeero-library.com
 moeerolibrary.com
 moefuns.co
@@ -30191,6 +30208,7 @@ mymoe.moe
 mymom.info
 mymusclevideo.com
 mymusic.net.tw
+mynavi.jp
 mynetav.net
 mynetav.org
 mynetname.net
@@ -32354,6 +32372,7 @@ openamt.com
 openapiplatform.com
 openapiservice.com
 openart.ai
+openbook.org.tw
 opencas.io
 opencollective.com
 opencreate.org
@@ -35818,6 +35837,7 @@ repo.new
 report4you.com.au
 reporter.bz
 repostone.home.blog
+repotama.com
 repsils.no
 repsneakermall.com
 repswing.com
@@ -38712,6 +38732,7 @@ sq.itimemachine.net
 sqlite.org
 sqlserveronlinux.com
 sqlspace.com
+sqool.net
 squ1.com
 squadbusters.com
 square-jbty.scgpbl.cn
@@ -39883,6 +39904,7 @@ tamiaode.tk
 tamilsexvideos.cc
 tammieszkam.pl
 tampabay.com
+tampermonkey.net
 tamtam.chat
 tan.flnet.org
 tanc.org
@@ -41331,6 +41353,7 @@ townsvillebulletin.com.au
 toxin-up.sbs
 toxinzoo.sbs
 toy-cadcam.com
+toy-people.com
 toycadcam.com
 toyobank.co.jp
 toypark.in
