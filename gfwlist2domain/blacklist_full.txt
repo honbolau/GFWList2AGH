@@ -5270,7 +5270,9 @@ anticcp.net
 antichristendom.com
 antiek.com
 antigfw.weebly.com
+antigravity-pa.googleapis.com
 antigravity.google
+antigravity.googleapis.com
 antiprism.ca
 antiq.com
 antisocial.science
@@ -11510,12 +11512,14 @@ cloud.myscript.com
 cloud.ntpc.gov.tw
 cloud.oracle.com
 cloud8521.tk
+cloudaicompanion.googleapis.com
 cloudapp.net
 cloudappsecurity.com
 cloudboost.io
 cloudburstresearch.com
 cloudc.one
 cloudchoose.com
+cloudcode-pa.googleapis.com
 cloudcone.com
 cloudcone.net
 cloudconvert.com
@@ -13318,6 +13322,7 @@ daikynguyenvn.com
 dailey1.net
 daili.me
 daili.zquanzi.com
+daily-cloudcode-pa.googleapis.com
 dailybasis.com
 dailydalailama.com
 dailyecho.co.uk
@@ -14208,6 +14213,7 @@ dilidili.wang
 dililitv.com
 dimassatrio.web.id
 dimnhsinmkdwq.cloudfront.net
+dinopoloclub.com
 dinotube.com
 dinsound.net
 dio168.shmyf.com
@@ -29354,6 +29360,7 @@ mobileview.page
 mobilevrxxx.com
 mobileways.de
 mobily.com.sa
+mobimon.com.tw
 mobmyanmar.com
 mobogenie.com
 moby.to
@@ -31473,7 +31480,9 @@ notary-submissions-prod.s3.us-west-2.amazonaws.com
 notary.net
 notblocked.telex.cc
 note.com
+notebooklm-pa.googleapis.com
 notebooklm.google
+notebooklm.googleapis.com
 notepad-plus-plus.org
 notheroes.com
 nothinghere.tk
@@ -31523,6 +31532,7 @@ nowtorrents.com
 nowtv.now.com
 nowvue.live
 noxinfluencer.com
+noxygames.com
 noyavpn.com
 noypf.com
 nozakikun.tv
@@ -35497,6 +35507,8 @@ rawgithub.com
 rawstory.com
 rawtube.com
 rayanet.com
+rayark.download
+rayark.net
 rayer.idv.tw
 raynus.top
 razer.com
