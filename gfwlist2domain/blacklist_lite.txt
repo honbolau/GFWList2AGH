@@ -31619,6 +31619,8 @@ signbucks.com
 signify.net
 sigops.org
 sigopt.com
+sih-db.com
+sih.app
 sijie.wang
 sijihuisuo.club
 sijihuisuo.com
@@ -32666,6 +32668,7 @@ steamdb.info
 steamdeck.com
 steamedfish.org
 steamgames.com
+steaminventoryhelper.com
 steamladder.com
 steamoe.com
 steamofporn.com

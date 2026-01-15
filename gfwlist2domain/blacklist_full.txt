@@ -37823,6 +37823,8 @@ signupv2.popmediainc.com
 sigops.org
 sigopt.com
 sigupdates.marshal.com
+sih-db.com
+sih.app
 sijie.wang
 sijihuisuo.club
 sijihuisuo.com
@@ -39111,6 +39113,7 @@ steamdb.info
 steamdeck.com
 steamedfish.org
 steamgames.com
+steaminventoryhelper.com
 steamladder.com
 steammobile.akamaized.net
 steamoe.com
