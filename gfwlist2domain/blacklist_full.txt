@@ -4449,6 +4449,7 @@ akamai-thailand.net
 akamai-trials.com
 akamai.co.kr
 akamai.net
+akamai.tvb.com
 akamaiedge.net
 akamaientrypoint.net
 akamaietpcnctest.com
@@ -5205,7 +5206,10 @@ ankarazirvesi2018.com
 anm.co.uk
 anmtvla.com
 annamilk.com
+annas-archive.in
+annas-archive.li
 annas-archive.org
+annas-archive.pm
 annas-archive.se
 annatam.com
 anne66.com
@@ -7085,6 +7089,7 @@ battleforcecomix.com
 battlefront2.com
 battlefrontii.com
 battlelog.com
+battleye.com
 baumann-solutions.de
 bawimydzieci.pl
 baxsound.com
@@ -26048,6 +26053,7 @@ kqes.net
 kr.neoz.club
 kr1.hkts.win
 krabbenspringen.de
+kraftonde.com
 kraken.com
 kraken.onl
 krakenjs.com
@@ -33780,6 +33786,7 @@ playapex.com
 playartifact.com
 playbabies.net
 playbar.biz
+playbattlegrounds.com
 playbeasts.com
 playboy.com
 playboy.com.uk
@@ -34917,6 +34924,8 @@ pu9900.com
 pu9955.com
 pub.dev
 puba.com
+pubg.com
+pubg1.battleye.com
 publiabril.abril.com.br
 public-sex-porn.com
 public-trust.com
