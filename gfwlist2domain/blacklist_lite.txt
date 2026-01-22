@@ -16040,6 +16040,7 @@ geocen.org
 geocities.com
 geocities.jp
 geodesummit.com
+geogebra.org
 geolytics.com
 geometrica.ca
 geometrica.net
@@ -37502,6 +37503,7 @@ wiiugamepad.com
 wiivc.net
 wikaba.com
 wikawika.xyz
+wiki.gg
 wiki2.org
 wiki22.ml
 wiki22.tk
@@ -37732,6 +37734,7 @@ wokar.org
 wolfatbestbuy.com
 wolfatbestbuy.net
 wolfax.com
+wolframalpha.com
 wolfsex-me.sbs
 wolislaw.com
 wolterskluwer.com
