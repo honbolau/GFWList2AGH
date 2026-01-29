@@ -5110,6 +5110,8 @@ arkoselabs.com
 arkpay.site
 arlen.io
 arlingtoncemetery.mil
+arma3.com
+armaplatform.com
 armovs.com
 army.mil
 arnoldrenderer.com
@@ -7045,6 +7047,7 @@ birdbeep.net
 birdhouseapp.com
 bisq.io
 bisq.network
+bistudio.com
 bit-z.com
 bit.do
 bit.ly
@@ -7814,6 +7817,7 @@ bog811.com
 bognmb.com
 bogou188.com
 bogus.com
+bohemia.net
 boingboing.net
 boizoe.gq
 boizoe.ml
@@ -10587,6 +10591,7 @@ crisisresponse.google
 cristyli.com
 crit-staging.com
 critiquebrainz.org
+crixet.com
 crmdynint-gcc.com
 crmdynint.com
 crocoguide.com
@@ -11164,6 +11169,7 @@ daylife.com
 dayoneapp.com
 daytonbmw.com
 daytontrucktires.com
+dayz.com
 dazhi500.com
 dazn-api.com
 dazn.com
@@ -23148,6 +23154,7 @@ maizhong.org
 majorschampionships.com
 makaan.com
 makeanything.com
+makearmanotwar.com
 makebettercode.com
 makecode.org
 makeitopen.com
@@ -31623,6 +31630,7 @@ sikiswap.com
 sikucyclopedia.com
 silentboy.us
 silenus.it
+silicagame.com
 silicon-mobility.com
 siliconmobility.com
 silk.co
@@ -36158,6 +36166,7 @@ viewgals.com
 viewpointsfromfacebook.com
 viewxtv.com
 viewyoutube.net
+vigorgame.com
 vijayatemple.org
 vikiporn.com
 vilanet.me
@@ -39342,6 +39351,7 @@ yl3344.org
 yl5500.org
 yl7.com
 yl8.com
+ylands.com
 ylg111.com
 ylg20.com
 ylg30.com

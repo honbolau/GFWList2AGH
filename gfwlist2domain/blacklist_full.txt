@@ -5924,6 +5924,8 @@ arkoselabs.com
 arkpay.site
 arlen.io
 arlingtoncemetery.mil
+arma3.com
+armaplatform.com
 armovs.com
 army.mil
 arnoldrenderer.com
@@ -6869,6 +6871,7 @@ baccew.com
 bachelorsgrove.org
 backchina.com
 backdoorlesbians.com
+backend-v2.crixet.com
 backend.wb888.net
 backpackers.com.tw
 backroomcastingcouch.com
@@ -8077,6 +8080,7 @@ birdbeep.net
 birdhouseapp.com
 bisq.io
 bisq.network
+bistudio.com
 bisyoujyogyaruge.topaz.ne.jp
 bit-z.com
 bit.biz.st
@@ -9055,6 +9059,7 @@ bognmb.com
 bogou188.com
 bogus.com
 bogusx.idv.tw
+bohemia.net
 boingboing.net
 boizoe.gq
 boizoe.ml
@@ -12338,6 +12343,7 @@ crisisresponse.google
 cristyli.com
 crit-staging.com
 critiquebrainz.org
+crixet.com
 crl.microsoft.com
 crl.versign.net
 crmdynint-gcc.com
@@ -13465,6 +13471,7 @@ daylife.com
 dayoneapp.com
 daytonbmw.com
 daytontrucktires.com
+dayz.com
 dazdu2iuzl72b.cloudfront.net
 dazhi500.com
 dazn-api.com
@@ -27711,6 +27718,7 @@ majorschampionships.com
 mak.com.au
 makaan.com
 makeanything.com
+makearmanotwar.com
 makebettercode.com
 makecode.org
 makeitopen.com
@@ -32256,6 +32264,7 @@ open.spotify.com
 openai.com
 openaiapi-site.azureedge.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 openaked.com
 openallweb.com
@@ -37695,6 +37704,7 @@ sikiswap.com
 sikucyclopedia.com
 silentboy.us
 silenus.it
+silicagame.com
 silicon-mobility.com
 siliconmobility.com
 silk.co
@@ -43137,6 +43147,7 @@ viewmorepics.myspace.com
 viewpointsfromfacebook.com
 viewxtv.com
 viewyoutube.net
+vigorgame.com
 vijayatemple.org
 vikiporn.com
 vilanet.me
@@ -51765,6 +51776,7 @@ yl3344.org
 yl5500.org
 yl7.com
 yl8.com
+ylands.com
 ylg111.com
 ylg20.com
 ylg30.com

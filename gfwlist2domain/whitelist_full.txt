@@ -17253,6 +17253,7 @@ aod-image-material.cdn.bcebos.com
 aod-image-material.cdn.bcebos.com.a.bdydns.com
 aod-image.baidu.com
 aod-image.baidu.com.a.bdydns.com
+aod-ssl.itunes.apple.com
 aod-video-antusheng.cdn.bcebos.com
 aod-wushuang-video.cdn.bcebos.com
 aod.cos.tx.xmcdn.com
