@@ -9444,6 +9444,7 @@ bs-adreview.com
 bs-awh.ne.jp
 bs6898.com
 bs919.com
+bsappapi.com
 bsdrp.net
 bsi.ir
 bsky.app
@@ -32690,6 +32691,7 @@ pacifickitchenandhome.com
 pacificpoker.com
 pacificquorum.com
 packages.kognito.com
+packages.microsoft.com
 packaging-cadcam.com
 packagingcadcam.com
 packagist.org
@@ -33625,6 +33627,7 @@ pjjtvip.com
 pjmedia.com
 pjorn.com
 pjpautos.com
+pjsekai.sega.jp
 pk-bbins.com
 pk.com
 pki-post.ch
@@ -36948,6 +36951,7 @@ seevpn.com
 seezone.net
 sef.idv.tw
 sef.org.tw
+sega.jp
 sego8.cc
 sego8.co
 sego8.xyz
@@ -39726,6 +39730,7 @@ taiav.com
 taigi.pts.org.tw
 tail-f.com
 tailf.com
+tails.net
 tailscale.com
 tailscale.io
 tailwindtraders.com

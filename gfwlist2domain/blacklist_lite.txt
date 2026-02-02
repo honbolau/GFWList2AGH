@@ -8137,6 +8137,7 @@ bryce.ws
 bs-adreview.com
 bs6898.com
 bs919.com
+bsappapi.com
 bsdrp.net
 bsi.ir
 bsky.app
@@ -30957,6 +30958,7 @@ seesmic.com
 seeurlpcl.com
 seevpn.com
 seezone.net
+sega.jp
 sego8.cc
 sego8.co
 sego8.xyz
@@ -33296,6 +33298,7 @@ tagxedo.com
 taiav.com
 tail-f.com
 tailf.com
+tails.net
 tailscale.com
 tailscale.io
 tailwindtraders.com
