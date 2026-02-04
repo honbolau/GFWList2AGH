@@ -11913,7 +11913,6 @@ com.bo
 com.bs
 com.by
 com.bz
-com.co
 com.com
 com.cu
 com.cy
@@ -36397,6 +36396,7 @@ sale-nikeshoes.com
 salebeatslasteststyle4you.com
 saleblackfridaydrebeats.com
 salecheaphandbags.com
+salesforce-setup.com
 salesforce.com
 salesforce.org
 salesforceiq.com
