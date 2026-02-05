@@ -32475,6 +32475,7 @@ oskay.web.tr
 osl.com
 osm.org
 osm.tw
+osmand.net
 osmfoundation.org
 osorhan.com
 ospray.net
@@ -47764,6 +47765,7 @@ www.hottg.com
 www.houseoffreedom.org
 www.howbbs.com
 www.howfile.com
+www.hoyolab.com
 www.hpxy.net
 www.hrea.org
 www.hrweb.org
